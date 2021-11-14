@@ -1,0 +1,1302 @@
+﻿Log file open, 11/14/21 21:51:23
+LogInit: LLM is enabled
+LogInit: LLM CsvWriter: off TraceWriter: off
+LogInit: Display: Running engine for game: StrandedTogether
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.259745
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +2:00, Platform Override: ''
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin EditorScriptingUtilities
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GLTFImporter
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin DataprepEditor
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin DatasmithGLTFImporter
+LogPluginManager: Mounting plugin DatasmithImporter
+LogPluginManager: Mounting plugin StaticMeshEditorExtension
+LogPluginManager: Mounting plugin VariantManager
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin BlastPlugin
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.26-CL-15973114
+LogInit: Engine Version: 4.26.2-15973114+++UE4+Release-4.26
+LogInit: Compatible Engine Version: 4.26.0-14830424+++UE4+Release-4.26
+LogInit: Net CL: 14830424
+LogInit: OS: Windows 10 (Release 2009) (), CPU: Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz, GPU: Intel(R) HD Graphics 630
+LogInit: Compiled (64-bit): Apr 12 2021 06:14:10
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.26
+LogInit: Command Line:  -EpicPortal -epicusername=DreamThunder -epicuserid=03e08dc875704127a5d8897083f65dd3 -epiclocale=en -epicsandboxid=ue
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.26/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 44
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 43
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 40
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Dreamtyt/Desktop/GitHub/GamersBot/OneShot/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2021.11.14-19.51.24:182][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2021.11.14-19.51.24:182][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2021.11.14-19.51.24:182][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/Dreamtyt/Desktop/GitHub/GamersBot/OneShot/Saved/Config/Windows/Engine.ini]
+[2021.11.14-19.51.24:182][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2021.11.14-19.51.24:182][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/Dreamtyt/Desktop/GitHub/GamersBot/OneShot/Saved/Config/Windows/Engine.ini]
+[2021.11.14-19.51.24:182][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Dreamtyt/Desktop/GitHub/GamersBot/OneShot/Saved/Config/Windows/Engine.ini]
+[2021.11.14-19.51.24:182][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2021.11.14-19.51.24:182][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2021.11.14-19.51.24:182][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2021.11.14-19.51.24:182][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2021.11.14-19.51.24:182][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2021.11.14-19.51.24:182][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2021.11.14-19.51.24:182][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2021.11.14-19.51.24:182][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2021.11.14-19.51.24:182][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2021.11.14-19.51.24:182][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2021.11.14-19.51.24:182][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2021.11.14-19.51.24:182][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2021.11.14-19.51.24:182][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2021.11.14-19.51.24:182][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2021.11.14-19.51.24:182][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/Dreamtyt/Desktop/GitHub/GamersBot/OneShot/Saved/Config/Windows/Engine.ini]
+[2021.11.14-19.51.24:182][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2021.11.14-19.51.24:182][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2021.11.14-19.51.24:182][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2021.11.14-19.51.24:182][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2021.11.14-19.51.24:182][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2021.11.14-19.51.24:182][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2021.11.14-19.51.24:182][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2021.11.14-19.51.24:182][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2021.11.14-19.51.24:182][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2021.11.14-19.51.24:182][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2021.11.14-19.51.24:182][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2021.11.14-19.51.24:182][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2021.11.14-19.51.24:182][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2021.11.14-19.51.24:182][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2021.11.14-19.51.24:182][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/Dreamtyt/Desktop/GitHub/GamersBot/OneShot/Saved/Config/Windows/Engine.ini]
+[2021.11.14-19.51.24:182][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/Dreamtyt/Desktop/GitHub/GamersBot/OneShot/Saved/Config/Windows/Engine.ini]
+[2021.11.14-19.51.24:211][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Dreamtyt/Desktop/GitHub/GamersBot/OneShot/Saved/Config/Windows/Scalability.ini]
+[2021.11.14-19.51.24:212][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.11.14-19.51.24:212][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.11.14-19.51.24:212][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Dreamtyt/Desktop/GitHub/GamersBot/OneShot/Saved/Config/Windows/Scalability.ini]
+[2021.11.14-19.51.24:212][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.11.14-19.51.24:212][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Dreamtyt/Desktop/GitHub/GamersBot/OneShot/Saved/Config/Windows/Scalability.ini]
+[2021.11.14-19.51.24:212][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.11.14-19.51.24:212][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.11.14-19.51.24:212][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.11.14-19.51.24:212][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.11.14-19.51.24:212][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.11.14-19.51.24:212][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.11.14-19.51.24:212][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.11.14-19.51.24:212][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.11.14-19.51.24:212][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.11.14-19.51.24:212][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.11.14-19.51.24:212][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.11.14-19.51.24:212][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.11.14-19.51.24:212][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.11.14-19.51.24:212][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.11.14-19.51.24:212][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.11.14-19.51.24:212][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.11.14-19.51.24:212][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.11.14-19.51.24:212][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.11.14-19.51.24:212][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Dreamtyt/Desktop/GitHub/GamersBot/OneShot/Saved/Config/Windows/Scalability.ini]
+[2021.11.14-19.51.24:212][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.11.14-19.51.24:212][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.11.14-19.51.24:212][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.11.14-19.51.24:212][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.11.14-19.51.24:212][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.11.14-19.51.24:212][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.11.14-19.51.24:212][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.11.14-19.51.24:212][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.11.14-19.51.24:212][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.11.14-19.51.24:212][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.11.14-19.51.24:212][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.11.14-19.51.24:212][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.11.14-19.51.24:212][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.11.14-19.51.24:212][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.11.14-19.51.24:212][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.11.14-19.51.24:212][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.11.14-19.51.24:212][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.11.14-19.51.24:212][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.11.14-19.51.24:212][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.11.14-19.51.24:212][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.11.14-19.51.24:212][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.11.14-19.51.24:212][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.11.14-19.51.24:212][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.11.14-19.51.24:212][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.11.14-19.51.24:212][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.11.14-19.51.24:212][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.11.14-19.51.24:212][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.11.14-19.51.24:212][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.11.14-19.51.24:212][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.11.14-19.51.24:212][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.11.14-19.51.24:212][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Dreamtyt/Desktop/GitHub/GamersBot/OneShot/Saved/Config/Windows/Scalability.ini]
+[2021.11.14-19.51.24:212][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.11.14-19.51.24:212][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.11.14-19.51.24:212][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.11.14-19.51.24:212][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.11.14-19.51.24:212][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.11.14-19.51.24:212][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.11.14-19.51.24:212][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.11.14-19.51.24:212][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.11.14-19.51.24:212][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.11.14-19.51.24:212][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Dreamtyt/Desktop/GitHub/GamersBot/OneShot/Saved/Config/Windows/Scalability.ini]
+[2021.11.14-19.51.24:212][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.11.14-19.51.24:212][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.11.14-19.51.24:212][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.11.14-19.51.24:212][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.11.14-19.51.24:213][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.11.14-19.51.24:213][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.11.14-19.51.24:213][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.11.14-19.51.24:213][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.11.14-19.51.24:213][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.11.14-19.51.24:213][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.11.14-19.51.24:213][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.11.14-19.51.24:213][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.11.14-19.51.24:213][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.11.14-19.51.24:213][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.11.14-19.51.24:213][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.11.14-19.51.24:213][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.11.14-19.51.24:213][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.11.14-19.51.24:213][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.11.14-19.51.24:213][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.11.14-19.51.24:213][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.11.14-19.51.24:213][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.11.14-19.51.24:213][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.11.14-19.51.24:213][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.11.14-19.51.24:213][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.11.14-19.51.24:213][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.11.14-19.51.24:213][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.11.14-19.51.24:213][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.11.14-19.51.24:213][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Dreamtyt/Desktop/GitHub/GamersBot/OneShot/Saved/Config/Windows/Scalability.ini]
+[2021.11.14-19.51.24:213][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.11.14-19.51.24:213][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.11.14-19.51.24:213][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/Dreamtyt/Desktop/GitHub/GamersBot/OneShot/Saved/Config/Windows/Scalability.ini]
+[2021.11.14-19.51.24:213][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.11.14-19.51.24:213][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.11.14-19.51.24:213][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.11.14-19.51.24:213][  0]LogInit: Selected Device Profile: [Windows]
+[2021.11.14-19.51.24:213][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2021.11.14-19.51.24:213][  0]LogHAL: Display: Platform has ~ 14 GB [14936084480 / 17179869184 / 14], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.11.14-19.51.24:213][  0]LogInit: Going up to parent DeviceProfile []
+[2021.11.14-19.51.24:213][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Dreamtyt/Desktop/GitHub/GamersBot/OneShot/Saved/Config/Windows/Scalability.ini]
+[2021.11.14-19.51.24:213][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.11.14-19.51.24:213][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.11.14-19.51.24:213][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Dreamtyt/Desktop/GitHub/GamersBot/OneShot/Saved/Config/Windows/Scalability.ini]
+[2021.11.14-19.51.24:213][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.11.14-19.51.24:213][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Dreamtyt/Desktop/GitHub/GamersBot/OneShot/Saved/Config/Windows/Scalability.ini]
+[2021.11.14-19.51.24:213][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.11.14-19.51.24:213][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.11.14-19.51.24:213][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.11.14-19.51.24:213][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.11.14-19.51.24:213][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.11.14-19.51.24:213][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.11.14-19.51.24:213][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.11.14-19.51.24:213][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.11.14-19.51.24:213][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.11.14-19.51.24:213][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.11.14-19.51.24:213][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.11.14-19.51.24:213][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.11.14-19.51.24:213][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.11.14-19.51.24:213][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.11.14-19.51.24:213][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.11.14-19.51.24:213][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.11.14-19.51.24:213][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.11.14-19.51.24:213][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.11.14-19.51.24:213][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Dreamtyt/Desktop/GitHub/GamersBot/OneShot/Saved/Config/Windows/Scalability.ini]
+[2021.11.14-19.51.24:213][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.11.14-19.51.24:213][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.11.14-19.51.24:213][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.11.14-19.51.24:213][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.11.14-19.51.24:213][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.11.14-19.51.24:214][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.11.14-19.51.24:214][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.11.14-19.51.24:214][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.11.14-19.51.24:214][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.11.14-19.51.24:214][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.11.14-19.51.24:214][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.11.14-19.51.24:214][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.11.14-19.51.24:214][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.11.14-19.51.24:214][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.11.14-19.51.24:214][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.11.14-19.51.24:214][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.11.14-19.51.24:214][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.11.14-19.51.24:214][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.11.14-19.51.24:214][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.11.14-19.51.24:214][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.11.14-19.51.24:214][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.11.14-19.51.24:214][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.11.14-19.51.24:214][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.11.14-19.51.24:214][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.11.14-19.51.24:214][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.11.14-19.51.24:214][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.11.14-19.51.24:214][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.11.14-19.51.24:214][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.11.14-19.51.24:214][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.11.14-19.51.24:214][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.11.14-19.51.24:214][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Dreamtyt/Desktop/GitHub/GamersBot/OneShot/Saved/Config/Windows/Scalability.ini]
+[2021.11.14-19.51.24:214][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.11.14-19.51.24:214][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.11.14-19.51.24:214][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.11.14-19.51.24:214][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.11.14-19.51.24:214][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.11.14-19.51.24:214][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.11.14-19.51.24:214][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.11.14-19.51.24:214][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.11.14-19.51.24:214][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.11.14-19.51.24:214][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Dreamtyt/Desktop/GitHub/GamersBot/OneShot/Saved/Config/Windows/Scalability.ini]
+[2021.11.14-19.51.24:214][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.11.14-19.51.24:214][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.11.14-19.51.24:214][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.11.14-19.51.24:214][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.11.14-19.51.24:214][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.11.14-19.51.24:214][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.11.14-19.51.24:214][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.11.14-19.51.24:214][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.11.14-19.51.24:214][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.11.14-19.51.24:214][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.11.14-19.51.24:214][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.11.14-19.51.24:214][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.11.14-19.51.24:214][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.11.14-19.51.24:214][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.11.14-19.51.24:214][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.11.14-19.51.24:214][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.11.14-19.51.24:214][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.11.14-19.51.24:214][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.11.14-19.51.24:214][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.11.14-19.51.24:214][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.11.14-19.51.24:214][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.11.14-19.51.24:214][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.11.14-19.51.24:214][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.11.14-19.51.24:214][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.11.14-19.51.24:214][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.11.14-19.51.24:214][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.11.14-19.51.24:214][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.11.14-19.51.24:214][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Dreamtyt/Desktop/GitHub/GamersBot/OneShot/Saved/Config/Windows/Scalability.ini]
+[2021.11.14-19.51.24:214][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.11.14-19.51.24:214][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.11.14-19.51.24:214][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/Dreamtyt/Desktop/GitHub/GamersBot/OneShot/Saved/Config/Windows/Scalability.ini]
+[2021.11.14-19.51.24:214][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.11.14-19.51.24:214][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.11.14-19.51.24:214][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.11.14-19.51.24:215][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2021.11.14-19.51.24:215][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2021.11.14-19.51.24:215][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2021.11.14-19.51.24:215][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2021.11.14-19.51.24:215][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Dreamtyt/Desktop/GitHub/GamersBot/OneShot/Saved/Config/Windows/Engine.ini]
+[2021.11.14-19.51.24:215][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Dreamtyt/Desktop/GitHub/GamersBot/OneShot/Saved/Config/Windows/Editor.ini]
+[2021.11.14-19.51.24:215][  0]LogInit: Computer: DREAMTYT
+[2021.11.14-19.51.24:215][  0]LogInit: User: Dreamtyt
+[2021.11.14-19.51.24:215][  0]LogInit: CPU Page size=4096, Cores=4
+[2021.11.14-19.51.24:215][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2021.11.14-19.51.24:215][  0]LogMemory: Memory total: Physical=13.9GB (14GB approx)
+[2021.11.14-19.51.24:215][  0]LogMemory: Platform Memory Stats for Windows
+[2021.11.14-19.51.24:215][  0]LogMemory: Process Physical Memory: 136.77 MB used, 136.78 MB peak
+[2021.11.14-19.51.24:215][  0]LogMemory: Process Virtual Memory: 110.79 MB used, 110.79 MB peak
+[2021.11.14-19.51.24:215][  0]LogMemory: Physical Memory: 7385.34 MB used,  6858.82 MB free, 14244.16 MB total
+[2021.11.14-19.51.24:215][  0]LogMemory: Virtual Memory: 134212192.00 MB used,  5539.38 MB free, 134217728.00 MB total
+[2021.11.14-19.51.24:221][  0]LogWindows: WindowsPlatformFeatures enabled
+[2021.11.14-19.51.24:267][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2021.11.14-19.51.24:268][  0]LogInit: Using OS detected language (en-US).
+[2021.11.14-19.51.24:268][  0]LogInit: Using OS detected locale (en-US).
+[2021.11.14-19.51.24:272][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2021.11.14-19.51.24:482][  0]LogInit: Setting process to per monitor DPI aware
+[2021.11.14-19.51.24:498][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.11.14-19.51.24:517][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.11.14-19.51.24:517][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.11.14-19.51.24:670][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.11.14-19.51.24:670][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2021.11.14-19.51.24:670][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2021.11.14-19.51.24:670][  0]LogD3D11RHI: D3D11 adapters:
+[2021.11.14-19.51.24:807][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060 with Max-Q Design' (Feature Level 11_0)
+[2021.11.14-19.51.24:808][  0]LogD3D11RHI:       6052/0/7122 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2021.11.14-19.51.24:843][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 630' (Feature Level 11_0)
+[2021.11.14-19.51.24:843][  0]LogD3D11RHI:       128/0/7122 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x8086
+[2021.11.14-19.51.24:845][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.11.14-19.51.24:845][  0]LogD3D11RHI:       0/0/7122 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.11.14-19.51.24:845][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2021.11.14-19.51.24:852][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2021.11.14-19.51.24:852][  0]LogD3D11RHI:     GPU DeviceId: 0x1c20 (for the marketing name, search the web for "GPU Device Id")
+[2021.11.14-19.51.24:852][  0]LogWindows: EnumDisplayDevices:
+[2021.11.14-19.51.24:852][  0]LogWindows:    0. 'Intel(R) HD Graphics 630' (P:0 D:1)
+[2021.11.14-19.51.24:852][  0]LogWindows:    1. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2021.11.14-19.51.24:852][  0]LogWindows:    2. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2021.11.14-19.51.24:853][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060 with Max-Q Design' (P:1 D:1)
+[2021.11.14-19.51.24:853][  0]LogWindows:    4. 'NVIDIA GeForce GTX 1060 with Max-Q Design' (P:0 D:0)
+[2021.11.14-19.51.24:853][  0]LogWindows:    5. 'NVIDIA GeForce GTX 1060 with Max-Q Design' (P:0 D:0)
+[2021.11.14-19.51.24:854][  0]LogWindows:    6. 'NVIDIA GeForce GTX 1060 with Max-Q Design' (P:0 D:0)
+[2021.11.14-19.51.24:854][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2021.11.14-19.51.24:854][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060 with Max-Q Design
+[2021.11.14-19.51.24:854][  0]LogD3D11RHI:   Driver Version: 496.49 (internal:30.0.14.9649, unified:496.49)
+[2021.11.14-19.51.24:854][  0]LogD3D11RHI:      Driver Date: 10-20-2021
+[2021.11.14-19.51.24:854][  0]LogRHI: Texture pool is 4236 MB (70% of 6052 MB)
+[2021.11.14-19.51.24:932][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2021.11.14-19.51.24:932][  0]LogD3D11RHI: Async texture creation enabled
+[2021.11.14-19.51.24:932][  0]LogD3D11RHI: Array index from any shader is supported
+[2021.11.14-19.51.24:961][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2021.11.14-19.51.24:963][  0]LogRHI: GeForceNow SDK initialized: 1
+[2021.11.14-19.51.25:307][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2021.11.14-19.51.25:332][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2021.11.14-19.51.25:332][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2021.11.14-19.51.25:333][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2021.11.14-19.51.25:333][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2021.11.14-19.51.25:333][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2021.11.14-19.51.25:333][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2021.11.14-19.51.25:333][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2021.11.14-19.51.25:333][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2021.11.14-19.51.25:333][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2021.11.14-19.51.25:333][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2021.11.14-19.51.25:357][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2021.11.14-19.51.25:357][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2021.11.14-19.51.25:366][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2021.11.14-19.51.25:375][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2021.11.14-19.51.25:385][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2021.11.14-19.51.25:395][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2021.11.14-19.51.25:404][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2021.11.14-19.51.25:412][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2021.11.14-19.51.25:421][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2021.11.14-19.51.25:453][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2021.11.14-19.51.25:453][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2021.11.14-19.51.25:461][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2021.11.14-19.51.25:469][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2021.11.14-19.51.25:478][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2021.11.14-19.51.25:488][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2021.11.14-19.51.25:504][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2021.11.14-19.51.25:504][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2021.11.14-19.51.25:512][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2021.11.14-19.51.25:521][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2021.11.14-19.51.25:530][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2021.11.14-19.51.25:538][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2021.11.14-19.51.25:538][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2021.11.14-19.51.25:546][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2021.11.14-19.51.25:611][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2021.11.14-19.51.25:611][  0]LogShaderCompilers: Guid format shader working directory is -16 characters bigger than the processId version (../../../../../../Users/Dreamtyt/Desktop/GitHub/GamersBot/OneShot/Intermediate/Shaders/WorkingDirectory/8692/).
+[2021.11.14-19.51.25:611][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Dreamtyt/AppData/Local/Temp/UnrealShaderWorkingDir/936D7F8F457D782F4118D2A141A6667A/'.
+[2021.11.14-19.51.25:611][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2021.11.14-19.51.25:611][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2021.11.14-19.51.26:505][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.11.14-19.51.26:583][  0]LogDerivedDataCache: Loaded boot cache 0.08s 94MB C:/Users/Dreamtyt/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.11.14-19.51.26:583][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Dreamtyt/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc
+[2021.11.14-19.51.26:583][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Dreamtyt/Desktop/GitHub/GamersBot/OneShot/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.11.14-19.51.26:583][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.11.14-19.51.26:583][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Dreamtyt/Desktop/GitHub/GamersBot/OneShot/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.11.14-19.51.26:583][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2021.11.14-19.51.26:599][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.11.14-19.51.26:599][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.11.14-19.51.26:599][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2021.11.14-19.51.26:604][  0]LogDerivedDataCache: Speed tests for C:/Users/Dreamtyt/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2021.11.14-19.51.26:604][  0]LogDerivedDataCache: Display: Performance to C:/Users/Dreamtyt/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.03ms. RandomReadSpeed=1527.58MBs, RandomWriteSpeed=213.91MBs. Assigned SpeedClass 'Local'
+[2021.11.14-19.51.26:605][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Dreamtyt/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2021.11.14-19.51.26:605][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2021.11.14-19.51.26:605][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2021.11.14-19.51.26:663][  0]LogSlate: Using FreeType 2.10.0
+[2021.11.14-19.51.26:663][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.11.14-19.51.26:694][  0]LogAssetRegistry: FAssetRegistry took 0.0033 seconds to start up
+[2021.11.14-19.51.27:028][  0]LogInit: Selected Device Profile: [Windows]
+[2021.11.14-19.51.27:028][  0]LogInit: Active device profile: [000001AB96157300][000001AB9609F040 49] Windows
+[2021.11.14-19.51.27:028][  0]LogInit: Profiles: [000001AB96157300][000001AB9609F040 49] Windows, [000001AB96164F00][000001AB960AD1C0 49] WindowsNoEditor, [000001AB96154F00][000001AB960B1340 49] WindowsServer, [000001AB96166B00][000001AB960B54C0 49] WindowsClient, [000001AB96156A00][000001AB960B9640 49] IOS, [000001AB96165800][000001AB960A3780 49] iPadAir, [000001AB96155700][000001AB960BD8C0 49] iPadAir2, [000001AB97020500][000001AB971F1B40 49] IPadPro, [000001AB97020600][000001AB960C1B80 49] iPadAir3, [000001AB96156400][000001AB971FBD00 49] iPadAir4, [000001AB97023000][000001AB971FE1C0 49] iPadMini2, [000001AB96155C00][000001AB97202340 49] iPadMini3, [000001AB97021F00][000001AB85DDA4C0 49] iPadMini4, [000001AB96154A00][000001AB85DDE640 49] iPadMini5, [000001AB96F27D00][000001AB85DE6900 49] iPhone6, [000001AB96F27E00][000001AB85DE2940 49] iPodTouch6, [000001AB97022800][000001AB85DEEC00 49] iPhone7, [000001AB97022A00][000001AB85DEAC40 49] iPodTouch7, [000001AB96F25300][000001AB85DF2DC0 49] iPhone5S, [000001AB97020A00][000001AB85DF6F40 49] iPhone6Plus, [000001AB96F26600][000001AB85DFB0C0 49] iPhone6S, [000001AB97023800][000001AB85DFF240 49] iPhone6SPlus, [000001AB96F25B00][000001AB85E033C0 49] iPhone7Plus, [000001AB97022700][000001AB9724D540 49] iPhoneSE, [000001AB96F24900][000001AB972516C0 49] iPhone8, [000001AB97022B00][000001AB960CB800 49] iPhone8Plus, [000001AB96F26B00][000001AB97255940 49] iPhoneX, [000001AB97020D00][000001AB97259A80 49] iPhoneXS, [000001AB96F27A00][000001AB97261C00 49] iPhoneXSMax, [000001AB97020700][000001AB972640C0 49] iPhoneXR, [000001AB96F26700][000001AB97268240 49] iPhone11, [000001AB97021B00][000001AB9726C3C0 49] iPhone11Pro, [000001AB96F25900][000001AB97270540 49] iPhone11ProMax, [000001AB97020B00][000001AB972746C0 49] iPhoneSE2, [000001AB96F26900][000001AB97278840 49] iPhone12Mini, [000001AB97022900][000001AB9727C9C0 49] iPhone12, [000001AB96F25D00][000001AB97280B40 49] iPhone12Pro, [000001AB97022400][000001AB97284CC0 49] iPhone12ProMax, [000001AB96F26200][000001AB97288E40 49] iPadPro105, [000001AB97023B00][000001AB9728CFC0 49] iPadPro129, [000001AB96F25700][000001AB97291140 49] iPadPro97, [000001AB97022100][000001AB972952C0 49] iPadPro2_129, [000001AB96F27200][000001AB97299440 49] iPad5, [000001AB97020C00][000001AB9729D5C0 49] iPad6, [000001AB96F24700][000001AB972A1740 49] iPad7, [000001AB97020300][000001AB9725D880 49] iPad8, [000001AB96F27500][000001AB972A59C0 49] iPadPro11, [000001AB97021A00][000001AB972A9B00 49] iPadPro2_11, [000001AB96F24400][000001AB972ADC40 49] iPadPro3_129, [000001AB97023A00][000001AB972B4100 49] iPadPro4_129, [000001AB96F26100][000001AB972B8280 49] AppleTV, [000001AB97022D00][000001AB972BC400 49] AppleTV4K, [000001AB96F25A00][000001AB972C0580 49] TVOS, [000001AB97022F00][000001AB972C4700 49] Mac, [000001AB96F27700][000001AB972C8880 49] MacClient, [000001AB97022C00][000001AB972CCA00 49] MacNoEditor, [000001AB96F24B00][000001AB972D0B80 49] MacServer, [000001AB97021300][000001AB972D4D00 49] Linux, [000001AB96F25400][000001AB972D8E80 49] LinuxAArch64, [000001AB96164700][000001AB972DD000 49] LinuxNoEditor, [000001AB962E8B00][000001AB972E1180 49] LinuxAArch64NoEditor, [000001AB96167C00][000001AB972E5300 49] LinuxClient, [000001AB962E9500][000001AB972E9480 49] LinuxAArch64Client, [000001AB96166700][000001AB972ED600 49] LinuxServer, [000001AB962E9300][000001AB972F1780 49] LinuxAArch64Server, [000001AB96166300][000001AB972B18C0 49] Android, [000001AB962E8500][000001AB972F5A00 49] Android_Low, [000001AB96164A00][000001AB972F9B40 49] Android_Mid, [000001AB962E9600][000001AB972FDC80 49] Android_High, [000001AB96167700][000001AB97304140 49] Android_Default, [000001AB962E9900][000001AB973082C0 49] Android_Adreno4xx, [000001AB96165200][000001AB9730C440 49] Android_Adreno5xx_Low, [000001AB962E8300][000001AB973105C0 49] Android_Adreno5xx, [000001AB96167B00][000001AB97314740 49] Android_Adreno6xx, [000001AB962E9800][000001AB973188C0 49] Android_Adreno6xx_Vulkan, [000001AB96166D00][000001AB9731CA40 49] Android_Mali_T6xx, [000001AB962E8D00][000001AB97320BC0 49] Android_Mali_T7xx, [000001AB96F24300][000001AB97324D40 49] Android_Mali_T8xx, [000001AB97021C00][000001AB97328EC0 49] Android_Mali_G71, [000001AB96F26A00][000001AB9732D040 49] Android_Mali_G72, [000001AB97023900][000001AB973311C0 49] Android_Mali_G72_Vulkan, [000001AB96F24C00][000001AB97335340 49] Android_Mali_G76, [000001AB97021900][000001AB973394C0 49] Android_Mali_G76_Vulkan, [000001AB96F25800][000001AB9733D640 49] Android_Mali_G77, [000001AB97023F00][000001AB973417C0 49] Android_Mali_G77_Vulkan, [000001AB96F24100][000001AB97345940 49] Android_Vulkan_SM5, [000001AB97021200][000001AB97301A80 49] Android_PowerVR_G6xxx, [000001AB96F27F00][000001AB97349BC0 49] Android_PowerVR_GT7xxx, [000001AB97022300][000001AB9734DD00 49] Android_PowerVR_GE8xxx, [000001AB96F24200][000001AB973541C0 49] Android_PowerVR_GM9xxx, [000001AB97020E00][000001AB97358340 49] Android_PowerVR_GM9xxx_Vulkan, [000001AB96F26500][000001AB9735C4C0 49] Android_TegraK1, [000001AB97020200][000001AB97360640 49] Android_Unknown_Vulkan, [000001AB96F24A00][000001AB973647C0 49] Lumin, [000001AB97023500][000001AB97368940 49] Lumin_Desktop, [000001AB96F24F00][000001AB9736CAC0 49] HoloLens, 
+[2021.11.14-19.51.27:168][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2021.11.14-19.51.27:168][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2021.11.14-19.51.27:168][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2021.11.14-19.51.27:168][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2021.11.14-19.51.27:168][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2021.11.14-19.51.27:187][  0]LogNetVersion: StrandedTogether 1.0.0, NetCL: 14830424, EngineNetVer: 16, GameNetVer: 0 (Checksum: 2975150810)
+[2021.11.14-19.51.27:734][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2021.11.14-19.51.27:799][  0]LogPackageLocalizationCache: Processed 26 localized package path(s) for 1 prioritized culture(s) in 0.064635 seconds
+[2021.11.14-19.51.27:805][  0]LogUObjectArray: 16831 objects as part of root set at end of initial load.
+[2021.11.14-19.51.27:805][  0]LogUObjectAllocator: 4209728 out of 0 bytes used by permanent object pool.
+[2021.11.14-19.51.27:805][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.11.14-19.51.28:104][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2021.11.14-19.51.28:114][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2021.11.14-19.51.28:357][  0]SourceControl: Source control is disabled
+[2021.11.14-19.51.28:357][  0]SourceControl: Source control is disabled
+[2021.11.14-19.51.28:361][  0]SourceControl: Source control is disabled
+[2021.11.14-19.51.28:364][  0]SourceControl: Source control is disabled
+[2021.11.14-19.51.28:375][  0]SourceControl: Source control is disabled
+[2021.11.14-19.51.28:546][  0]LogUProjectInfo: Found projects:
+[2021.11.14-19.51.29:186][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.11.14-19.51.29:215][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.11.14-19.51.29:215][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.11.14-19.51.29:289][  0]LogCollectionManager: Loaded 0 collections in 0.003377 seconds
+[2021.11.14-19.51.29:334][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Dreamtyt/Desktop/GitHub/GamersBot/OneShot/Saved/Collections/' took 0.00s
+[2021.11.14-19.51.29:334][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Dreamtyt/Desktop/GitHub/GamersBot/OneShot/Content/Developers/Dreamtyt/Collections/' took 0.00s
+[2021.11.14-19.51.29:334][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Dreamtyt/Desktop/GitHub/GamersBot/OneShot/Content/Collections/' took 0.00s
+[2021.11.14-19.51.29:334][  0]LogOcInput: OculusInput pre-init called
+[2021.11.14-19.51.29:355][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2021.11.14-19.51.29:355][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2021.11.14-19.51.29:427][  0]LogEngine: Initializing Engine...
+[2021.11.14-19.51.29:429][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.11.14-19.51.29:430][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2021.11.14-19.51.29:431][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2021.11.14-19.51.29:614][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.11.14-19.51.29:622][  0]LogAIModule: Creating AISystem for world Untitled
+[2021.11.14-19.51.29:638][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2021.11.14-19.51.29:641][  0]LogAudio: Display: Audio Device Manager Initialized
+[2021.11.14-19.51.29:641][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2021.11.14-19.51.29:641][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.11.14-19.51.29:641][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.11.14-19.51.29:641][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.11.14-19.51.29:641][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.11.14-19.51.29:641][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.11.14-19.51.29:641][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.11.14-19.51.29:641][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.11.14-19.51.29:641][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.11.14-19.51.29:642][  0]LogAudio: Display: Using built-in audio occlusion.
+[2021.11.14-19.51.29:642][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2021.11.14-19.51.29:711][  0]LogAudioMixer: Display: 0: FrontLeft
+[2021.11.14-19.51.29:712][  0]LogAudioMixer: Display: 1: FrontRight
+[2021.11.14-19.51.29:794][  0]LogAudioMixer: Display: Using Audio Device Speakers (PRO)
+[2021.11.14-19.51.29:799][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.11.14-19.51.29:801][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.11.14-19.51.29:801][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.11.14-19.51.29:802][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.11.14-19.51.29:802][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.11.14-19.51.29:802][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.11.14-19.51.29:803][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.11.14-19.51.29:803][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.11.14-19.51.29:803][  0]LogInit: FAudioDevice initialized.
+[2021.11.14-19.51.29:804][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2021.11.14-19.51.29:804][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2021.11.14-19.51.29:985][  0]LogDerivedDataCache: Saved boot cache 0.18s 94MB C:/Users/Dreamtyt/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.11.14-19.51.29:985][  0]LogInit: Texture streaming: Enabled
+[2021.11.14-19.51.29:999][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.26.2-15973114+++UE4+Release-4.26
+[2021.11.14-19.51.30:003][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2021.11.14-19.51.30:003][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2021.11.14-19.51.30:005][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2021.11.14-19.51.30:034][  0]LogInit: Transaction tracking system initialized
+[2021.11.14-19.51.30:062][  0]BlueprintLog: New page: Editor Load
+[2021.11.14-19.51.30:141][  0]LocalizationService: Localization service is disabled
+[2021.11.14-19.51.30:167][  0]TimingProfiler: Initialize
+[2021.11.14-19.51.30:168][  0]TimingProfiler: OnSessionChanged
+[2021.11.14-19.51.30:168][  0]LoadingProfiler: Initialize
+[2021.11.14-19.51.30:168][  0]LoadingProfiler: OnSessionChanged
+[2021.11.14-19.51.30:168][  0]NetworkingProfiler: Initialize
+[2021.11.14-19.51.30:168][  0]NetworkingProfiler: OnSessionChanged
+[2021.11.14-19.51.30:168][  0]MemoryProfiler: Initialize
+[2021.11.14-19.51.30:168][  0]MemoryProfiler: OnSessionChanged
+[2021.11.14-19.51.30:316][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2021.11.14-19.51.30:316][  0]LogCook: Display: Mobile HDR setting 1
+[2021.11.14-19.51.30:321][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Dreamtyt/Desktop/GitHub/GamersBot/OneShot/Content/' took 0.00s
+[2021.11.14-19.51.30:692][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2021.11.14-19.51.30:695][  0]SourceControl: Source control is disabled
+[2021.11.14-19.51.30:695][  0]LogUnrealEdMisc: Loading editor; pre map load, took 7.669
+[2021.11.14-19.51.30:696][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Dreamtyt/Desktop/GitHub/GamersBot/OneShot/Content/Levels/Tutorial.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.11.14-19.51.30:696][  0]LightingResults: New page: Lighting Build
+[2021.11.14-19.51.30:697][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.11.14-19.51.30:697][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.14-19.51.30:698][  0]MapCheck: New page: Map Check
+[2021.11.14-19.51.30:698][  0]LightingResults: New page: Lighting Build
+[2021.11.14-19.51.30:706][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2021.11.14-19.51.30:711][  0]LogLinker: Warning: [AssetLog] C:\Users\Dreamtyt\Desktop\GitHub\GamersBot\OneShot\Content\Models\Light\fluorescent_lamp\Lamp.uasset: Failed to load '/Game/Models/Light/fluorescent_lamp/0_LDS2_Material__25_0': Can't find file.
+[2021.11.14-19.51.30:711][  0]LogLinker: Warning: [AssetLog] C:\Users\Dreamtyt\Desktop\GitHub\GamersBot\OneShot\Content\Models\Light\fluorescent_lamp\Lamp.uasset: Failed to load '/Game/Models/Light/fluorescent_lamp/0_LDS2_Material__25_0': Can't find file.
+[2021.11.14-19.51.30:712][  0]LogLinker: Warning: [AssetLog] C:\Users\Dreamtyt\Desktop\GitHub\GamersBot\OneShot\Content\Models\Light\fluorescent_lamp\Lamp.uasset: Failed to load '/Game/Models/Light/fluorescent_lamp/0_LDS2_Material__25_0': Can't find file.
+[2021.11.14-19.51.30:712][  0]LogLinker: Warning: [AssetLog] C:\Users\Dreamtyt\Desktop\GitHub\GamersBot\OneShot\Content\Levels\Tutorial.umap: Failed to load '/Game/Models/Light/fluorescent_lamp/0_LDS2_Material__25_0': Can't find file.
+[2021.11.14-19.51.30:712][  0]LogLinker: Warning: [AssetLog] C:\Users\Dreamtyt\Desktop\GitHub\GamersBot\OneShot\Content\Levels\Tutorial.umap: Failed to load '/Game/Models/Light/fluorescent_lamp/0_LDS2_Material__25_0': Can't find file.
+[2021.11.14-19.51.30:713][  0]LogLinker: Warning: [AssetLog] C:\Users\Dreamtyt\Desktop\GitHub\GamersBot\OneShot\Content\Levels\Tutorial.umap: Failed to load '/Game/Models/Light/fluorescent_lamp/0_LDS2_Material__25_0': Can't find file.
+[2021.11.14-19.51.30:713][  0]LoadErrors: Failed to load /Game/Models/Light/fluorescent_lamp/0_LDS2_Material__25_0.0_LDS2_Material__25_0 Referenced by 0_LDS2_Material__25_0_GEN_VARIABLE
+[2021.11.14-19.51.30:742][  0]LogBlueprint: Warning: [AssetLog] C:\Users\Dreamtyt\Desktop\GitHub\GamersBot\OneShot\Content\Animations\Character\Lewis_Anim_BP.uasset: [Compiler] Idle to Jumping  will never be taken, please connect something to  Can Enter Transition
+[2021.11.14-19.51.30:742][  0]LogBlueprint: Warning: [AssetLog] C:\Users\Dreamtyt\Desktop\GitHub\GamersBot\OneShot\Content\Animations\Character\Lewis_Anim_BP.uasset: [Compiler] Jumping to Walk/run  will never be taken, please connect something to  Can Enter Transition
+[2021.11.14-19.51.30:742][  0]LogBlueprint: Warning: [AssetLog] C:\Users\Dreamtyt\Desktop\GitHub\GamersBot\OneShot\Content\Animations\Character\Lewis_Anim_BP.uasset: [Compiler] Jumping to Idle  will never be taken, please connect something to  Can Enter Transition
+[2021.11.14-19.51.30:742][  0]LogBlueprint: Warning: [AssetLog] C:\Users\Dreamtyt\Desktop\GitHub\GamersBot\OneShot\Content\Animations\Character\Lewis_Anim_BP.uasset: [Compiler] Walk/run to Jumping  will never be taken, please connect something to  Can Enter Transition
+[2021.11.14-19.51.31:047][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (BGRA8, 512X512)
+[2021.11.14-19.51.31:047][  0]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 1024X1024)
+[2021.11.14-19.51.31:047][  0]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 1024X1024)
+[2021.11.14-19.51.31:227][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Tutorial'.
+[2021.11.14-19.51.31:229][  0]LogAIModule: Creating AISystem for world Tutorial
+[2021.11.14-19.51.31:230][  0]LogMaterial: Display: Material /Game/Models/Jail_Cell/Materials/Layer_2_mtl.Layer_2_mtl needed to have new flag set bUsedWithStaticLighting !
+[2021.11.14-19.51.31:238][  0]LogMaterial: Display: Missing cached shader map for material Layer_2_mtl, compiling. 
+[2021.11.14-19.51.31:322][  0]MapCheck: Warning: Layer_2_mtl Material /Game/Models/Jail_Cell/Materials/Layer_2_mtl.Layer_2_mtl was missing the usage flag bUsedWithStaticLighting. If the material asset is not re-saved, it may not render correctly when run outside the editor. Fix
+[2021.11.14-19.51.31:323][  0]LogMaterial: Display: Material /Game/Models/Jail_Cell/Materials/Layer_1_mtl.Layer_1_mtl needed to have new flag set bUsedWithStaticLighting !
+[2021.11.14-19.51.31:325][  0]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 26
+[2021.11.14-19.51.31:325][  0]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 20
+[2021.11.14-19.51.31:325][  0]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 14
+[2021.11.14-19.51.31:326][  0]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 8
+[2021.11.14-19.51.31:326][  0]LogShaderCompilers: Display: Worker (5/5): shaders left to compile 2
+[2021.11.14-19.51.31:326][  0]LogMaterial: Display: Missing cached shader map for material Layer_1_mtl, compiling. 
+[2021.11.14-19.51.31:345][  0]MapCheck: Warning: Layer_1_mtl Material /Game/Models/Jail_Cell/Materials/Layer_1_mtl.Layer_1_mtl was missing the usage flag bUsedWithStaticLighting. If the material asset is not re-saved, it may not render correctly when run outside the editor. Fix
+[2021.11.14-19.51.31:433][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.11.14-19.51.31:447][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2021.11.14-19.51.31:452][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.11.14-19.51.31:452][  0]MapCheck: Map check complete: 0 Error(s), 2 Warning(s), took 0.189ms to complete.
+[2021.11.14-19.51.31:462][  0]LogFileHelpers: Loading map 'Tutorial' took 0.767
+[2021.11.14-19.51.31:465][  0]LogUnrealEdMisc: Total Editor Startup Time, took 8.439
+[2021.11.14-19.51.31:606][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.14-19.51.31:620][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.14-19.51.31:635][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.14-19.51.31:648][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.14-19.51.31:677][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0214 seconds. Added 3801 classes and 916 folders.
+[2021.11.14-19.51.31:681][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2021.11.14-19.51.31:683][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.11.14-19.51.31:683][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.14-19.51.31:683][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.11.14-19.51.31:683][  0]LogPakFile: OnPakFileMounted2Time == 0.000010
+[2021.11.14-19.51.31:684][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.11.14-19.51.31:684][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.14-19.51.31:685][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.11.14-19.51.31:685][  0]LogPakFile: OnPakFileMounted2Time == 0.000014
+[2021.11.14-19.51.31:686][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2021.11.14-19.51.31:686][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.14-19.51.31:686][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2021.11.14-19.51.31:686][  0]LogPakFile: OnPakFileMounted2Time == 0.000020
+[2021.11.14-19.51.31:687][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.11.14-19.51.31:687][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.14-19.51.31:687][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.11.14-19.51.31:687][  0]LogPakFile: OnPakFileMounted2Time == 0.000024
+[2021.11.14-19.51.31:688][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.11.14-19.51.31:688][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.14-19.51.31:688][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.11.14-19.51.31:688][  0]LogPakFile: OnPakFileMounted2Time == 0.000029
+[2021.11.14-19.51.31:689][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.11.14-19.51.31:690][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.14-19.51.31:690][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.11.14-19.51.31:690][  0]LogPakFile: OnPakFileMounted2Time == 0.000034
+[2021.11.14-19.51.31:691][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.11.14-19.51.31:691][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.14-19.51.31:691][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.11.14-19.51.31:691][  0]LogPakFile: OnPakFileMounted2Time == 0.000038
+[2021.11.14-19.51.31:692][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.11.14-19.51.31:692][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.14-19.51.31:692][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.11.14-19.51.31:692][  0]LogPakFile: OnPakFileMounted2Time == 0.000044
+[2021.11.14-19.51.31:693][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.11.14-19.51.31:693][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.14-19.51.31:693][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.11.14-19.51.31:693][  0]LogPakFile: OnPakFileMounted2Time == 0.000048
+[2021.11.14-19.51.31:694][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.11.14-19.51.31:694][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.14-19.51.31:694][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.11.14-19.51.31:694][  0]LogPakFile: OnPakFileMounted2Time == 0.000051
+[2021.11.14-19.51.31:695][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.11.14-19.51.31:695][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.14-19.51.31:695][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.11.14-19.51.31:696][  0]LogPakFile: OnPakFileMounted2Time == 0.000055
+[2021.11.14-19.51.31:697][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.11.14-19.51.31:697][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.14-19.51.31:697][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.11.14-19.51.31:697][  0]LogPakFile: OnPakFileMounted2Time == 0.000059
+[2021.11.14-19.51.31:698][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.11.14-19.51.31:698][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.14-19.51.31:698][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.11.14-19.51.31:698][  0]LogPakFile: OnPakFileMounted2Time == 0.000062
+[2021.11.14-19.51.31:699][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.11.14-19.51.31:699][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.14-19.51.31:699][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.11.14-19.51.31:699][  0]LogPakFile: OnPakFileMounted2Time == 0.000065
+[2021.11.14-19.51.31:700][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.11.14-19.51.31:700][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.14-19.51.31:700][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.11.14-19.51.31:700][  0]LogPakFile: OnPakFileMounted2Time == 0.000068
+[2021.11.14-19.51.31:701][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.11.14-19.51.31:701][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.14-19.51.31:701][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.11.14-19.51.31:701][  0]LogPakFile: OnPakFileMounted2Time == 0.000072
+[2021.11.14-19.51.31:702][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.11.14-19.51.31:702][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.14-19.51.31:702][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.11.14-19.51.31:702][  0]LogPakFile: OnPakFileMounted2Time == 0.000077
+[2021.11.14-19.51.31:704][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.11.14-19.51.31:704][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.14-19.51.31:704][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.11.14-19.51.31:704][  0]LogPakFile: OnPakFileMounted2Time == 0.000082
+[2021.11.14-19.51.31:705][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.11.14-19.51.31:705][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.14-19.51.31:705][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.11.14-19.51.31:705][  0]LogPakFile: OnPakFileMounted2Time == 0.000086
+[2021.11.14-19.51.31:706][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.11.14-19.51.31:706][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.14-19.51.31:706][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.11.14-19.51.31:706][  0]LogPakFile: OnPakFileMounted2Time == 0.000091
+[2021.11.14-19.51.31:707][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.11.14-19.51.31:707][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.14-19.51.31:707][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.11.14-19.51.31:707][  0]LogPakFile: OnPakFileMounted2Time == 0.000094
+[2021.11.14-19.51.31:708][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.11.14-19.51.31:708][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.14-19.51.31:708][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.11.14-19.51.31:708][  0]LogPakFile: OnPakFileMounted2Time == 0.000098
+[2021.11.14-19.51.31:710][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2021.11.14-19.51.31:710][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.14-19.51.31:710][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2021.11.14-19.51.31:710][  0]LogPakFile: OnPakFileMounted2Time == 0.000111
+[2021.11.14-19.51.31:711][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.11.14-19.51.31:711][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.14-19.51.31:711][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.11.14-19.51.31:711][  0]LogPakFile: OnPakFileMounted2Time == 0.000115
+[2021.11.14-19.51.31:712][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.11.14-19.51.31:712][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.14-19.51.31:712][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.11.14-19.51.31:712][  0]LogPakFile: OnPakFileMounted2Time == 0.000119
+[2021.11.14-19.51.31:713][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.11.14-19.51.31:714][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.14-19.51.31:714][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.11.14-19.51.31:714][  0]LogPakFile: OnPakFileMounted2Time == 0.000123
+[2021.11.14-19.51.31:807][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2021.11.14-19.51.31:809][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0005 seconds. Added 2 classes and 0 folders.
+[2021.11.14-19.51.31:843][  0]LogSlate: Took 0.000165 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.11.14-19.51.31:846][  0]LogSlate: Took 0.000182 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.11.14-19.51.31:854][  0]LogSlate: Took 0.000200 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.11.14-19.51.32:034][  0]LogRenderer: Reallocating scene render targets to support 1208x580 Format 10 NumSamples 1 (Frame:1).
+[2021.11.14-19.51.32:469][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2021.11.14-19.51.32:469][  0]LogInput: Warning: Action Jump uses invalid key OculusGo_Left_Trigger_Click.
+[2021.11.14-19.51.32:469][  0]LogInput: Warning: Action ResetVR uses invalid key OculusGo_Left_Trackpad_Click.
+[2021.11.14-19.51.32:469][  0]LogInput: Warning: Use -RemoveInvalidKeys to remove instances of these keys from the action mapping.
+[2021.11.14-19.51.32:469][  0]LogLoad: (Engine Initialization) Total time: 9.44 seconds
+[2021.11.14-19.51.32:469][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.11.14-19.51.32:469][  0]LogInit: First time updating LLM stats...
+[2021.11.14-19.51.32:537][  0]LogAssetRegistry: Asset discovery search completed in 5.8435 seconds
+[2021.11.14-19.51.32:540][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000006 seconds (updated 0 objects)
+[2021.11.14-19.51.32:540][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2021.11.14-19.51.32:605][  0]LogSlate: Took 0.000204 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2021.11.14-19.51.32:811][  2]LogSlate: Took 0.000226 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.11.14-19.51.33:541][ 26]LogSlate: Took 0.000315 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.11.14-19.51.33:975][ 43]LogSlate: Window 'Message Log' being destroyed
+[2021.11.14-19.51.33:994][ 43]LogSlate: Window 'Message Log' being destroyed
+[2021.11.14-19.51.36:217][132]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 26
+[2021.11.14-19.51.36:379][137]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 19
+[2021.11.14-19.51.36:879][154]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 14
+[2021.11.14-19.51.37:421][172]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 10
+[2021.11.14-19.51.39:306][236]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 7
+[2021.11.14-19.51.39:807][252]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2021.11.14-19.51.40:450][274]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2021.11.14-19.51.40:660][283]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2021.11.14-19.51.40:765][288]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2021.11.14-19.51.46:898][588]LogEditorViewport: Clicking on Actor (LMB): Lamp_C (Lamp5)
+[2021.11.14-19.51.48:170][662]Cmd: DELETE
+[2021.11.14-19.51.48:170][662]Cmd: ACTOR DELETE
+[2021.11.14-19.51.48:173][662]LogEditorActor: Deleted Actor: Lamp_C
+[2021.11.14-19.51.48:180][662]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2021.11.14-19.51.48:182][662]LogEditorActor: Deleted 1 Actors (0.011 secs)
+[2021.11.14-19.53.08:708][283]LogFactory: FactoryCreateFile: StaticMesh with GLTFImportFactory (0 0 C:\Users\Dreamtyt\Desktop\Game Design\Lamp\scene.gltf)
+[2021.11.14-19.53.08:708][283]C:\Users\Dreamtyt\Desktop\Game Design\Lamp\scene.gltf
+[2021.11.14-19.53.11:123][283]LogSlate: Window 'glTF Import Options' being destroyed
+[2021.11.14-19.53.11:229][283]LogTexture: Display: Building textures: 0_Material_25_baseColor (AutoDXT, 2048X2048)
+[2021.11.14-19.53.11:759][283]LogTexture: Display: Building textures: 1_Material_25_metallicRoughness (AutoDXT, 2048X2048)
+[2021.11.14-19.53.12:076][283]LogTexture: Display: Building textures: 1_Material_25_metallicRoughness (AutoDXT, 2048X2048)
+[2021.11.14-19.53.12:364][283]LogTexture: Display: Building textures: 1_Material_25_metallicRoughness (AutoDXT, 2048X2048)
+[2021.11.14-19.53.12:639][283]LogTexture: Display: Building textures: 2_Material_25_emissive (AutoDXT, 2048X2048)
+[2021.11.14-19.53.12:848][283]LogTexture: Display: Building textures: 3_Material_25_normal (AutoDXT, 2048X2048)
+[2021.11.14-19.53.13:041][283]LogTexture: Display: Building textures: 3_Material_25_normal (AutoDXT, 2048X2048)
+[2021.11.14-19.53.13:155][283]LogMaterial: Display: Missing cached shader map for material Material_25, compiling. 
+[2021.11.14-19.53.13:166][283]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 17
+[2021.11.14-19.53.13:166][283]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 12
+[2021.11.14-19.53.13:166][283]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2021.11.14-19.53.13:166][283]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2021.11.14-19.53.13:170][283]LogStaticMesh: Building static mesh 0_LDS2_Material__25_0...
+[2021.11.14-19.53.13:185][283]LogStaticMesh: Built static mesh [0.01s] /Game/Models/Light/fluorescent_lamp/0_LDS2_Material__25_0.0_LDS2_Material__25_0
+[2021.11.14-19.53.13:201][283]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Dreamtyt\Desktop\Game Design\Lamp\textures/Material_25_baseColor.png)
+[2021.11.14-19.53.13:300][283]LogTexture: Display: Building textures: Material_25_baseColor (AutoDXT, 2048X2048)
+[2021.11.14-19.53.13:866][283]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Dreamtyt\Desktop\Game Design\Lamp\textures/Material_25_emissive.png)
+[2021.11.14-19.53.13:879][283]LogTexture: Display: Building textures: Material_25_emissive (AutoDXT, 2048X2048)
+[2021.11.14-19.53.14:082][283]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Dreamtyt\Desktop\Game Design\Lamp\textures/Material_25_metallicRoughness.png)
+[2021.11.14-19.53.14:110][283]LogTexture: Display: Building textures: Material_25_metallicRoughness (AutoDXT, 2048X2048)
+[2021.11.14-19.53.14:504][283]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Dreamtyt\Desktop\Game Design\Lamp\textures/Material_25_normal.png)
+[2021.11.14-19.53.14:574][283]LogTexture: Display: Building textures: Material_25_normal (BC5, 2048X2048)
+[2021.11.14-19.53.14:775][283]LogAssetTools: Warning: Failed to import 'C:\Users\Dreamtyt\Desktop\Game Design\Lamp\scene.bin'. Unknown extension 'bin'.
+[2021.11.14-19.53.18:576][392]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Models/Light/fluorescent_lamp/Lamp.Lamp
+[2021.11.14-19.53.18:818][392]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 126 classes and 0 folders.
+[2021.11.14-19.53.19:860][392]LogSlate: Took 0.000270 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.11.14-19.53.21:378][439]LogRenderer: Reallocating scene render targets to support 1208x720 Format 10 NumSamples 1 (Frame:1).
+[2021.11.14-19.53.23:341][496]LogSlate: Window 'Lamp' being destroyed
+[2021.11.14-19.53.29:105][675]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Models/Light/fluorescent_lamp/0_LDS2_Material__25_0.0_LDS2_Material__25_0
+[2021.11.14-19.53.29:707][675]LogRenderer: Reallocating scene render targets to support 1432x908 Format 10 NumSamples 1 (Frame:1).
+[2021.11.14-19.53.29:707][675]LogSlate: Took 0.000248 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.11.14-19.53.31:923][742]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2021.11.14-19.53.31:923][742]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.14-19.53.49:135][368]LogEditorTransaction: Undo Modify Component(s)
+[2021.11.14-19.54.09:116][154]BlueprintLog: New page: Compile Lamp
+[2021.11.14-19.54.09:202][154]LogUObjectHash: Compacting FUObjectHashTables data took   2.93ms
+[2021.11.14-19.54.10:775][214]LogSlate: Window 'Lamp' being destroyed
+[2021.11.14-19.54.10:817][214]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2021.11.14-19.54.10:817][214]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.14-19.54.24:692][637]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2021.11.14-19.54.24:755][637]LogContentBrowser: Creating deferred item: NewFolder
+[2021.11.14-19.54.28:866][759]LogContentBrowser: Attempting asset rename: NewFolder -> NewFolder
+[2021.11.14-19.54.28:867][759]LogContentBrowser: End creating deferred item NewFolder
+[2021.11.14-19.54.53:455][252]LogAssetTools: Warning: Failed to import 'C:\Users\Dreamtyt\Desktop\Game Design\Potion/license.txt'. Unknown extension 'txt'.
+[2021.11.14-19.54.53:460][252]LogAssetTools: Warning: Failed to import 'C:\Users\Dreamtyt\Desktop\Game Design\Potion/scene.bin'. Unknown extension 'bin'.
+[2021.11.14-19.54.53:461][252]LogFactory: FactoryCreateFile: StaticMesh with GLTFImportFactory (0 0 C:\Users\Dreamtyt\Desktop\Game Design\Potion/scene.gltf)
+[2021.11.14-19.54.53:461][252]C:\Users\Dreamtyt\Desktop\Game Design\Potion/scene.gltf
+[2021.11.14-19.54.55:104][252]LogSlate: Window 'glTF Import Options' being destroyed
+[2021.11.14-19.54.55:233][252]LogTexture: Display: Building textures: 0_Algae_baseColor (AutoDXT, 2048X2048)
+[2021.11.14-19.54.55:712][252]LogTexture: Display: Building textures: 1_Algae_metallicRoughness (AutoDXT, 2048X2048)
+[2021.11.14-19.54.55:962][252]LogTexture: Display: Building textures: 1_Algae_metallicRoughness (AutoDXT, 2048X2048)
+[2021.11.14-19.54.56:257][252]LogTexture: Display: Building textures: 2_Algae_normal (AutoDXT, 2048X2048)
+[2021.11.14-19.54.57:621][252]LogTexture: Display: Building textures: 2_Algae_normal (AutoDXT, 2048X2048)
+[2021.11.14-19.54.58:948][252]LogMaterial: Display: Missing cached shader map for material Algae, compiling. 
+[2021.11.14-19.54.58:993][252]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 17
+[2021.11.14-19.54.58:993][252]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 12
+[2021.11.14-19.54.58:994][252]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2021.11.14-19.54.58:994][252]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2021.11.14-19.54.58:994][252]LogTexture: Display: Building textures: 3_Mouth_bottle2_baseColor (AutoDXT, 2048X2048)
+[2021.11.14-19.54.59:938][252]LogTexture: Display: Building textures: 4_Mouth_bottle2_metallicRoughness (AutoDXT, 2048X2048)
+[2021.11.14-19.55.01:335][252]LogTexture: Display: Building textures: 4_Mouth_bottle2_metallicRoughness (AutoDXT, 2048X2048)
+[2021.11.14-19.55.02:986][252]LogTexture: Display: Building textures: 5_Mouth_bottle2_normal (AutoDXT, 2048X2048)
+[2021.11.14-19.55.04:204][252]LogTexture: Display: Building textures: 5_Mouth_bottle2_normal (AutoDXT, 2048X2048)
+[2021.11.14-19.55.05:229][252]LogMaterial: Display: Missing cached shader map for material Mouth_bottle2, compiling. 
+[2021.11.14-19.55.05:279][252]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 17
+[2021.11.14-19.55.05:279][252]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 12
+[2021.11.14-19.55.05:279][252]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2021.11.14-19.55.05:280][252]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2021.11.14-19.55.05:280][252]LogTexture: Display: Building textures: 6_Plug1_baseColor (AutoDXT, 2048X2048)
+[2021.11.14-19.55.07:022][252]LogTexture: Display: Building textures: 7_Plug1_metallicRoughness (AutoDXT, 2048X2048)
+[2021.11.14-19.55.08:209][252]LogTexture: Display: Building textures: 7_Plug1_metallicRoughness (AutoDXT, 2048X2048)
+[2021.11.14-19.55.09:463][252]LogTexture: Display: Building textures: 8_Plug1_normal (AutoDXT, 2048X2048)
+[2021.11.14-19.55.11:413][252]LogTexture: Display: Building textures: 8_Plug1_normal (AutoDXT, 2048X2048)
+[2021.11.14-19.55.13:212][252]LogMaterial: Display: Missing cached shader map for material Plug1, compiling. 
+[2021.11.14-19.55.13:227][252]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 17
+[2021.11.14-19.55.13:227][252]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 12
+[2021.11.14-19.55.13:227][252]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 7
+[2021.11.14-19.55.13:540][252]LogTexture: Display: Building textures: 9_Magic_Potion1_baseColor (AutoDXT, 2048X2048)
+[2021.11.14-19.55.15:971][252]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2021.11.14-19.55.15:971][252]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2021.11.14-19.55.16:054][252]LogTexture: Display: Building textures: 10_Magic_Potion1_metallicRoughness (AutoDXT, 2048X2048)
+[2021.11.14-19.55.16:327][252]LogTexture: Display: Building textures: 10_Magic_Potion1_metallicRoughness (AutoDXT, 2048X2048)
+[2021.11.14-19.55.16:496][252]LogTexture: Display: Building textures: 11_Magic_Potion1_normal (AutoDXT, 2048X2048)
+[2021.11.14-19.55.16:755][252]LogTexture: Display: Building textures: 11_Magic_Potion1_normal (AutoDXT, 2048X2048)
+[2021.11.14-19.55.16:888][252]LogMaterial: Display: Missing cached shader map for material Magic_Potion1, compiling. 
+[2021.11.14-19.55.16:972][252]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 32
+[2021.11.14-19.55.17:198][252]LogTexture: Display: Building textures: 12_Liquid1_baseColor (AutoDXT, 2048X2048)
+[2021.11.14-19.55.19:519][252]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 23
+[2021.11.14-19.55.19:611][252]LogTexture: Display: Building textures: 13_Liquid1_metallicRoughness (AutoDXT, 2048X2048)
+[2021.11.14-19.55.19:885][252]LogTexture: Display: Building textures: 13_Liquid1_metallicRoughness (AutoDXT, 2048X2048)
+[2021.11.14-19.55.20:048][252]LogTexture: Display: Building textures: 14_Liquid1_emissive (AutoDXT, 2048X2048)
+[2021.11.14-19.55.21:213][252]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 17
+[2021.11.14-19.55.21:275][252]LogTexture: Display: Building textures: 15_Liquid1_normal (AutoDXT, 2048X2048)
+[2021.11.14-19.55.21:524][252]LogTexture: Display: Building textures: 15_Liquid1_normal (AutoDXT, 2048X2048)
+[2021.11.14-19.55.21:654][252]LogMaterial: Display: Missing cached shader map for material Liquid1, compiling. 
+[2021.11.14-19.55.21:721][252]LogTexture: Display: Building textures: 16_Upper_Rope_baseColor (AutoDXT, 2048X2048)
+[2021.11.14-19.55.22:140][252]LogTexture: Display: Building textures: 17_Upper_Rope_metallicRoughness (AutoDXT, 2048X2048)
+[2021.11.14-19.55.22:426][252]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 44
+[2021.11.14-19.55.22:442][252]LogTexture: Display: Building textures: 17_Upper_Rope_metallicRoughness (AutoDXT, 2048X2048)
+[2021.11.14-19.55.22:706][252]LogTexture: Display: Building textures: 18_Upper_Rope_normal (AutoDXT, 2048X2048)
+[2021.11.14-19.55.23:038][252]LogTexture: Display: Building textures: 18_Upper_Rope_normal (AutoDXT, 2048X2048)
+[2021.11.14-19.55.23:274][252]LogMaterial: Display: Missing cached shader map for material Upper_Rope, compiling. 
+[2021.11.14-19.55.23:293][252]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 34
+[2021.11.14-19.55.23:327][252]LogTexture: Display: Building textures: 19_Central_Rope_baseColor (AutoDXT, 2048X2048)
+[2021.11.14-19.55.23:816][252]LogTexture: Display: Building textures: 20_Central_Rope_metallicRoughness (AutoDXT, 2048X2048)
+[2021.11.14-19.55.24:128][252]LogTexture: Display: Building textures: 20_Central_Rope_metallicRoughness (AutoDXT, 2048X2048)
+[2021.11.14-19.55.24:472][252]LogTexture: Display: Building textures: 21_Central_Rope_normal (AutoDXT, 2048X2048)
+[2021.11.14-19.55.25:112][252]LogTexture: Display: Building textures: 21_Central_Rope_normal (AutoDXT, 2048X2048)
+[2021.11.14-19.55.25:675][252]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 42
+[2021.11.14-19.55.25:681][252]LogMaterial: Display: Missing cached shader map for material Central_Rope, compiling. 
+[2021.11.14-19.55.25:747][252]LogTexture: Display: Building textures: 22_Central_Rope_copy1_baseColor (AutoDXT, 2048X2048)
+[2021.11.14-19.55.26:753][252]LogTexture: Display: Building textures: 23_Central_Rope_copy1_metallicRoughness (AutoDXT, 2048X2048)
+[2021.11.14-19.55.27:107][252]LogTexture: Display: Building textures: 23_Central_Rope_copy1_metallicRoughness (AutoDXT, 2048X2048)
+[2021.11.14-19.55.27:408][252]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 49
+[2021.11.14-19.55.27:546][252]LogTexture: Display: Building textures: 24_Central_Rope_copy1_normal (AutoDXT, 2048X2048)
+[2021.11.14-19.55.29:307][252]LogTexture: Display: Building textures: 24_Central_Rope_copy1_normal (AutoDXT, 2048X2048)
+[2021.11.14-19.55.30:976][252]LogMaterial: Display: Missing cached shader map for material Central_Rope_copy1, compiling. 
+[2021.11.14-19.55.31:036][252]LogTexture: Display: Building textures: 25_Central_Rope_copy3_baseColor (AutoDXT, 2048X2048)
+[2021.11.14-19.55.31:723][252]LogTexture: Display: Building textures: 26_Central_Rope_copy3_metallicRoughness (AutoDXT, 2048X2048)
+[2021.11.14-19.55.32:056][252]LogTexture: Display: Building textures: 26_Central_Rope_copy3_metallicRoughness (AutoDXT, 2048X2048)
+[2021.11.14-19.55.32:420][252]LogTexture: Display: Building textures: 27_Central_Rope_copy3_normal (AutoDXT, 2048X2048)
+[2021.11.14-19.55.33:627][252]LogTexture: Display: Building textures: 27_Central_Rope_copy3_normal (AutoDXT, 2048X2048)
+[2021.11.14-19.55.34:788][252]LogMaterial: Display: Missing cached shader map for material Central_Rope_copy3, compiling. 
+[2021.11.14-19.55.34:863][252]LogTexture: Display: Building textures: 28_Top_Rope_baseColor (AutoDXT, 2048X2048)
+[2021.11.14-19.55.36:417][252]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 73
+[2021.11.14-19.55.36:532][252]LogTexture: Display: Building textures: 29_Top_Rope_metallicRoughness (AutoDXT, 2048X2048)
+[2021.11.14-19.55.37:100][252]LogTexture: Display: Building textures: 29_Top_Rope_metallicRoughness (AutoDXT, 2048X2048)
+[2021.11.14-19.55.37:915][252]LogTexture: Display: Building textures: 30_Top_Rope_normal (AutoDXT, 2048X2048)
+[2021.11.14-19.55.40:536][252]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 63
+[2021.11.14-19.55.40:536][252]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 53
+[2021.11.14-19.55.40:574][252]LogTexture: Display: Building textures: 30_Top_Rope_normal (AutoDXT, 2048X2048)
+[2021.11.14-19.55.43:128][252]LogMaterial: Display: Missing cached shader map for material Top_Rope, compiling. 
+[2021.11.14-19.55.43:192][252]LogTexture: Display: Building textures: 31_Central_Rope_copy4_baseColor (AutoDXT, 2048X2048)
+[2021.11.14-19.55.43:942][252]LogTexture: Display: Building textures: 32_Central_Rope_copy4_metallicRoughness (AutoDXT, 2048X2048)
+[2021.11.14-19.55.44:276][252]LogTexture: Display: Building textures: 32_Central_Rope_copy4_metallicRoughness (AutoDXT, 2048X2048)
+[2021.11.14-19.55.44:646][252]LogTexture: Display: Building textures: 33_Central_Rope_copy4_normal (AutoDXT, 2048X2048)
+[2021.11.14-19.55.45:801][252]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 60
+[2021.11.14-19.55.45:817][252]LogTexture: Display: Building textures: 33_Central_Rope_copy4_normal (AutoDXT, 2048X2048)
+[2021.11.14-19.55.46:915][252]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 50
+[2021.11.14-19.55.46:922][252]LogMaterial: Display: Missing cached shader map for material Central_Rope_copy4, compiling. 
+[2021.11.14-19.55.46:996][252]LogTexture: Display: Building textures: 34_Central_Rope_copy5_baseColor (AutoDXT, 2048X2048)
+[2021.11.14-19.55.47:806][252]LogTexture: Display: Building textures: 35_Central_Rope_copy5_metallicRoughness (AutoDXT, 2048X2048)
+[2021.11.14-19.55.48:158][252]LogTexture: Display: Building textures: 35_Central_Rope_copy5_metallicRoughness (AutoDXT, 2048X2048)
+[2021.11.14-19.55.48:597][252]LogTexture: Display: Building textures: 36_Central_Rope_copy5_normal (AutoDXT, 2048X2048)
+[2021.11.14-19.55.50:268][252]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 57
+[2021.11.14-19.55.50:289][252]LogTexture: Display: Building textures: 36_Central_Rope_copy5_normal (AutoDXT, 2048X2048)
+[2021.11.14-19.55.51:896][252]LogMaterial: Display: Missing cached shader map for material Central_Rope_copy5, compiling. 
+[2021.11.14-19.55.51:972][252]LogTexture: Display: Building textures: 37_Central_Rope_copy6_baseColor (AutoDXT, 2048X2048)
+[2021.11.14-19.55.53:247][252]LogTexture: Display: Building textures: 38_Central_Rope_copy6_metallicRoughness (AutoDXT, 2048X2048)
+[2021.11.14-19.55.53:652][252]LogTexture: Display: Building textures: 38_Central_Rope_copy6_metallicRoughness (AutoDXT, 2048X2048)
+[2021.11.14-19.55.54:148][252]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 64
+[2021.11.14-19.55.54:148][252]LogTexture: Display: Building textures: 39_Central_Rope_copy6_normal (AutoDXT, 2048X2048)
+[2021.11.14-19.55.56:227][252]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 54
+[2021.11.14-19.55.56:252][252]LogTexture: Display: Building textures: 39_Central_Rope_copy6_normal (AutoDXT, 2048X2048)
+[2021.11.14-19.55.58:310][252]LogMaterial: Display: Missing cached shader map for material Central_Rope_copy6, compiling. 
+[2021.11.14-19.55.58:366][252]LogTexture: Display: Building textures: 40_Central_Rope_copy7_baseColor (AutoDXT, 2048X2048)
+[2021.11.14-19.55.58:881][252]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 61
+[2021.11.14-19.55.58:951][252]LogTexture: Display: Building textures: 41_Central_Rope_copy7_metallicRoughness (AutoDXT, 2048X2048)
+[2021.11.14-19.55.59:268][252]LogTexture: Display: Building textures: 41_Central_Rope_copy7_metallicRoughness (AutoDXT, 2048X2048)
+[2021.11.14-19.55.59:630][252]LogTexture: Display: Building textures: 42_Central_Rope_copy7_normal (AutoDXT, 2048X2048)
+[2021.11.14-19.56.00:970][252]LogTexture: Display: Building textures: 42_Central_Rope_copy7_normal (AutoDXT, 2048X2048)
+[2021.11.14-19.56.02:855][252]LogMaterial: Display: Missing cached shader map for material Central_Rope_copy7, compiling. 
+[2021.11.14-19.56.02:959][252]LogTexture: Display: Building textures: 3_Mouth_bottle2_baseColor (AutoDXT, 2048X2048)
+[2021.11.14-19.56.04:310][252]LogTexture: Display: Building textures: 43_Bottom_Rope_metallicRoughness (AutoDXT, 2048X2048)
+[2021.11.14-19.56.05:144][252]LogTexture: Display: Building textures: 43_Bottom_Rope_metallicRoughness (AutoDXT, 2048X2048)
+[2021.11.14-19.56.06:232][252]LogTexture: Display: Building textures: 44_Bottom_Rope_normal (AutoDXT, 2048X2048)
+[2021.11.14-19.56.09:761][252]LogTexture: Display: Building textures: 44_Bottom_Rope_normal (AutoDXT, 2048X2048)
+[2021.11.14-19.56.13:758][252]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 68
+[2021.11.14-19.56.13:766][252]LogMaterial: Display: Missing cached shader map for material Bottom_Rope, compiling. 
+[2021.11.14-19.56.13:841][252]LogTexture: Display: Building textures: 45_Central_Rope_copy2_baseColor (AutoDXT, 2048X2048)
+[2021.11.14-19.56.14:958][252]LogTexture: Display: Building textures: 46_Central_Rope_copy2_metallicRoughness (AutoDXT, 2048X2048)
+[2021.11.14-19.56.15:491][252]LogTexture: Display: Building textures: 46_Central_Rope_copy2_metallicRoughness (AutoDXT, 2048X2048)
+[2021.11.14-19.56.16:071][252]LogTexture: Display: Building textures: 47_Central_Rope_copy2_normal (AutoDXT, 2048X2048)
+[2021.11.14-19.56.18:221][252]LogTexture: Display: Building textures: 47_Central_Rope_copy2_normal (AutoDXT, 2048X2048)
+[2021.11.14-19.56.20:180][252]LogMaterial: Display: Missing cached shader map for material Central_Rope_copy2, compiling. 
+[2021.11.14-19.56.20:233][252]LogTexture: Display: Building textures: 48_Bubbles_baseColor (AutoDXT, 2048X2048)
+[2021.11.14-19.56.20:573][252]LogTexture: Display: Building textures: 49_Bubbles_metallicRoughness (AutoDXT, 2048X2048)
+[2021.11.14-19.56.20:937][252]LogTexture: Display: Building textures: 49_Bubbles_metallicRoughness (AutoDXT, 2048X2048)
+[2021.11.14-19.56.21:173][252]LogTexture: Display: Building textures: 50_Bubbles_emissive (AutoDXT, 2048X2048)
+[2021.11.14-19.56.21:570][252]LogTexture: Display: Building textures: 51_Bubbles_normal (AutoDXT, 2048X2048)
+[2021.11.14-19.56.21:878][252]LogTexture: Display: Building textures: 51_Bubbles_normal (AutoDXT, 2048X2048)
+[2021.11.14-19.56.22:042][252]LogMaterial: Display: Missing cached shader map for material Bubbles, compiling. 
+[2021.11.14-19.56.22:080][252]LogStaticMesh: Building static mesh 0_Algae_Algae_0...
+[2021.11.14-19.56.22:091][252]LogStaticMesh: Built static mesh [0.01s] /Game/Blueprints/Potion/Magic_Potion/0_Algae_Algae_0.0_Algae_Algae_0
+[2021.11.14-19.56.22:098][252]LogStaticMesh: Building static mesh 1_Mouth_bottle2_Mouth_bottle2_0...
+[2021.11.14-19.56.22:110][252]LogStaticMesh: Built static mesh [0.01s] /Game/Blueprints/Potion/Magic_Potion/1_Mouth_bottle2_Mouth_bottle2_0.1_Mouth_bottle2_Mouth_bottle2_0
+[2021.11.14-19.56.22:118][252]LogStaticMesh: Building static mesh 2_Plug1_Plug1_0...
+[2021.11.14-19.56.22:119][252]LogStaticMesh: Built static mesh [0.00s] /Game/Blueprints/Potion/Magic_Potion/2_Plug1_Plug1_0.2_Plug1_Plug1_0
+[2021.11.14-19.56.22:122][252]LogStaticMesh: Building static mesh 3_Magic_Potion_Magic_Potion1_0...
+[2021.11.14-19.56.22:147][252]LogStaticMesh: Built static mesh [0.02s] /Game/Blueprints/Potion/Magic_Potion/3_Magic_Potion_Magic_Potion1_0.3_Magic_Potion_Magic_Potion1_0
+[2021.11.14-19.56.22:161][252]LogStaticMesh: Building static mesh 4_Liquid_Liquid1_0...
+[2021.11.14-19.56.22:173][252]LogStaticMesh: Built static mesh [0.01s] /Game/Blueprints/Potion/Magic_Potion/4_Liquid_Liquid1_0.4_Liquid_Liquid1_0
+[2021.11.14-19.56.22:180][252]LogStaticMesh: Building static mesh 5_Upper_Rope_Upper_Rope_0...
+[2021.11.14-19.56.22:193][252]LogStaticMesh: Built static mesh [0.01s] /Game/Blueprints/Potion/Magic_Potion/5_Upper_Rope_Upper_Rope_0.5_Upper_Rope_Upper_Rope_0
+[2021.11.14-19.56.22:200][252]LogStaticMesh: Building static mesh 6_Central_Rope_Central_Rope_0...
+[2021.11.14-19.56.22:247][252]LogStaticMesh: Built static mesh [0.05s] /Game/Blueprints/Potion/Magic_Potion/6_Central_Rope_Central_Rope_0.6_Central_Rope_Central_Rope_0
+[2021.11.14-19.56.22:269][252]LogStaticMesh: Building static mesh 7_Central_Rope_copy1_Central_Rope_copy1_0...
+[2021.11.14-19.56.22:275][252]LogStaticMesh: Built static mesh [0.01s] /Game/Blueprints/Potion/Magic_Potion/7_Central_Rope_copy1_Central_Rope_copy1_0.7_Central_Rope_copy1_Central_Rope_copy1_0
+[2021.11.14-19.56.22:280][252]LogStaticMesh: Building static mesh 8_Central_Rope_copy3_Central_Rope_copy3_0...
+[2021.11.14-19.56.22:289][252]LogStaticMesh: Built static mesh [0.01s] /Game/Blueprints/Potion/Magic_Potion/8_Central_Rope_copy3_Central_Rope_copy3_0.8_Central_Rope_copy3_Central_Rope_copy3_0
+[2021.11.14-19.56.22:295][252]LogStaticMesh: Building static mesh 9_Top_Rope_Top_Rope_0...
+[2021.11.14-19.56.22:332][252]LogStaticMesh: Built static mesh [0.04s] /Game/Blueprints/Potion/Magic_Potion/9_Top_Rope_Top_Rope_0.9_Top_Rope_Top_Rope_0
+[2021.11.14-19.56.22:351][252]LogStaticMesh: Building static mesh 10_Central_Rope_copy4_Central_Rope_copy4_0...
+[2021.11.14-19.56.22:361][252]LogStaticMesh: Built static mesh [0.01s] /Game/Blueprints/Potion/Magic_Potion/10_Central_Rope_copy4_Central_Rope_copy4_0.10_Central_Rope_copy4_Central_Rope_copy4_0
+[2021.11.14-19.56.22:368][252]LogStaticMesh: Building static mesh 11_Central_Rope_copy5_Central_Rope_copy5_0...
+[2021.11.14-19.56.22:375][252]LogStaticMesh: Built static mesh [0.01s] /Game/Blueprints/Potion/Magic_Potion/11_Central_Rope_copy5_Central_Rope_copy5_0.11_Central_Rope_copy5_Central_Rope_copy5_0
+[2021.11.14-19.56.22:379][252]LogStaticMesh: Building static mesh 12_Central_Rope_copy6_Central_Rope_copy6_0...
+[2021.11.14-19.56.22:387][252]LogStaticMesh: Built static mesh [0.01s] /Game/Blueprints/Potion/Magic_Potion/12_Central_Rope_copy6_Central_Rope_copy6_0.12_Central_Rope_copy6_Central_Rope_copy6_0
+[2021.11.14-19.56.22:393][252]LogStaticMesh: Building static mesh 13_Central_Rope_copy7_Central_Rope_copy7_0...
+[2021.11.14-19.56.22:401][252]LogStaticMesh: Built static mesh [0.01s] /Game/Blueprints/Potion/Magic_Potion/13_Central_Rope_copy7_Central_Rope_copy7_0.13_Central_Rope_copy7_Central_Rope_copy7_0
+[2021.11.14-19.56.22:408][252]LogStaticMesh: Building static mesh 14_Bottom_Rope_Bottom_Rope_0...
+[2021.11.14-19.56.22:444][252]LogStaticMesh: Built static mesh [0.04s] /Game/Blueprints/Potion/Magic_Potion/14_Bottom_Rope_Bottom_Rope_0.14_Bottom_Rope_Bottom_Rope_0
+[2021.11.14-19.56.22:460][252]LogStaticMesh: Building static mesh 15_Central_Rope_copy2_Central_Rope_copy2_0...
+[2021.11.14-19.56.22:465][252]LogStaticMesh: Built static mesh [0.01s] /Game/Blueprints/Potion/Magic_Potion/15_Central_Rope_copy2_Central_Rope_copy2_0.15_Central_Rope_copy2_Central_Rope_copy2_0
+[2021.11.14-19.56.22:471][252]LogStaticMesh: Building static mesh 16_Bubbles32_Bubbles_0...
+[2021.11.14-19.56.22:484][252]LogStaticMesh: Built static mesh [0.01s] /Game/Blueprints/Potion/Magic_Potion/16_Bubbles32_Bubbles_0.16_Bubbles32_Bubbles_0
+[2021.11.14-19.56.22:490][252]LoadErrors: Warning: Extension is not supported: KHR_materials_transmission
+[2021.11.14-19.56.22:527][252]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Dreamtyt\Desktop\Game Design\Potion/textures/Algae_baseColor.jpeg)
+[2021.11.14-19.56.22:570][252]LogTexture: Display: Building textures: Algae_baseColor (AutoDXT, 2048X2048)
+[2021.11.14-19.56.23:325][252]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 109
+[2021.11.14-19.56.23:333][252]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Dreamtyt\Desktop\Game Design\Potion/textures/Algae_metallicRoughness.png)
+[2021.11.14-19.56.23:423][252]LogTexture: Display: Building textures: Algae_metallicRoughness (AutoDXT, 2048X2048)
+[2021.11.14-19.56.23:904][252]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Dreamtyt\Desktop\Game Design\Potion/textures/Algae_normal.png)
+[2021.11.14-19.56.24:117][252]LogTexture: Display: Building textures: Algae_normal (BC5, 2048X2048)
+[2021.11.14-19.56.24:478][252]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Dreamtyt\Desktop\Game Design\Potion/textures/Bottom_Rope_metallicRoughness.png)
+[2021.11.14-19.56.24:564][252]LogTexture: Display: Building textures: Bottom_Rope_metallicRoughness (AutoDXT, 2048X2048)
+[2021.11.14-19.56.25:500][252]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 99
+[2021.11.14-19.56.25:500][252]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Dreamtyt\Desktop\Game Design\Potion/textures/Bottom_Rope_normal.png)
+[2021.11.14-19.56.25:810][252]LogTexture: Display: Building textures: Bottom_Rope_normal (AutoDXT, 2048X2048)
+[2021.11.14-19.56.28:911][252]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 89
+[2021.11.14-19.56.28:929][252]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Dreamtyt\Desktop\Game Design\Potion/textures/Bubbles_baseColor.jpeg)
+[2021.11.14-19.56.28:959][252]LogTexture: Display: Building textures: Bubbles_baseColor (AutoDXT, 2048X2048)
+[2021.11.14-19.56.29:217][252]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Dreamtyt\Desktop\Game Design\Potion/textures/Bubbles_emissive.jpeg)
+[2021.11.14-19.56.29:249][252]LogTexture: Display: Building textures: Bubbles_emissive (AutoDXT, 2048X2048)
+[2021.11.14-19.56.29:541][252]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Dreamtyt\Desktop\Game Design\Potion/textures/Bubbles_metallicRoughness.png)
+[2021.11.14-19.56.29:595][252]LogTexture: Display: Building textures: Bubbles_metallicRoughness (AutoDXT, 2048X2048)
+[2021.11.14-19.56.29:875][252]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Dreamtyt\Desktop\Game Design\Potion/textures/Bubbles_normal.png)
+[2021.11.14-19.56.29:935][252]LogTexture: Display: Building textures: Bubbles_normal (BC5, 2048X2048)
+[2021.11.14-19.56.30:226][252]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Dreamtyt\Desktop\Game Design\Potion/textures/Central_Rope_baseColor.jpeg)
+[2021.11.14-19.56.30:263][252]LogTexture: Display: Building textures: Central_Rope_baseColor (AutoDXT, 2048X2048)
+[2021.11.14-19.56.30:801][252]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Dreamtyt\Desktop\Game Design\Potion/textures/Central_Rope_copy1_baseColor.jpeg)
+[2021.11.14-19.56.30:848][252]LogTexture: Display: Building textures: Central_Rope_copy1_baseColor (AutoDXT, 2048X2048)
+[2021.11.14-19.56.31:930][252]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Dreamtyt\Desktop\Game Design\Potion/textures/Central_Rope_copy1_metallicRoughness.png)
+[2021.11.14-19.56.32:013][252]LogTexture: Display: Building textures: Central_Rope_copy1_metallicRoughness (AutoDXT, 2048X2048)
+[2021.11.14-19.56.32:477][252]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Dreamtyt\Desktop\Game Design\Potion/textures/Central_Rope_copy1_normal.png)
+[2021.11.14-19.56.32:626][252]LogTexture: Display: Building textures: Central_Rope_copy1_normal (AutoDXT, 2048X2048)
+[2021.11.14-19.56.34:643][252]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Dreamtyt\Desktop\Game Design\Potion/textures/Central_Rope_copy2_baseColor.jpeg)
+[2021.11.14-19.56.34:687][252]LogTexture: Display: Building textures: Central_Rope_copy2_baseColor (AutoDXT, 2048X2048)
+[2021.11.14-19.56.35:563][252]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Dreamtyt\Desktop\Game Design\Potion/textures/Central_Rope_copy2_metallicRoughness.png)
+[2021.11.14-19.56.35:649][252]LogTexture: Display: Building textures: Central_Rope_copy2_metallicRoughness (AutoDXT, 2048X2048)
+[2021.11.14-19.56.36:173][252]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Dreamtyt\Desktop\Game Design\Potion/textures/Central_Rope_copy2_normal.png)
+[2021.11.14-19.56.36:352][252]LogTexture: Display: Building textures: Central_Rope_copy2_normal (AutoDXT, 2048X2048)
+[2021.11.14-19.56.38:436][252]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Dreamtyt\Desktop\Game Design\Potion/textures/Central_Rope_copy3_baseColor.jpeg)
+[2021.11.14-19.56.38:481][252]LogTexture: Display: Building textures: Central_Rope_copy3_baseColor (AutoDXT, 2048X2048)
+[2021.11.14-19.56.39:344][252]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Dreamtyt\Desktop\Game Design\Potion/textures/Central_Rope_copy3_metallicRoughness.png)
+[2021.11.14-19.56.39:424][252]LogTexture: Display: Building textures: Central_Rope_copy3_metallicRoughness (AutoDXT, 2048X2048)
+[2021.11.14-19.56.39:935][252]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Dreamtyt\Desktop\Game Design\Potion/textures/Central_Rope_copy3_normal.png)
+[2021.11.14-19.56.40:054][252]LogTexture: Display: Building textures: Central_Rope_copy3_normal (AutoDXT, 2048X2048)
+[2021.11.14-19.56.41:846][252]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Dreamtyt\Desktop\Game Design\Potion/textures/Central_Rope_copy4_baseColor.jpeg)
+[2021.11.14-19.56.41:889][252]LogTexture: Display: Building textures: Central_Rope_copy4_baseColor (AutoDXT, 2048X2048)
+[2021.11.14-19.56.42:734][252]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Dreamtyt\Desktop\Game Design\Potion/textures/Central_Rope_copy4_metallicRoughness.png)
+[2021.11.14-19.56.42:820][252]LogTexture: Display: Building textures: Central_Rope_copy4_metallicRoughness (AutoDXT, 2048X2048)
+[2021.11.14-19.56.43:192][252]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Dreamtyt\Desktop\Game Design\Potion/textures/Central_Rope_copy4_normal.png)
+[2021.11.14-19.56.43:332][252]LogTexture: Display: Building textures: Central_Rope_copy4_normal (AutoDXT, 2048X2048)
+[2021.11.14-19.56.44:650][252]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Dreamtyt\Desktop\Game Design\Potion/textures/Central_Rope_copy5_baseColor.jpeg)
+[2021.11.14-19.56.44:703][252]LogTexture: Display: Building textures: Central_Rope_copy5_baseColor (AutoDXT, 2048X2048)
+[2021.11.14-19.56.45:599][252]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Dreamtyt\Desktop\Game Design\Potion/textures/Central_Rope_copy5_metallicRoughness.png)
+[2021.11.14-19.56.45:675][252]LogTexture: Display: Building textures: Central_Rope_copy5_metallicRoughness (AutoDXT, 2048X2048)
+[2021.11.14-19.56.46:178][252]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Dreamtyt\Desktop\Game Design\Potion/textures/Central_Rope_copy5_normal.png)
+[2021.11.14-19.56.46:381][252]LogTexture: Display: Building textures: Central_Rope_copy5_normal (AutoDXT, 2048X2048)
+[2021.11.14-19.56.48:267][252]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 79
+[2021.11.14-19.56.48:267][252]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 69
+[2021.11.14-19.56.48:276][252]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Dreamtyt\Desktop\Game Design\Potion/textures/Central_Rope_copy6_baseColor.jpeg)
+[2021.11.14-19.56.48:340][252]LogTexture: Display: Building textures: Central_Rope_copy6_baseColor (AutoDXT, 2048X2048)
+[2021.11.14-19.56.49:924][252]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Dreamtyt\Desktop\Game Design\Potion/textures/Central_Rope_copy6_metallicRoughness.png)
+[2021.11.14-19.56.50:004][252]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 59
+[2021.11.14-19.56.50:004][252]LogTexture: Display: Building textures: Central_Rope_copy6_metallicRoughness (AutoDXT, 2048X2048)
+[2021.11.14-19.56.50:624][252]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Dreamtyt\Desktop\Game Design\Potion/textures/Central_Rope_copy6_normal.png)
+[2021.11.14-19.56.50:780][252]LogTexture: Display: Building textures: Central_Rope_copy6_normal (AutoDXT, 2048X2048)
+[2021.11.14-19.56.53:279][252]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Dreamtyt\Desktop\Game Design\Potion/textures/Central_Rope_copy7_baseColor.jpeg)
+[2021.11.14-19.56.53:321][252]LogTexture: Display: Building textures: Central_Rope_copy7_baseColor (AutoDXT, 2048X2048)
+[2021.11.14-19.56.54:033][252]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Dreamtyt\Desktop\Game Design\Potion/textures/Central_Rope_copy7_metallicRoughness.png)
+[2021.11.14-19.56.54:104][252]LogTexture: Display: Building textures: Central_Rope_copy7_metallicRoughness (AutoDXT, 2048X2048)
+[2021.11.14-19.56.54:554][252]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Dreamtyt\Desktop\Game Design\Potion/textures/Central_Rope_copy7_normal.png)
+[2021.11.14-19.56.54:679][252]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 49
+[2021.11.14-19.56.54:679][252]LogTexture: Display: Building textures: Central_Rope_copy7_normal (AutoDXT, 2048X2048)
+[2021.11.14-19.56.56:257][252]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Dreamtyt\Desktop\Game Design\Potion/textures/Central_Rope_metallicRoughness.png)
+[2021.11.14-19.56.56:341][252]LogTexture: Display: Building textures: Central_Rope_metallicRoughness (AutoDXT, 2048X2048)
+[2021.11.14-19.56.56:765][252]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Dreamtyt\Desktop\Game Design\Potion/textures/Central_Rope_normal.png)
+[2021.11.14-19.56.56:911][252]LogTexture: Display: Building textures: Central_Rope_normal (AutoDXT, 2048X2048)
+[2021.11.14-19.56.57:775][252]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Dreamtyt\Desktop\Game Design\Potion/textures/Liquid1_baseColor.png)
+[2021.11.14-19.56.58:060][252]LogTexture: Display: Building textures: Liquid1_baseColor (AutoDXT, 2048X2048)
+[2021.11.14-19.57.01:412][252]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Dreamtyt\Desktop\Game Design\Potion/textures/Liquid1_emissive.jpeg)
+[2021.11.14-19.57.01:464][252]LogTexture: Display: Building textures: Liquid1_emissive (AutoDXT, 2048X2048)
+[2021.11.14-19.57.02:864][252]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Dreamtyt\Desktop\Game Design\Potion/textures/Liquid1_metallicRoughness.png)
+[2021.11.14-19.57.02:926][252]LogTexture: Display: Building textures: Liquid1_metallicRoughness (AutoDXT, 2048X2048)
+[2021.11.14-19.57.03:228][252]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Dreamtyt\Desktop\Game Design\Potion/textures/Liquid1_normal.png)
+[2021.11.14-19.57.03:296][252]LogTexture: Display: Building textures: Liquid1_normal (BC5, 2048X2048)
+[2021.11.14-19.57.03:610][252]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Dreamtyt\Desktop\Game Design\Potion/textures/Magic_Potion1_baseColor.png)
+[2021.11.14-19.57.03:956][252]LogTexture: Display: Building textures: Magic_Potion1_baseColor (AutoDXT, 2048X2048)
+[2021.11.14-19.57.06:738][252]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 39
+[2021.11.14-19.57.06:765][252]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Dreamtyt\Desktop\Game Design\Potion/textures/Magic_Potion1_metallicRoughness.png)
+[2021.11.14-19.57.06:829][252]LogTexture: Display: Building textures: Magic_Potion1_metallicRoughness (AutoDXT, 2048X2048)
+[2021.11.14-19.57.07:137][252]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Dreamtyt\Desktop\Game Design\Potion/textures/Magic_Potion1_normal.png)
+[2021.11.14-19.57.07:215][252]LogTexture: Display: Building textures: Magic_Potion1_normal (BC5, 2048X2048)
+[2021.11.14-19.57.07:490][252]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Dreamtyt\Desktop\Game Design\Potion/textures/Mouth_bottle2_baseColor.jpeg)
+[2021.11.14-19.57.07:539][252]LogTexture: Display: Building textures: Mouth_bottle2_baseColor (AutoDXT, 2048X2048)
+[2021.11.14-19.57.08:813][252]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Dreamtyt\Desktop\Game Design\Potion/textures/Mouth_bottle2_metallicRoughness.png)
+[2021.11.14-19.57.09:001][252]LogTexture: Display: Building textures: Mouth_bottle2_metallicRoughness (AutoDXT, 2048X2048)
+[2021.11.14-19.57.10:994][252]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Dreamtyt\Desktop\Game Design\Potion/textures/Mouth_bottle2_normal.png)
+[2021.11.14-19.57.11:218][252]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 29
+[2021.11.14-19.57.11:227][252]LogTexture: Display: Building textures: Mouth_bottle2_normal (BC5, 2048X2048)
+[2021.11.14-19.57.11:657][252]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Dreamtyt\Desktop\Game Design\Potion/textures/Plug1_baseColor.jpeg)
+[2021.11.14-19.57.11:717][252]LogTexture: Display: Building textures: Plug1_baseColor (AutoDXT, 2048X2048)
+[2021.11.14-19.57.13:513][252]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Dreamtyt\Desktop\Game Design\Potion/textures/Plug1_metallicRoughness.png)
+[2021.11.14-19.57.13:615][252]LogTexture: Display: Building textures: Plug1_metallicRoughness (AutoDXT, 2048X2048)
+[2021.11.14-19.57.14:849][252]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Dreamtyt\Desktop\Game Design\Potion/textures/Plug1_normal.png)
+[2021.11.14-19.57.15:047][252]LogTexture: Display: Building textures: Plug1_normal (BC5, 2048X2048)
+[2021.11.14-19.57.15:388][252]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Dreamtyt\Desktop\Game Design\Potion/textures/Top_Rope_baseColor.jpeg)
+[2021.11.14-19.57.15:446][252]LogTexture: Display: Building textures: Top_Rope_baseColor (AutoDXT, 2048X2048)
+[2021.11.14-19.57.17:251][252]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Dreamtyt\Desktop\Game Design\Potion/textures/Top_Rope_metallicRoughness.png)
+[2021.11.14-19.57.17:398][252]LogTexture: Display: Building textures: Top_Rope_metallicRoughness (AutoDXT, 2048X2048)
+[2021.11.14-19.57.18:094][252]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 21
+[2021.11.14-19.57.18:153][252]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Dreamtyt\Desktop\Game Design\Potion/textures/Top_Rope_normal.png)
+[2021.11.14-19.57.18:483][252]LogTexture: Display: Building textures: Top_Rope_normal (AutoDXT, 2048X2048)
+[2021.11.14-19.57.21:399][252]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 15
+[2021.11.14-19.57.21:417][252]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Dreamtyt\Desktop\Game Design\Potion/textures/Upper_Rope_baseColor.jpeg)
+[2021.11.14-19.57.21:455][252]LogTexture: Display: Building textures: Upper_Rope_baseColor (AutoDXT, 2048X2048)
+[2021.11.14-19.57.21:882][252]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 11
+[2021.11.14-19.57.21:904][252]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Dreamtyt\Desktop\Game Design\Potion/textures/Upper_Rope_metallicRoughness.png)
+[2021.11.14-19.57.21:963][252]LogTexture: Display: Building textures: Upper_Rope_metallicRoughness (AutoDXT, 2048X2048)
+[2021.11.14-19.57.22:296][252]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Dreamtyt\Desktop\Game Design\Potion/textures/Upper_Rope_normal.png)
+[2021.11.14-19.57.22:371][252]LogTexture: Display: Building textures: Upper_Rope_normal (BC5, 2048X2048)
+[2021.11.14-19.57.23:298][252]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 8
+[2021.11.14-19.57.23:488][253]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2021.11.14-19.57.25:090][267]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2021.11.14-19.57.25:098][267]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2021.11.14-19.57.25:786][278]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2021.11.14-19.57.26:297][287]LogSlate: Window 'Message Log' being destroyed
+[2021.11.14-19.57.26:348][287]LogSlate: Window 'Message Log' being destroyed
+[2021.11.14-19.57.55:259][261]LogSlate: Window 'Pick Parent Class' being destroyed
+[2021.11.14-19.57.55:268][261]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2021.11.14-19.57.55:277][261]LogContentBrowser: Creating deferred item: NewBlueprint
+[2021.11.14-19.57.57:922][333]LogContentBrowser: Attempting asset rename: NewBlueprint -> Potion
+[2021.11.14-19.57.57:926][333]LogContentBrowser: End creating deferred item NewBlueprint
+[2021.11.14-19.57.59:484][373]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Potion/Potion.Potion
+[2021.11.14-19.58.01:954][435]LogSlate: Window 'Potion' being destroyed
+[2021.11.14-19.58.05:690][507]LogActorFactory: Actor Factory created 0_Algae_Algae_0
+[2021.11.14-19.58.05:691][507]LogActorFactory: Actor Factory created 10_Central_Rope_copy4_Central_Rope_copy4_0
+[2021.11.14-19.58.05:691][507]LogActorFactory: Actor Factory created 11_Central_Rope_copy5_Central_Rope_copy5_0
+[2021.11.14-19.58.05:691][507]LogActorFactory: Actor Factory created 12_Central_Rope_copy6_Central_Rope_copy6_0
+[2021.11.14-19.58.05:692][507]LogActorFactory: Actor Factory created 13_Central_Rope_copy7_Central_Rope_copy7_0
+[2021.11.14-19.58.05:692][507]LogActorFactory: Actor Factory created 14_Bottom_Rope_Bottom_Rope_0
+[2021.11.14-19.58.05:692][507]LogActorFactory: Actor Factory created 15_Central_Rope_copy2_Central_Rope_copy2_0
+[2021.11.14-19.58.05:693][507]LogActorFactory: Actor Factory created 16_Bubbles32_Bubbles_0
+[2021.11.14-19.58.05:693][507]LogActorFactory: Actor Factory created 1_Mouth_bottle2_Mouth_bottle2_0
+[2021.11.14-19.58.05:693][507]LogActorFactory: Actor Factory created 2_Plug1_Plug1_0
+[2021.11.14-19.58.05:693][507]LogActorFactory: Actor Factory created 3_Magic_Potion_Magic_Potion1_0
+[2021.11.14-19.58.05:694][507]LogActorFactory: Actor Factory created 4_Liquid_Liquid1_0
+[2021.11.14-19.58.05:695][507]LogActorFactory: Actor Factory created 5_Upper_Rope_Upper_Rope_0
+[2021.11.14-19.58.05:695][507]LogActorFactory: Actor Factory created 6_Central_Rope_Central_Rope_0
+[2021.11.14-19.58.05:696][507]LogActorFactory: Actor Factory created 7_Central_Rope_copy1_Central_Rope_copy1_0
+[2021.11.14-19.58.05:696][507]LogActorFactory: Actor Factory created 8_Central_Rope_copy3_Central_Rope_copy3_0
+[2021.11.14-19.58.05:697][507]LogActorFactory: Actor Factory created 9_Top_Rope_Top_Rope_0
+[2021.11.14-19.58.58:537][820]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Potion/Potion" FILE="../../../../../../Users/Dreamtyt/Desktop/GitHub/GamersBot/OneShot/Content/Blueprints/Potion/Potion.uasset" SILENT=true
+[2021.11.14-19.58.58:548][820]LogSavePackage: Moving '../../../../../../Users/Dreamtyt/Desktop/GitHub/GamersBot/OneShot/Saved/PotionDFE940DE486DF10AB92D62AF8CEF4C6B.tmp' to '../../../../../../Users/Dreamtyt/Desktop/GitHub/GamersBot/OneShot/Content/Blueprints/Potion/Potion.uasset'
+[2021.11.14-19.58.58:567][820]AssetCheck: New page: Asset Save: Potion
+[2021.11.14-19.58.58:567][820]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Potion/Potion.Potion
+[2021.11.14-19.58.58:881][828]BlueprintLog: New page: Compile Potion
+[2021.11.14-19.58.58:932][828]LogUObjectHash: Compacting FUObjectHashTables data took   2.78ms
+[2021.11.14-19.59.00:830][868]LogSlate: Window 'Potion' being destroyed
+[2021.11.14-19.59.00:867][868]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2021.11.14-19.59.00:867][868]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.14-19.59.06:944][  4]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Coins.Coins
+[2021.11.14-19.59.10:605][ 89]LogSlate: Window 'Coins' being destroyed
+[2021.11.14-19.59.22:659][317]LogSlate: Window 'Delete Component' being destroyed
+[2021.11.14-19.59.36:350][734]BlueprintLog: New page: Compile Coins
+[2021.11.14-19.59.36:408][734]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2021.11.14-19.59.37:097][749]LogSlate: Window 'Coins' being destroyed
+[2021.11.14-19.59.37:138][749]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2021.11.14-19.59.37:138][749]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.14-19.59.39:440][807]LogTemp: Repeating last play command: Selected Viewport
+[2021.11.14-19.59.39:447][807]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.11.14-19.59.39:448][807]PIE: New page: PIE session: Tutorial (Nov 14, 2021, 11:59:39 PM)
+[2021.11.14-19.59.39:449][807]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2021.11.14-19.59.39:451][807]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2021.11.14-19.59.39:451][807]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Tutorial
+[2021.11.14-19.59.39:465][807]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013976s)
+[2021.11.14-19.59.39:466][807]LogAIModule: Creating AISystem for world Tutorial
+[2021.11.14-19.59.39:466][807]LogPlayLevel: PIE: World Init took: (0.001561s)
+[2021.11.14-19.59.39:466][807]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Tutorial.Tutorial to /Game/Levels/UEDPIE_0_Tutorial.Tutorial (0.015758s)
+[2021.11.14-19.59.39:487][807]LogUObjectHash: Compacting FUObjectHashTables data took   2.64ms
+[2021.11.14-19.59.39:488][807]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2021.11.14-19.59.39:488][807]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.11.14-19.59.39:488][807]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.11.14-19.59.39:488][807]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.11.14-19.59.39:488][807]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.11.14-19.59.39:488][807]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.11.14-19.59.39:488][807]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.11.14-19.59.39:488][807]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.11.14-19.59.39:488][807]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.11.14-19.59.39:488][807]LogAudio: Display: Using built-in audio occlusion.
+[2021.11.14-19.59.39:488][807]LogAudioMixer: Display: Initializing audio mixer.
+[2021.11.14-19.59.39:497][807]LogAudioMixer: Display: 0: FrontLeft
+[2021.11.14-19.59.39:497][807]LogAudioMixer: Display: 1: FrontRight
+[2021.11.14-19.59.39:525][807]LogAudioMixer: Display: Using Audio Device Speakers (PRO)
+[2021.11.14-19.59.39:526][807]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.11.14-19.59.39:526][807]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.11.14-19.59.39:526][807]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.11.14-19.59.39:526][807]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.11.14-19.59.39:526][807]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.11.14-19.59.39:526][807]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.11.14-19.59.39:545][807]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.11.14-19.59.39:545][807]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.11.14-19.59.39:545][807]LogInit: FAudioDevice initialized.
+[2021.11.14-19.59.39:545][807]LogAudio: Display: Audio Device (ID: 2) registered with world 'Tutorial'.
+[2021.11.14-19.59.39:557][807]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.11.14-19.59.39:563][807]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2021.11.14-19.59.40:743][807]LogStats: FPlatformStackWalk::StackWalkAndDump -  1.180 s
+[2021.11.14-19.59.40:744][807]LogOutputDevice: Error: === Handled ensure: ===
+[2021.11.14-19.59.40:744][807]LogOutputDevice: Error: 
+[2021.11.14-19.59.40:744][807]LogOutputDevice: Error: Ensure condition failed: Cast<APawn>(NewUpdatedComponent->GetOwner()) [File:D:/Build/++UE4/Sync/Engine/Source/Runtime/Engine/Private/Components/PawnMovementComponent.cpp] [Line: 18]
+[2021.11.14-19.59.40:744][807]LogOutputDevice: Error: FloatingPawnMovement must update a component owned by a Pawn
+[2021.11.14-19.59.40:744][807]LogOutputDevice: Error: Stack: 
+[2021.11.14-19.59.40:744][807]LogOutputDevice: Error: [Callstack] 0x00007ff92e568dd2 UE4Editor-Engine.dll!UnknownFunction []
+[2021.11.14-19.59.40:744][807]LogOutputDevice: Error: [Callstack] 0x00007ff92cfdf95d UE4Editor-Engine.dll!UnknownFunction []
+[2021.11.14-19.59.40:744][807]LogOutputDevice: Error: [Callstack] 0x00007ff92cfccf57 UE4Editor-Engine.dll!UnknownFunction []
+[2021.11.14-19.59.40:744][807]LogOutputDevice: Error: [Callstack] 0x00007ff92cf13729 UE4Editor-Engine.dll!UnknownFunction []
+[2021.11.14-19.59.40:744][807]LogOutputDevice: Error: [Callstack] 0x00007ff92cf303f5 UE4Editor-Engine.dll!UnknownFunction []
+[2021.11.14-19.59.40:744][807]LogOutputDevice: Error: [Callstack] 0x00007ff92cb5f5f2 UE4Editor-Engine.dll!UnknownFunction []
+[2021.11.14-19.59.40:744][807]LogOutputDevice: Error: [Callstack] 0x00007ff92d4606ef UE4Editor-Engine.dll!UnknownFunction []
+[2021.11.14-19.59.40:744][807]LogOutputDevice: Error: [Callstack] 0x00007ff92df15b00 UE4Editor-Engine.dll!UnknownFunction []
+[2021.11.14-19.59.40:744][807]LogOutputDevice: Error: [Callstack] 0x00007ff92dee78c6 UE4Editor-Engine.dll!UnknownFunction []
+[2021.11.14-19.59.40:744][807]LogOutputDevice: Error: [Callstack] 0x00007ff92d2b7dfd UE4Editor-Engine.dll!UnknownFunction []
+[2021.11.14-19.59.40:744][807]LogOutputDevice: Error: [Callstack] 0x00007ff9532aa1a5 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.11.14-19.59.40:744][807]LogOutputDevice: Error: [Callstack] 0x00007ff9532ccd6f UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.11.14-19.59.40:744][807]LogOutputDevice: Error: [Callstack] 0x00007ff9532aaedd UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.11.14-19.59.40:744][807]LogOutputDevice: Error: [Callstack] 0x00007ff9532e8c42 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.11.14-19.59.40:744][807]LogOutputDevice: Error: [Callstack] 0x00007ff9532ec1d1 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.11.14-19.59.40:744][807]LogOutputDevice: Error: [Callstack] 0x00007ff9532eba98 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.11.14-19.59.40:744][807]LogOutputDevice: Error: [Callstack] 0x00007ff952d48c38 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.11.14-19.59.40:744][807]LogOutputDevice: Error: [Callstack] 0x00007ff9536650e6 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.11.14-19.59.40:744][807]LogOutputDevice: Error: [Callstack] 0x00007ff7434a9bc2 UE4Editor.exe!UnknownFunction []
+[2021.11.14-19.59.40:744][807]LogOutputDevice: Error: [Callstack] 0x00007ff7434c117c UE4Editor.exe!UnknownFunction []
+[2021.11.14-19.59.40:744][807]LogOutputDevice: Error: [Callstack] 0x00007ff7434c125a UE4Editor.exe!UnknownFunction []
+[2021.11.14-19.59.40:744][807]LogOutputDevice: Error: [Callstack] 0x00007ff7434d52bd UE4Editor.exe!UnknownFunction []
+[2021.11.14-19.59.40:744][807]LogOutputDevice: Error: [Callstack] 0x00007ff7434d7fea UE4Editor.exe!UnknownFunction []
+[2021.11.14-19.59.40:744][807]LogOutputDevice: Error: [Callstack] 0x00007ff9b2b97034 KERNEL32.DLL!UnknownFunction []
+[2021.11.14-19.59.40:744][807]LogOutputDevice: Error: [Callstack] 0x00007ff9b3d82651 ntdll.dll!UnknownFunction []
+[2021.11.14-19.59.40:744][807]LogOutputDevice: Error: 

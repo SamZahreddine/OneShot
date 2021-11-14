@@ -1,0 +1,1109 @@
+﻿Log file open, 11/14/21 22:06:25
+LogInit: LLM is enabled
+LogInit: LLM CsvWriter: off TraceWriter: off
+LogInit: Display: Running engine for game: StrandedTogether
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.254077
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +2:00, Platform Override: ''
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin EditorScriptingUtilities
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin GLTFImporter
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin DataprepEditor
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin DatasmithGLTFImporter
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin DatasmithImporter
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin StaticMeshEditorExtension
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VariantManager
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin BlastPlugin
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.26-CL-15973114
+LogInit: Engine Version: 4.26.2-15973114+++UE4+Release-4.26
+LogInit: Compatible Engine Version: 4.26.0-14830424+++UE4+Release-4.26
+LogInit: Net CL: 14830424
+LogInit: OS: Windows 10 (Release 2009) (), CPU: Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz, GPU: Intel(R) HD Graphics 630
+LogInit: Compiled (64-bit): Apr 12 2021 06:14:10
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.26
+LogInit: Command Line:  -EpicPortal -epicusername=DreamThunder -epicuserid=03e08dc875704127a5d8897083f65dd3 -epiclocale=en -epicsandboxid=ue
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.26/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 44
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 43
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 40
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Dreamtyt/Desktop/GitHub/GamersBot/OneShot/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2021.11.14-20.06.26:393][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2021.11.14-20.06.26:393][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2021.11.14-20.06.26:393][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/Dreamtyt/Desktop/GitHub/GamersBot/OneShot/Saved/Config/Windows/Engine.ini]
+[2021.11.14-20.06.26:393][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2021.11.14-20.06.26:393][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/Dreamtyt/Desktop/GitHub/GamersBot/OneShot/Saved/Config/Windows/Engine.ini]
+[2021.11.14-20.06.26:393][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Dreamtyt/Desktop/GitHub/GamersBot/OneShot/Saved/Config/Windows/Engine.ini]
+[2021.11.14-20.06.26:393][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2021.11.14-20.06.26:393][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2021.11.14-20.06.26:393][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2021.11.14-20.06.26:393][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2021.11.14-20.06.26:393][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2021.11.14-20.06.26:393][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2021.11.14-20.06.26:393][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2021.11.14-20.06.26:393][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2021.11.14-20.06.26:393][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2021.11.14-20.06.26:393][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2021.11.14-20.06.26:393][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2021.11.14-20.06.26:393][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2021.11.14-20.06.26:394][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2021.11.14-20.06.26:394][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2021.11.14-20.06.26:394][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/Dreamtyt/Desktop/GitHub/GamersBot/OneShot/Saved/Config/Windows/Engine.ini]
+[2021.11.14-20.06.26:394][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2021.11.14-20.06.26:394][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2021.11.14-20.06.26:394][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2021.11.14-20.06.26:394][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2021.11.14-20.06.26:394][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2021.11.14-20.06.26:394][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2021.11.14-20.06.26:394][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2021.11.14-20.06.26:394][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2021.11.14-20.06.26:394][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2021.11.14-20.06.26:394][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2021.11.14-20.06.26:394][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2021.11.14-20.06.26:394][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2021.11.14-20.06.26:394][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2021.11.14-20.06.26:394][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2021.11.14-20.06.26:394][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/Dreamtyt/Desktop/GitHub/GamersBot/OneShot/Saved/Config/Windows/Engine.ini]
+[2021.11.14-20.06.26:394][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/Dreamtyt/Desktop/GitHub/GamersBot/OneShot/Saved/Config/Windows/Engine.ini]
+[2021.11.14-20.06.26:419][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Dreamtyt/Desktop/GitHub/GamersBot/OneShot/Saved/Config/Windows/Scalability.ini]
+[2021.11.14-20.06.26:419][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.11.14-20.06.26:419][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.11.14-20.06.26:419][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Dreamtyt/Desktop/GitHub/GamersBot/OneShot/Saved/Config/Windows/Scalability.ini]
+[2021.11.14-20.06.26:419][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.11.14-20.06.26:419][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Dreamtyt/Desktop/GitHub/GamersBot/OneShot/Saved/Config/Windows/Scalability.ini]
+[2021.11.14-20.06.26:419][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.11.14-20.06.26:419][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.11.14-20.06.26:419][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.11.14-20.06.26:419][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.11.14-20.06.26:419][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.11.14-20.06.26:419][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.11.14-20.06.26:419][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.11.14-20.06.26:419][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.11.14-20.06.26:419][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.11.14-20.06.26:419][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.11.14-20.06.26:419][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.11.14-20.06.26:419][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.11.14-20.06.26:419][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.11.14-20.06.26:419][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.11.14-20.06.26:419][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.11.14-20.06.26:419][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.11.14-20.06.26:419][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.11.14-20.06.26:419][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.11.14-20.06.26:419][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Dreamtyt/Desktop/GitHub/GamersBot/OneShot/Saved/Config/Windows/Scalability.ini]
+[2021.11.14-20.06.26:419][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.11.14-20.06.26:419][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.11.14-20.06.26:419][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.11.14-20.06.26:419][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.11.14-20.06.26:419][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.11.14-20.06.26:419][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.11.14-20.06.26:419][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.11.14-20.06.26:419][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.11.14-20.06.26:419][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.11.14-20.06.26:419][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.11.14-20.06.26:419][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.11.14-20.06.26:419][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.11.14-20.06.26:419][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.11.14-20.06.26:419][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.11.14-20.06.26:419][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.11.14-20.06.26:419][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.11.14-20.06.26:419][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.11.14-20.06.26:419][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.11.14-20.06.26:419][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.11.14-20.06.26:419][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.11.14-20.06.26:419][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.11.14-20.06.26:419][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.11.14-20.06.26:420][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.11.14-20.06.26:420][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.11.14-20.06.26:420][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.11.14-20.06.26:420][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.11.14-20.06.26:420][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.11.14-20.06.26:420][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.11.14-20.06.26:420][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.11.14-20.06.26:420][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.11.14-20.06.26:420][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Dreamtyt/Desktop/GitHub/GamersBot/OneShot/Saved/Config/Windows/Scalability.ini]
+[2021.11.14-20.06.26:420][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.11.14-20.06.26:420][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.11.14-20.06.26:420][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.11.14-20.06.26:420][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.11.14-20.06.26:420][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.11.14-20.06.26:420][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.11.14-20.06.26:420][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.11.14-20.06.26:420][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.11.14-20.06.26:420][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.11.14-20.06.26:420][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Dreamtyt/Desktop/GitHub/GamersBot/OneShot/Saved/Config/Windows/Scalability.ini]
+[2021.11.14-20.06.26:420][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.11.14-20.06.26:420][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.11.14-20.06.26:420][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.11.14-20.06.26:420][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.11.14-20.06.26:420][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.11.14-20.06.26:420][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.11.14-20.06.26:420][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.11.14-20.06.26:420][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.11.14-20.06.26:420][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.11.14-20.06.26:420][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.11.14-20.06.26:420][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.11.14-20.06.26:420][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.11.14-20.06.26:420][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.11.14-20.06.26:420][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.11.14-20.06.26:420][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.11.14-20.06.26:420][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.11.14-20.06.26:420][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.11.14-20.06.26:420][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.11.14-20.06.26:420][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.11.14-20.06.26:420][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.11.14-20.06.26:420][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.11.14-20.06.26:420][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.11.14-20.06.26:420][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.11.14-20.06.26:420][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.11.14-20.06.26:420][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.11.14-20.06.26:420][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.11.14-20.06.26:420][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.11.14-20.06.26:420][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Dreamtyt/Desktop/GitHub/GamersBot/OneShot/Saved/Config/Windows/Scalability.ini]
+[2021.11.14-20.06.26:420][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.11.14-20.06.26:420][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.11.14-20.06.26:420][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/Dreamtyt/Desktop/GitHub/GamersBot/OneShot/Saved/Config/Windows/Scalability.ini]
+[2021.11.14-20.06.26:420][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.11.14-20.06.26:420][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.11.14-20.06.26:420][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.11.14-20.06.26:420][  0]LogInit: Selected Device Profile: [Windows]
+[2021.11.14-20.06.26:420][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2021.11.14-20.06.26:420][  0]LogHAL: Display: Platform has ~ 14 GB [14936084480 / 17179869184 / 14], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.11.14-20.06.26:420][  0]LogInit: Going up to parent DeviceProfile []
+[2021.11.14-20.06.26:420][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Dreamtyt/Desktop/GitHub/GamersBot/OneShot/Saved/Config/Windows/Scalability.ini]
+[2021.11.14-20.06.26:420][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.11.14-20.06.26:420][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.11.14-20.06.26:420][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Dreamtyt/Desktop/GitHub/GamersBot/OneShot/Saved/Config/Windows/Scalability.ini]
+[2021.11.14-20.06.26:420][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.11.14-20.06.26:420][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Dreamtyt/Desktop/GitHub/GamersBot/OneShot/Saved/Config/Windows/Scalability.ini]
+[2021.11.14-20.06.26:420][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.11.14-20.06.26:420][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.11.14-20.06.26:420][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.11.14-20.06.26:420][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.11.14-20.06.26:420][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.11.14-20.06.26:420][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.11.14-20.06.26:420][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.11.14-20.06.26:420][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.11.14-20.06.26:420][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.11.14-20.06.26:420][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.11.14-20.06.26:421][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.11.14-20.06.26:421][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.11.14-20.06.26:421][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.11.14-20.06.26:421][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.11.14-20.06.26:421][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.11.14-20.06.26:421][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.11.14-20.06.26:421][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.11.14-20.06.26:421][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.11.14-20.06.26:421][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Dreamtyt/Desktop/GitHub/GamersBot/OneShot/Saved/Config/Windows/Scalability.ini]
+[2021.11.14-20.06.26:421][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.11.14-20.06.26:421][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.11.14-20.06.26:421][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.11.14-20.06.26:421][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.11.14-20.06.26:421][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.11.14-20.06.26:421][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.11.14-20.06.26:421][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.11.14-20.06.26:421][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.11.14-20.06.26:421][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.11.14-20.06.26:421][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.11.14-20.06.26:421][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.11.14-20.06.26:421][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.11.14-20.06.26:421][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.11.14-20.06.26:421][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.11.14-20.06.26:421][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.11.14-20.06.26:421][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.11.14-20.06.26:421][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.11.14-20.06.26:421][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.11.14-20.06.26:421][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.11.14-20.06.26:421][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.11.14-20.06.26:421][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.11.14-20.06.26:421][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.11.14-20.06.26:421][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.11.14-20.06.26:421][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.11.14-20.06.26:421][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.11.14-20.06.26:421][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.11.14-20.06.26:421][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.11.14-20.06.26:421][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.11.14-20.06.26:421][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.11.14-20.06.26:421][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.11.14-20.06.26:421][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Dreamtyt/Desktop/GitHub/GamersBot/OneShot/Saved/Config/Windows/Scalability.ini]
+[2021.11.14-20.06.26:421][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.11.14-20.06.26:421][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.11.14-20.06.26:421][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.11.14-20.06.26:421][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.11.14-20.06.26:421][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.11.14-20.06.26:421][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.11.14-20.06.26:421][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.11.14-20.06.26:421][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.11.14-20.06.26:421][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.11.14-20.06.26:421][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Dreamtyt/Desktop/GitHub/GamersBot/OneShot/Saved/Config/Windows/Scalability.ini]
+[2021.11.14-20.06.26:421][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.11.14-20.06.26:421][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.11.14-20.06.26:421][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.11.14-20.06.26:421][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.11.14-20.06.26:421][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.11.14-20.06.26:421][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.11.14-20.06.26:421][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.11.14-20.06.26:421][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.11.14-20.06.26:421][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.11.14-20.06.26:421][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.11.14-20.06.26:421][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.11.14-20.06.26:421][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.11.14-20.06.26:421][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.11.14-20.06.26:421][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.11.14-20.06.26:421][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.11.14-20.06.26:421][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.11.14-20.06.26:421][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.11.14-20.06.26:421][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.11.14-20.06.26:422][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.11.14-20.06.26:422][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.11.14-20.06.26:422][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.11.14-20.06.26:422][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.11.14-20.06.26:422][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.11.14-20.06.26:422][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.11.14-20.06.26:422][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.11.14-20.06.26:422][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.11.14-20.06.26:422][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.11.14-20.06.26:422][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Dreamtyt/Desktop/GitHub/GamersBot/OneShot/Saved/Config/Windows/Scalability.ini]
+[2021.11.14-20.06.26:422][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.11.14-20.06.26:422][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.11.14-20.06.26:422][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/Dreamtyt/Desktop/GitHub/GamersBot/OneShot/Saved/Config/Windows/Scalability.ini]
+[2021.11.14-20.06.26:422][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.11.14-20.06.26:422][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.11.14-20.06.26:422][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.11.14-20.06.26:422][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2021.11.14-20.06.26:422][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2021.11.14-20.06.26:422][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2021.11.14-20.06.26:422][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2021.11.14-20.06.26:422][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Dreamtyt/Desktop/GitHub/GamersBot/OneShot/Saved/Config/Windows/Engine.ini]
+[2021.11.14-20.06.26:422][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Dreamtyt/Desktop/GitHub/GamersBot/OneShot/Saved/Config/Windows/Editor.ini]
+[2021.11.14-20.06.26:422][  0]LogInit: Computer: DREAMTYT
+[2021.11.14-20.06.26:422][  0]LogInit: User: Dreamtyt
+[2021.11.14-20.06.26:422][  0]LogInit: CPU Page size=4096, Cores=4
+[2021.11.14-20.06.26:422][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2021.11.14-20.06.26:422][  0]LogMemory: Memory total: Physical=13.9GB (14GB approx)
+[2021.11.14-20.06.26:422][  0]LogMemory: Platform Memory Stats for Windows
+[2021.11.14-20.06.26:422][  0]LogMemory: Process Physical Memory: 135.19 MB used, 135.20 MB peak
+[2021.11.14-20.06.26:422][  0]LogMemory: Process Virtual Memory: 109.00 MB used, 109.00 MB peak
+[2021.11.14-20.06.26:422][  0]LogMemory: Physical Memory: 8036.86 MB used,  6207.30 MB free, 14244.16 MB total
+[2021.11.14-20.06.26:422][  0]LogMemory: Virtual Memory: 134213176.00 MB used,  4555.11 MB free, 134217728.00 MB total
+[2021.11.14-20.06.26:428][  0]LogWindows: WindowsPlatformFeatures enabled
+[2021.11.14-20.06.26:477][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2021.11.14-20.06.26:478][  0]LogInit: Using OS detected language (en-US).
+[2021.11.14-20.06.26:478][  0]LogInit: Using OS detected locale (en-US).
+[2021.11.14-20.06.26:482][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2021.11.14-20.06.26:708][  0]LogInit: Setting process to per monitor DPI aware
+[2021.11.14-20.06.26:725][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.11.14-20.06.26:748][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.11.14-20.06.26:748][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.11.14-20.06.26:968][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.11.14-20.06.26:968][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2021.11.14-20.06.26:968][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2021.11.14-20.06.26:968][  0]LogD3D11RHI: D3D11 adapters:
+[2021.11.14-20.06.27:111][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060 with Max-Q Design' (Feature Level 11_0)
+[2021.11.14-20.06.27:111][  0]LogD3D11RHI:       6052/0/7122 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2021.11.14-20.06.27:143][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 630' (Feature Level 11_0)
+[2021.11.14-20.06.27:143][  0]LogD3D11RHI:       128/0/7122 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x8086
+[2021.11.14-20.06.27:146][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.11.14-20.06.27:146][  0]LogD3D11RHI:       0/0/7122 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.11.14-20.06.27:146][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2021.11.14-20.06.27:154][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2021.11.14-20.06.27:154][  0]LogD3D11RHI:     GPU DeviceId: 0x1c20 (for the marketing name, search the web for "GPU Device Id")
+[2021.11.14-20.06.27:154][  0]LogWindows: EnumDisplayDevices:
+[2021.11.14-20.06.27:154][  0]LogWindows:    0. 'Intel(R) HD Graphics 630' (P:0 D:1)
+[2021.11.14-20.06.27:155][  0]LogWindows:    1. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2021.11.14-20.06.27:155][  0]LogWindows:    2. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2021.11.14-20.06.27:155][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060 with Max-Q Design' (P:1 D:1)
+[2021.11.14-20.06.27:156][  0]LogWindows:    4. 'NVIDIA GeForce GTX 1060 with Max-Q Design' (P:0 D:0)
+[2021.11.14-20.06.27:156][  0]LogWindows:    5. 'NVIDIA GeForce GTX 1060 with Max-Q Design' (P:0 D:0)
+[2021.11.14-20.06.27:156][  0]LogWindows:    6. 'NVIDIA GeForce GTX 1060 with Max-Q Design' (P:0 D:0)
+[2021.11.14-20.06.27:156][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2021.11.14-20.06.27:156][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060 with Max-Q Design
+[2021.11.14-20.06.27:156][  0]LogD3D11RHI:   Driver Version: 496.49 (internal:30.0.14.9649, unified:496.49)
+[2021.11.14-20.06.27:157][  0]LogD3D11RHI:      Driver Date: 10-20-2021
+[2021.11.14-20.06.27:157][  0]LogRHI: Texture pool is 4236 MB (70% of 6052 MB)
+[2021.11.14-20.06.27:226][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2021.11.14-20.06.27:226][  0]LogD3D11RHI: Async texture creation enabled
+[2021.11.14-20.06.27:226][  0]LogD3D11RHI: Array index from any shader is supported
+[2021.11.14-20.06.27:252][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2021.11.14-20.06.27:254][  0]LogRHI: GeForceNow SDK initialized: 1
+[2021.11.14-20.06.27:595][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2021.11.14-20.06.27:622][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2021.11.14-20.06.27:622][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2021.11.14-20.06.27:622][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2021.11.14-20.06.27:622][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2021.11.14-20.06.27:622][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2021.11.14-20.06.27:622][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2021.11.14-20.06.27:622][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2021.11.14-20.06.27:622][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2021.11.14-20.06.27:622][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2021.11.14-20.06.27:622][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2021.11.14-20.06.27:647][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2021.11.14-20.06.27:647][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2021.11.14-20.06.27:656][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2021.11.14-20.06.27:668][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2021.11.14-20.06.27:678][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2021.11.14-20.06.27:686][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2021.11.14-20.06.27:694][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2021.11.14-20.06.27:703][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2021.11.14-20.06.27:712][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2021.11.14-20.06.27:739][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2021.11.14-20.06.27:739][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2021.11.14-20.06.27:747][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2021.11.14-20.06.27:757][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2021.11.14-20.06.27:766][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2021.11.14-20.06.27:776][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2021.11.14-20.06.27:795][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2021.11.14-20.06.27:795][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2021.11.14-20.06.27:805][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2021.11.14-20.06.27:813][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2021.11.14-20.06.27:822][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2021.11.14-20.06.27:831][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2021.11.14-20.06.27:831][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2021.11.14-20.06.27:839][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2021.11.14-20.06.27:900][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2021.11.14-20.06.27:900][  0]LogShaderCompilers: Guid format shader working directory is -16 characters bigger than the processId version (../../../../../../Users/Dreamtyt/Desktop/GitHub/GamersBot/OneShot/Intermediate/Shaders/WorkingDirectory/4500/).
+[2021.11.14-20.06.27:900][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Dreamtyt/AppData/Local/Temp/UnrealShaderWorkingDir/F9A3244E4BC64149EE08CA82C697FA08/'.
+[2021.11.14-20.06.27:901][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2021.11.14-20.06.27:901][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2021.11.14-20.06.28:784][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.11.14-20.06.28:848][  0]LogDerivedDataCache: Loaded boot cache 0.06s 94MB C:/Users/Dreamtyt/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.11.14-20.06.28:849][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Dreamtyt/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc
+[2021.11.14-20.06.28:849][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Dreamtyt/Desktop/GitHub/GamersBot/OneShot/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.11.14-20.06.28:849][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.11.14-20.06.28:849][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Dreamtyt/Desktop/GitHub/GamersBot/OneShot/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.11.14-20.06.28:849][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2021.11.14-20.06.28:862][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.11.14-20.06.28:862][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.11.14-20.06.28:862][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2021.11.14-20.06.28:868][  0]LogDerivedDataCache: Speed tests for C:/Users/Dreamtyt/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2021.11.14-20.06.28:868][  0]LogDerivedDataCache: Display: Performance to C:/Users/Dreamtyt/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.03ms. RandomReadSpeed=1503.38MBs, RandomWriteSpeed=179.02MBs. Assigned SpeedClass 'Local'
+[2021.11.14-20.06.28:869][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Dreamtyt/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2021.11.14-20.06.28:869][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2021.11.14-20.06.28:869][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2021.11.14-20.06.28:932][  0]LogSlate: Using FreeType 2.10.0
+[2021.11.14-20.06.28:932][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.11.14-20.06.28:960][  0]LogAssetRegistry: FAssetRegistry took 0.0027 seconds to start up
+[2021.11.14-20.06.29:296][  0]LogInit: Selected Device Profile: [Windows]
+[2021.11.14-20.06.29:296][  0]LogInit: Active device profile: [000001FF919E7300][000001FF88054D00 49] Windows
+[2021.11.14-20.06.29:296][  0]LogInit: Profiles: [000001FF919E7300][000001FF88054D00 49] Windows, [000001FF919ACF00][000001FF9030EE80 49] WindowsNoEditor, [000001FF919E4F00][000001FF90313000 49] WindowsServer, [000001FF919AEB00][000001FF90317180 49] WindowsClient, [000001FF919E6A00][000001FF9031B300 49] IOS, [000001FF919AD800][000001FF9260D480 49] iPadAir, [000001FF919E5700][000001FF92611600 49] iPadAir2, [000001FF9196C500][000001FF92615840 49] IPadPro, [000001FF9196C600][000001FF9030B880 49] iPadAir3, [000001FF919E6400][000001FF926199C0 49] iPadAir4, [000001FF9196F000][000001FF92621B40 49] iPadMini2, [000001FF919E5C00][000001FF92625CC0 49] iPadMini3, [000001FF9196DF00][000001FF92628180 49] iPadMini4, [000001FF919E4A00][000001FF9262C300 49] iPadMini5, [000001FF9195FD00][000001FF926345C0 49] iPhone6, [000001FF9195FE00][000001FF92630600 49] iPodTouch6, [000001FF9196E800][000001FF9263C8C0 49] iPhone7, [000001FF9196EA00][000001FF92638900 49] iPodTouch7, [000001FF9195D300][000001FF92640A80 49] iPhone5S, [000001FF9196CA00][000001FF92644C00 49] iPhone6Plus, [000001FF9195E600][000001FF92648D80 49] iPhone6S, [000001FF9196F800][000001FF9264CF00 49] iPhone6SPlus, [000001FF9195DB00][000001FF92651080 49] iPhone7Plus, [000001FF9196E700][000001FF92655200 49] iPhoneSE, [000001FF9195C900][000001FF92659380 49] iPhone8, [000001FF9196EB00][000001FF9265D500 49] iPhone8Plus, [000001FF9195EB00][000001FF92661680 49] iPhoneX, [000001FF9196CD00][000001FF9261D7C0 49] iPhoneXS, [000001FF9195FA00][000001FF92665900 49] iPhoneXSMax, [000001FF9196C700][000001FF92669A40 49] iPhoneXR, [000001FF9195E700][000001FF9266DB80 49] iPhone11, [000001FF9196DB00][000001FF92675D00 49] iPhone11Pro, [000001FF9195D900][000001FF926781C0 49] iPhone11ProMax, [000001FF9196CB00][000001FF9267C340 49] iPhoneSE2, [000001FF9195E900][000001FF926804C0 49] iPhone12Mini, [000001FF9196E900][000001FF92684640 49] iPhone12, [000001FF9195DD00][000001FF926887C0 49] iPhone12Pro, [000001FF9196E400][000001FF9268C940 49] iPhone12ProMax, [000001FF9195E200][000001FF92690AC0 49] iPadPro105, [000001FF9196FB00][000001FF92694C40 49] iPadPro129, [000001FF9195D700][000001FF92698DC0 49] iPadPro97, [000001FF9196E100][000001FF9269CF40 49] iPadPro2_129, [000001FF9195F200][000001FF926A10C0 49] iPad5, [000001FF9196CC00][000001FF926A5240 49] iPad6, [000001FF9195C700][000001FF926A93C0 49] iPad7, [000001FF9196C300][000001FF926AD540 49] iPad8, [000001FF9195F500][000001FF926B16C0 49] iPadPro11, [000001FF9196DA00][000001FF92671800 49] iPadPro2_11, [000001FF9195C400][000001FF926B5940 49] iPadPro3_129, [000001FF9196FA00][000001FF926B9A80 49] iPadPro4_129, [000001FF9195E100][000001FF926BDBC0 49] AppleTV, [000001FF9196ED00][000001FF926C5D40 49] AppleTV4K, [000001FF9195DA00][000001FF926C8200 49] TVOS, [000001FF9196EF00][000001FF926CC380 49] Mac, [000001FF9195F700][000001FF926D0500 49] MacClient, [000001FF9196EC00][000001FF926D4680 49] MacNoEditor, [000001FF9195CB00][000001FF926D8800 49] MacServer, [000001FF9196D300][000001FF926DC980 49] Linux, [000001FF9195D400][000001FF926E0B00 49] LinuxAArch64, [000001FF919AC700][000001FF926E4C80 49] LinuxNoEditor, [000001FF91A40B00][000001FF926E8E00 49] LinuxAArch64NoEditor, [000001FF919AFC00][000001FF926ECF80 49] LinuxClient, [000001FF91A41500][000001FF926F1100 49] LinuxAArch64Client, [000001FF919AE700][000001FF926F5280 49] LinuxServer, [000001FF91A41300][000001FF926F9400 49] LinuxAArch64Server, [000001FF919AE300][000001FF926FD580 49] Android, [000001FF91A40500][000001FF92701700 49] Android_Low, [000001FF919ACA00][000001FF92705880 49] Android_Mid, [000001FF91A41600][000001FF926C19C0 49] Android_High, [000001FF919AF700][000001FF92709B00 49] Android_Default, [000001FF91A41900][000001FF9270DC40 49] Android_Adreno4xx, [000001FF919AD200][000001FF92714100 49] Android_Adreno5xx_Low, [000001FF91A40300][000001FF92718280 49] Android_Adreno5xx, [000001FF919AFB00][000001FF9271C400 49] Android_Adreno6xx, [000001FF91A41800][000001FF92720580 49] Android_Adreno6xx_Vulkan, [000001FF919AED00][000001FF92724700 49] Android_Mali_T6xx, [000001FF91A40D00][000001FF92728880 49] Android_Mali_T7xx, [000001FF9195C300][000001FF9272CA00 49] Android_Mali_T8xx, [000001FF9196DC00][000001FF92740B80 49] Android_Mali_G71, [000001FF9195EA00][000001FF92744D00 49] Android_Mali_G72, [000001FF9196F900][000001FF92748E80 49] Android_Mali_G72_Vulkan, [000001FF9195CC00][000001FF9274D000 49] Android_Mali_G76, [000001FF9196D900][000001FF92751180 49] Android_Mali_G76_Vulkan, [000001FF9195D800][000001FF92755300 49] Android_Mali_G77, [000001FF9196FF00][000001FF92759480 49] Android_Mali_G77_Vulkan, [000001FF9195C100][000001FF9275D600 49] Android_Vulkan_SM5, [000001FF9196D200][000001FF92761780 49] Android_PowerVR_G6xxx, [000001FF9195FF00][000001FF92765900 49] Android_PowerVR_GT7xxx, [000001FF9196E300][000001FF92711A40 49] Android_PowerVR_GE8xxx, [000001FF9195C200][000001FF92769B80 49] Android_PowerVR_GM9xxx, [000001FF9196CE00][000001FF9276DCC0 49] Android_PowerVR_GM9xxx_Vulkan, [000001FF9195E500][000001FF92774180 49] Android_TegraK1, [000001FF9196C200][000001FF92778300 49] Android_Unknown_Vulkan, [000001FF9195CA00][000001FF9277C480 49] Lumin, [000001FF9196F500][000001FF92780600 49] Lumin_Desktop, [000001FF9195CF00][000001FF92784780 49] HoloLens, 
+[2021.11.14-20.06.29:424][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2021.11.14-20.06.29:424][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2021.11.14-20.06.29:425][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2021.11.14-20.06.29:425][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2021.11.14-20.06.29:425][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2021.11.14-20.06.29:446][  0]LogNetVersion: StrandedTogether 1.0.0, NetCL: 14830424, EngineNetVer: 16, GameNetVer: 0 (Checksum: 2975150810)
+[2021.11.14-20.06.29:982][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2021.11.14-20.06.30:042][  0]LogPackageLocalizationCache: Processed 26 localized package path(s) for 1 prioritized culture(s) in 0.058532 seconds
+[2021.11.14-20.06.30:047][  0]LogUObjectArray: 16831 objects as part of root set at end of initial load.
+[2021.11.14-20.06.30:048][  0]LogUObjectAllocator: 4209728 out of 0 bytes used by permanent object pool.
+[2021.11.14-20.06.30:048][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.11.14-20.06.30:348][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2021.11.14-20.06.30:352][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2021.11.14-20.06.30:658][  0]SourceControl: Source control is disabled
+[2021.11.14-20.06.30:658][  0]SourceControl: Source control is disabled
+[2021.11.14-20.06.30:708][  0]SourceControl: Source control is disabled
+[2021.11.14-20.06.30:710][  0]SourceControl: Source control is disabled
+[2021.11.14-20.06.30:990][  0]SourceControl: Source control is disabled
+[2021.11.14-20.06.31:004][  0]LogUProjectInfo: Found projects:
+[2021.11.14-20.06.31:143][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.11.14-20.06.31:162][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.11.14-20.06.31:162][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.11.14-20.06.31:213][  0]LogCollectionManager: Loaded 0 collections in 0.002301 seconds
+[2021.11.14-20.06.31:237][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Dreamtyt/Desktop/GitHub/GamersBot/OneShot/Saved/Collections/' took 0.00s
+[2021.11.14-20.06.31:237][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Dreamtyt/Desktop/GitHub/GamersBot/OneShot/Content/Developers/Dreamtyt/Collections/' took 0.00s
+[2021.11.14-20.06.31:237][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Dreamtyt/Desktop/GitHub/GamersBot/OneShot/Content/Collections/' took 0.00s
+[2021.11.14-20.06.31:237][  0]LogOcInput: OculusInput pre-init called
+[2021.11.14-20.06.31:251][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2021.11.14-20.06.31:251][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2021.11.14-20.06.31:305][  0]LogEngine: Initializing Engine...
+[2021.11.14-20.06.31:306][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.11.14-20.06.31:306][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2021.11.14-20.06.31:307][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2021.11.14-20.06.31:424][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.11.14-20.06.31:432][  0]LogAIModule: Creating AISystem for world Untitled
+[2021.11.14-20.06.31:449][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2021.11.14-20.06.31:452][  0]LogAudio: Display: Audio Device Manager Initialized
+[2021.11.14-20.06.31:452][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2021.11.14-20.06.31:452][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.11.14-20.06.31:452][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.11.14-20.06.31:452][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.11.14-20.06.31:452][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.11.14-20.06.31:452][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.11.14-20.06.31:452][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.11.14-20.06.31:452][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.11.14-20.06.31:452][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.11.14-20.06.31:453][  0]LogAudio: Display: Using built-in audio occlusion.
+[2021.11.14-20.06.31:453][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2021.11.14-20.06.31:486][  0]LogAudioMixer: Display: 0: FrontLeft
+[2021.11.14-20.06.31:486][  0]LogAudioMixer: Display: 1: FrontRight
+[2021.11.14-20.06.31:541][  0]LogAudioMixer: Display: Using Audio Device Speakers (PRO)
+[2021.11.14-20.06.31:545][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.11.14-20.06.31:547][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.11.14-20.06.31:547][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.11.14-20.06.31:548][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.11.14-20.06.31:548][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.11.14-20.06.31:548][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.11.14-20.06.31:549][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.11.14-20.06.31:549][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.11.14-20.06.31:549][  0]LogInit: FAudioDevice initialized.
+[2021.11.14-20.06.31:549][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2021.11.14-20.06.31:549][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2021.11.14-20.06.31:736][  0]LogDerivedDataCache: Saved boot cache 0.19s 94MB C:/Users/Dreamtyt/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.11.14-20.06.31:737][  0]LogInit: Texture streaming: Enabled
+[2021.11.14-20.06.31:755][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.26.2-15973114+++UE4+Release-4.26
+[2021.11.14-20.06.31:759][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2021.11.14-20.06.31:759][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2021.11.14-20.06.31:762][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2021.11.14-20.06.31:800][  0]LogInit: Transaction tracking system initialized
+[2021.11.14-20.06.31:830][  0]BlueprintLog: New page: Editor Load
+[2021.11.14-20.06.31:919][  0]LocalizationService: Localization service is disabled
+[2021.11.14-20.06.31:944][  0]TimingProfiler: Initialize
+[2021.11.14-20.06.31:944][  0]TimingProfiler: OnSessionChanged
+[2021.11.14-20.06.31:944][  0]LoadingProfiler: Initialize
+[2021.11.14-20.06.31:944][  0]LoadingProfiler: OnSessionChanged
+[2021.11.14-20.06.31:944][  0]NetworkingProfiler: Initialize
+[2021.11.14-20.06.31:944][  0]NetworkingProfiler: OnSessionChanged
+[2021.11.14-20.06.31:944][  0]MemoryProfiler: Initialize
+[2021.11.14-20.06.31:944][  0]MemoryProfiler: OnSessionChanged
+[2021.11.14-20.06.32:093][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2021.11.14-20.06.32:093][  0]LogCook: Display: Mobile HDR setting 1
+[2021.11.14-20.06.32:237][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Dreamtyt/Desktop/GitHub/GamersBot/OneShot/Content/' took 0.00s
+[2021.11.14-20.06.32:447][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2021.11.14-20.06.32:449][  0]SourceControl: Source control is disabled
+[2021.11.14-20.06.32:450][  0]LogUnrealEdMisc: Loading editor; pre map load, took 7.232
+[2021.11.14-20.06.32:450][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Dreamtyt/Desktop/GitHub/GamersBot/OneShot/Content/Levels/Tutorial.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.11.14-20.06.32:450][  0]LightingResults: New page: Lighting Build
+[2021.11.14-20.06.32:451][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.11.14-20.06.32:451][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.14-20.06.32:451][  0]MapCheck: New page: Map Check
+[2021.11.14-20.06.32:451][  0]LightingResults: New page: Lighting Build
+[2021.11.14-20.06.32:458][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2021.11.14-20.06.32:463][  0]LogLinker: Warning: [AssetLog] C:\Users\Dreamtyt\Desktop\GitHub\GamersBot\OneShot\Content\Models\Light\fluorescent_lamp\Lamp.uasset: Failed to load '/Game/Models/Light/fluorescent_lamp/0_LDS2_Material__25_0': Can't find file.
+[2021.11.14-20.06.32:464][  0]LogLinker: Warning: [AssetLog] C:\Users\Dreamtyt\Desktop\GitHub\GamersBot\OneShot\Content\Models\Light\fluorescent_lamp\Lamp.uasset: Failed to load '/Game/Models/Light/fluorescent_lamp/0_LDS2_Material__25_0': Can't find file.
+[2021.11.14-20.06.32:464][  0]LogLinker: Warning: [AssetLog] C:\Users\Dreamtyt\Desktop\GitHub\GamersBot\OneShot\Content\Models\Light\fluorescent_lamp\Lamp.uasset: Failed to load '/Game/Models/Light/fluorescent_lamp/0_LDS2_Material__25_0': Can't find file.
+[2021.11.14-20.06.32:464][  0]LogLinker: Warning: [AssetLog] C:\Users\Dreamtyt\Desktop\GitHub\GamersBot\OneShot\Content\Levels\Tutorial.umap: Failed to load '/Game/Models/Light/fluorescent_lamp/0_LDS2_Material__25_0': Can't find file.
+[2021.11.14-20.06.32:465][  0]LogLinker: Warning: [AssetLog] C:\Users\Dreamtyt\Desktop\GitHub\GamersBot\OneShot\Content\Levels\Tutorial.umap: Failed to load '/Game/Models/Light/fluorescent_lamp/0_LDS2_Material__25_0': Can't find file.
+[2021.11.14-20.06.32:466][  0]LogLinker: Warning: [AssetLog] C:\Users\Dreamtyt\Desktop\GitHub\GamersBot\OneShot\Content\Levels\Tutorial.umap: Failed to load '/Game/Models/Light/fluorescent_lamp/0_LDS2_Material__25_0': Can't find file.
+[2021.11.14-20.06.32:466][  0]LoadErrors: Failed to load /Game/Models/Light/fluorescent_lamp/0_LDS2_Material__25_0.0_LDS2_Material__25_0 Referenced by 0_LDS2_Material__25_0_GEN_VARIABLE
+[2021.11.14-20.06.32:497][  0]LogBlueprint: Warning: [AssetLog] C:\Users\Dreamtyt\Desktop\GitHub\GamersBot\OneShot\Content\Animations\Character\Lewis_Anim_BP.uasset: [Compiler] Idle to Jumping  will never be taken, please connect something to  Can Enter Transition
+[2021.11.14-20.06.32:497][  0]LogBlueprint: Warning: [AssetLog] C:\Users\Dreamtyt\Desktop\GitHub\GamersBot\OneShot\Content\Animations\Character\Lewis_Anim_BP.uasset: [Compiler] Jumping to Walk/run  will never be taken, please connect something to  Can Enter Transition
+[2021.11.14-20.06.32:497][  0]LogBlueprint: Warning: [AssetLog] C:\Users\Dreamtyt\Desktop\GitHub\GamersBot\OneShot\Content\Animations\Character\Lewis_Anim_BP.uasset: [Compiler] Jumping to Idle  will never be taken, please connect something to  Can Enter Transition
+[2021.11.14-20.06.32:498][  0]LogBlueprint: Warning: [AssetLog] C:\Users\Dreamtyt\Desktop\GitHub\GamersBot\OneShot\Content\Animations\Character\Lewis_Anim_BP.uasset: [Compiler] Walk/run to Jumping  will never be taken, please connect something to  Can Enter Transition
+[2021.11.14-20.06.32:515][  0]LogLinker: Warning: [AssetLog] C:\Users\Dreamtyt\Desktop\GitHub\GamersBot\OneShot\Content\Blueprints\Potion\Potion.uasset: Failed to load '/Game/Blueprints/Potion/Magic_Potion/0_Algae_Algae_0': Can't find file.
+[2021.11.14-20.06.32:516][  0]LogLinker: Warning: [AssetLog] C:\Users\Dreamtyt\Desktop\GitHub\GamersBot\OneShot\Content\Blueprints\Potion\Potion.uasset: Failed to load '/Game/Blueprints/Potion/Magic_Potion/0_Algae_Algae_0': Can't find file.
+[2021.11.14-20.06.32:516][  0]LogLinker: Warning: [AssetLog] C:\Users\Dreamtyt\Desktop\GitHub\GamersBot\OneShot\Content\Blueprints\Potion\Potion.uasset: Failed to load '/Game/Blueprints/Potion/Magic_Potion/10_Central_Rope_copy4_Central_Rope_copy4_0': Can't find file.
+[2021.11.14-20.06.32:516][  0]LogLinker: Warning: [AssetLog] C:\Users\Dreamtyt\Desktop\GitHub\GamersBot\OneShot\Content\Blueprints\Potion\Potion.uasset: Failed to load '/Game/Blueprints/Potion/Magic_Potion/10_Central_Rope_copy4_Central_Rope_copy4_0': Can't find file.
+[2021.11.14-20.06.32:517][  0]LogLinker: Warning: [AssetLog] C:\Users\Dreamtyt\Desktop\GitHub\GamersBot\OneShot\Content\Blueprints\Potion\Potion.uasset: Failed to load '/Game/Blueprints/Potion/Magic_Potion/11_Central_Rope_copy5_Central_Rope_copy5_0': Can't find file.
+[2021.11.14-20.06.32:517][  0]LogLinker: Warning: [AssetLog] C:\Users\Dreamtyt\Desktop\GitHub\GamersBot\OneShot\Content\Blueprints\Potion\Potion.uasset: Failed to load '/Game/Blueprints/Potion/Magic_Potion/11_Central_Rope_copy5_Central_Rope_copy5_0': Can't find file.
+[2021.11.14-20.06.32:517][  0]LogLinker: Warning: [AssetLog] C:\Users\Dreamtyt\Desktop\GitHub\GamersBot\OneShot\Content\Blueprints\Potion\Potion.uasset: Failed to load '/Game/Blueprints/Potion/Magic_Potion/12_Central_Rope_copy6_Central_Rope_copy6_0': Can't find file.
+[2021.11.14-20.06.32:518][  0]LogLinker: Warning: [AssetLog] C:\Users\Dreamtyt\Desktop\GitHub\GamersBot\OneShot\Content\Blueprints\Potion\Potion.uasset: Failed to load '/Game/Blueprints/Potion/Magic_Potion/12_Central_Rope_copy6_Central_Rope_copy6_0': Can't find file.
+[2021.11.14-20.06.32:518][  0]LogLinker: Warning: [AssetLog] C:\Users\Dreamtyt\Desktop\GitHub\GamersBot\OneShot\Content\Blueprints\Potion\Potion.uasset: Failed to load '/Game/Blueprints/Potion/Magic_Potion/13_Central_Rope_copy7_Central_Rope_copy7_0': Can't find file.
+[2021.11.14-20.06.32:518][  0]LogLinker: Warning: [AssetLog] C:\Users\Dreamtyt\Desktop\GitHub\GamersBot\OneShot\Content\Blueprints\Potion\Potion.uasset: Failed to load '/Game/Blueprints/Potion/Magic_Potion/13_Central_Rope_copy7_Central_Rope_copy7_0': Can't find file.
+[2021.11.14-20.06.32:518][  0]LogLinker: Warning: [AssetLog] C:\Users\Dreamtyt\Desktop\GitHub\GamersBot\OneShot\Content\Blueprints\Potion\Potion.uasset: Failed to load '/Game/Blueprints/Potion/Magic_Potion/14_Bottom_Rope_Bottom_Rope_0': Can't find file.
+[2021.11.14-20.06.32:519][  0]LogLinker: Warning: [AssetLog] C:\Users\Dreamtyt\Desktop\GitHub\GamersBot\OneShot\Content\Blueprints\Potion\Potion.uasset: Failed to load '/Game/Blueprints/Potion/Magic_Potion/14_Bottom_Rope_Bottom_Rope_0': Can't find file.
+[2021.11.14-20.06.32:519][  0]LogLinker: Warning: [AssetLog] C:\Users\Dreamtyt\Desktop\GitHub\GamersBot\OneShot\Content\Blueprints\Potion\Potion.uasset: Failed to load '/Game/Blueprints/Potion/Magic_Potion/15_Central_Rope_copy2_Central_Rope_copy2_0': Can't find file.
+[2021.11.14-20.06.32:519][  0]LogLinker: Warning: [AssetLog] C:\Users\Dreamtyt\Desktop\GitHub\GamersBot\OneShot\Content\Blueprints\Potion\Potion.uasset: Failed to load '/Game/Blueprints/Potion/Magic_Potion/15_Central_Rope_copy2_Central_Rope_copy2_0': Can't find file.
+[2021.11.14-20.06.32:520][  0]LogLinker: Warning: [AssetLog] C:\Users\Dreamtyt\Desktop\GitHub\GamersBot\OneShot\Content\Blueprints\Potion\Potion.uasset: Failed to load '/Game/Blueprints/Potion/Magic_Potion/16_Bubbles32_Bubbles_0': Can't find file.
+[2021.11.14-20.06.32:520][  0]LogLinker: Warning: [AssetLog] C:\Users\Dreamtyt\Desktop\GitHub\GamersBot\OneShot\Content\Blueprints\Potion\Potion.uasset: Failed to load '/Game/Blueprints/Potion/Magic_Potion/16_Bubbles32_Bubbles_0': Can't find file.
+[2021.11.14-20.06.32:520][  0]LogLinker: Warning: [AssetLog] C:\Users\Dreamtyt\Desktop\GitHub\GamersBot\OneShot\Content\Blueprints\Potion\Potion.uasset: Failed to load '/Game/Blueprints/Potion/Magic_Potion/1_Mouth_bottle2_Mouth_bottle2_0': Can't find file.
+[2021.11.14-20.06.32:521][  0]LogLinker: Warning: [AssetLog] C:\Users\Dreamtyt\Desktop\GitHub\GamersBot\OneShot\Content\Blueprints\Potion\Potion.uasset: Failed to load '/Game/Blueprints/Potion/Magic_Potion/1_Mouth_bottle2_Mouth_bottle2_0': Can't find file.
+[2021.11.14-20.06.32:521][  0]LogLinker: Warning: [AssetLog] C:\Users\Dreamtyt\Desktop\GitHub\GamersBot\OneShot\Content\Blueprints\Potion\Potion.uasset: Failed to load '/Game/Blueprints/Potion/Magic_Potion/2_Plug1_Plug1_0': Can't find file.
+[2021.11.14-20.06.32:521][  0]LogLinker: Warning: [AssetLog] C:\Users\Dreamtyt\Desktop\GitHub\GamersBot\OneShot\Content\Blueprints\Potion\Potion.uasset: Failed to load '/Game/Blueprints/Potion/Magic_Potion/2_Plug1_Plug1_0': Can't find file.
+[2021.11.14-20.06.32:521][  0]LogLinker: Warning: [AssetLog] C:\Users\Dreamtyt\Desktop\GitHub\GamersBot\OneShot\Content\Blueprints\Potion\Potion.uasset: Failed to load '/Game/Blueprints/Potion/Magic_Potion/3_Magic_Potion_Magic_Potion1_0': Can't find file.
+[2021.11.14-20.06.32:522][  0]LogLinker: Warning: [AssetLog] C:\Users\Dreamtyt\Desktop\GitHub\GamersBot\OneShot\Content\Blueprints\Potion\Potion.uasset: Failed to load '/Game/Blueprints/Potion/Magic_Potion/3_Magic_Potion_Magic_Potion1_0': Can't find file.
+[2021.11.14-20.06.32:522][  0]LogLinker: Warning: [AssetLog] C:\Users\Dreamtyt\Desktop\GitHub\GamersBot\OneShot\Content\Blueprints\Potion\Potion.uasset: Failed to load '/Game/Blueprints/Potion/Magic_Potion/4_Liquid_Liquid1_0': Can't find file.
+[2021.11.14-20.06.32:522][  0]LogLinker: Warning: [AssetLog] C:\Users\Dreamtyt\Desktop\GitHub\GamersBot\OneShot\Content\Blueprints\Potion\Potion.uasset: Failed to load '/Game/Blueprints/Potion/Magic_Potion/4_Liquid_Liquid1_0': Can't find file.
+[2021.11.14-20.06.32:523][  0]LogLinker: Warning: [AssetLog] C:\Users\Dreamtyt\Desktop\GitHub\GamersBot\OneShot\Content\Blueprints\Potion\Potion.uasset: Failed to load '/Game/Blueprints/Potion/Magic_Potion/5_Upper_Rope_Upper_Rope_0': Can't find file.
+[2021.11.14-20.06.32:523][  0]LogLinker: Warning: [AssetLog] C:\Users\Dreamtyt\Desktop\GitHub\GamersBot\OneShot\Content\Blueprints\Potion\Potion.uasset: Failed to load '/Game/Blueprints/Potion/Magic_Potion/5_Upper_Rope_Upper_Rope_0': Can't find file.
+[2021.11.14-20.06.32:523][  0]LogLinker: Warning: [AssetLog] C:\Users\Dreamtyt\Desktop\GitHub\GamersBot\OneShot\Content\Blueprints\Potion\Potion.uasset: Failed to load '/Game/Blueprints/Potion/Magic_Potion/6_Central_Rope_Central_Rope_0': Can't find file.
+[2021.11.14-20.06.32:524][  0]LogLinker: Warning: [AssetLog] C:\Users\Dreamtyt\Desktop\GitHub\GamersBot\OneShot\Content\Blueprints\Potion\Potion.uasset: Failed to load '/Game/Blueprints/Potion/Magic_Potion/6_Central_Rope_Central_Rope_0': Can't find file.
+[2021.11.14-20.06.32:524][  0]LogLinker: Warning: [AssetLog] C:\Users\Dreamtyt\Desktop\GitHub\GamersBot\OneShot\Content\Blueprints\Potion\Potion.uasset: Failed to load '/Game/Blueprints/Potion/Magic_Potion/7_Central_Rope_copy1_Central_Rope_copy1_0': Can't find file.
+[2021.11.14-20.06.32:524][  0]LogLinker: Warning: [AssetLog] C:\Users\Dreamtyt\Desktop\GitHub\GamersBot\OneShot\Content\Blueprints\Potion\Potion.uasset: Failed to load '/Game/Blueprints/Potion/Magic_Potion/7_Central_Rope_copy1_Central_Rope_copy1_0': Can't find file.
+[2021.11.14-20.06.32:525][  0]LogLinker: Warning: [AssetLog] C:\Users\Dreamtyt\Desktop\GitHub\GamersBot\OneShot\Content\Blueprints\Potion\Potion.uasset: Failed to load '/Game/Blueprints/Potion/Magic_Potion/8_Central_Rope_copy3_Central_Rope_copy3_0': Can't find file.
+[2021.11.14-20.06.32:525][  0]LogLinker: Warning: [AssetLog] C:\Users\Dreamtyt\Desktop\GitHub\GamersBot\OneShot\Content\Blueprints\Potion\Potion.uasset: Failed to load '/Game/Blueprints/Potion/Magic_Potion/8_Central_Rope_copy3_Central_Rope_copy3_0': Can't find file.
+[2021.11.14-20.06.32:525][  0]LogLinker: Warning: [AssetLog] C:\Users\Dreamtyt\Desktop\GitHub\GamersBot\OneShot\Content\Blueprints\Potion\Potion.uasset: Failed to load '/Game/Blueprints/Potion/Magic_Potion/9_Top_Rope_Top_Rope_0': Can't find file.
+[2021.11.14-20.06.32:525][  0]LogLinker: Warning: [AssetLog] C:\Users\Dreamtyt\Desktop\GitHub\GamersBot\OneShot\Content\Blueprints\Potion\Potion.uasset: Failed to load '/Game/Blueprints/Potion/Magic_Potion/9_Top_Rope_Top_Rope_0': Can't find file.
+[2021.11.14-20.06.32:526][  0]LogLinker: Warning: [AssetLog] C:\Users\Dreamtyt\Desktop\GitHub\GamersBot\OneShot\Content\Blueprints\Potion\Potion.uasset: Failed to load '/Game/Blueprints/Potion/Magic_Potion/0_Algae_Algae_0': Can't find file.
+[2021.11.14-20.06.32:526][  0]LogLinker: Warning: [AssetLog] C:\Users\Dreamtyt\Desktop\GitHub\GamersBot\OneShot\Content\Blueprints\Potion\Potion.uasset: Failed to load '/Game/Blueprints/Potion/Magic_Potion/10_Central_Rope_copy4_Central_Rope_copy4_0': Can't find file.
+[2021.11.14-20.06.32:526][  0]LogLinker: Warning: [AssetLog] C:\Users\Dreamtyt\Desktop\GitHub\GamersBot\OneShot\Content\Blueprints\Potion\Potion.uasset: Failed to load '/Game/Blueprints/Potion/Magic_Potion/11_Central_Rope_copy5_Central_Rope_copy5_0': Can't find file.
+[2021.11.14-20.06.32:526][  0]LogLinker: Warning: [AssetLog] C:\Users\Dreamtyt\Desktop\GitHub\GamersBot\OneShot\Content\Blueprints\Potion\Potion.uasset: Failed to load '/Game/Blueprints/Potion/Magic_Potion/12_Central_Rope_copy6_Central_Rope_copy6_0': Can't find file.
+[2021.11.14-20.06.32:527][  0]LogLinker: Warning: [AssetLog] C:\Users\Dreamtyt\Desktop\GitHub\GamersBot\OneShot\Content\Blueprints\Potion\Potion.uasset: Failed to load '/Game/Blueprints/Potion/Magic_Potion/13_Central_Rope_copy7_Central_Rope_copy7_0': Can't find file.
+[2021.11.14-20.06.32:527][  0]LogLinker: Warning: [AssetLog] C:\Users\Dreamtyt\Desktop\GitHub\GamersBot\OneShot\Content\Blueprints\Potion\Potion.uasset: Failed to load '/Game/Blueprints/Potion/Magic_Potion/14_Bottom_Rope_Bottom_Rope_0': Can't find file.
+[2021.11.14-20.06.32:527][  0]LogLinker: Warning: [AssetLog] C:\Users\Dreamtyt\Desktop\GitHub\GamersBot\OneShot\Content\Blueprints\Potion\Potion.uasset: Failed to load '/Game/Blueprints/Potion/Magic_Potion/15_Central_Rope_copy2_Central_Rope_copy2_0': Can't find file.
+[2021.11.14-20.06.32:527][  0]LogLinker: Warning: [AssetLog] C:\Users\Dreamtyt\Desktop\GitHub\GamersBot\OneShot\Content\Blueprints\Potion\Potion.uasset: Failed to load '/Game/Blueprints/Potion/Magic_Potion/16_Bubbles32_Bubbles_0': Can't find file.
+[2021.11.14-20.06.32:528][  0]LogLinker: Warning: [AssetLog] C:\Users\Dreamtyt\Desktop\GitHub\GamersBot\OneShot\Content\Blueprints\Potion\Potion.uasset: Failed to load '/Game/Blueprints/Potion/Magic_Potion/1_Mouth_bottle2_Mouth_bottle2_0': Can't find file.
+[2021.11.14-20.06.32:528][  0]LogLinker: Warning: [AssetLog] C:\Users\Dreamtyt\Desktop\GitHub\GamersBot\OneShot\Content\Blueprints\Potion\Potion.uasset: Failed to load '/Game/Blueprints/Potion/Magic_Potion/2_Plug1_Plug1_0': Can't find file.
+[2021.11.14-20.06.32:528][  0]LogLinker: Warning: [AssetLog] C:\Users\Dreamtyt\Desktop\GitHub\GamersBot\OneShot\Content\Blueprints\Potion\Potion.uasset: Failed to load '/Game/Blueprints/Potion/Magic_Potion/3_Magic_Potion_Magic_Potion1_0': Can't find file.
+[2021.11.14-20.06.32:528][  0]LogLinker: Warning: [AssetLog] C:\Users\Dreamtyt\Desktop\GitHub\GamersBot\OneShot\Content\Blueprints\Potion\Potion.uasset: Failed to load '/Game/Blueprints/Potion/Magic_Potion/4_Liquid_Liquid1_0': Can't find file.
+[2021.11.14-20.06.32:529][  0]LogLinker: Warning: [AssetLog] C:\Users\Dreamtyt\Desktop\GitHub\GamersBot\OneShot\Content\Blueprints\Potion\Potion.uasset: Failed to load '/Game/Blueprints/Potion/Magic_Potion/5_Upper_Rope_Upper_Rope_0': Can't find file.
+[2021.11.14-20.06.32:529][  0]LogLinker: Warning: [AssetLog] C:\Users\Dreamtyt\Desktop\GitHub\GamersBot\OneShot\Content\Blueprints\Potion\Potion.uasset: Failed to load '/Game/Blueprints/Potion/Magic_Potion/6_Central_Rope_Central_Rope_0': Can't find file.
+[2021.11.14-20.06.32:529][  0]LogLinker: Warning: [AssetLog] C:\Users\Dreamtyt\Desktop\GitHub\GamersBot\OneShot\Content\Blueprints\Potion\Potion.uasset: Failed to load '/Game/Blueprints/Potion/Magic_Potion/7_Central_Rope_copy1_Central_Rope_copy1_0': Can't find file.
+[2021.11.14-20.06.32:529][  0]LogLinker: Warning: [AssetLog] C:\Users\Dreamtyt\Desktop\GitHub\GamersBot\OneShot\Content\Blueprints\Potion\Potion.uasset: Failed to load '/Game/Blueprints/Potion/Magic_Potion/8_Central_Rope_copy3_Central_Rope_copy3_0': Can't find file.
+[2021.11.14-20.06.32:530][  0]LogLinker: Warning: [AssetLog] C:\Users\Dreamtyt\Desktop\GitHub\GamersBot\OneShot\Content\Blueprints\Potion\Potion.uasset: Failed to load '/Game/Blueprints/Potion/Magic_Potion/9_Top_Rope_Top_Rope_0': Can't find file.
+[2021.11.14-20.06.32:530][  0]LogLinker: Warning: [AssetLog] C:\Users\Dreamtyt\Desktop\GitHub\GamersBot\OneShot\Content\Blueprints\Coins.uasset: Failed to load '/Game/Blueprints/Potion/Magic_Potion/0_Algae_Algae_0': Can't find file.
+[2021.11.14-20.06.32:530][  0]LogLinker: Warning: [AssetLog] C:\Users\Dreamtyt\Desktop\GitHub\GamersBot\OneShot\Content\Blueprints\Coins.uasset: Failed to load '/Game/Blueprints/Potion/Magic_Potion/10_Central_Rope_copy4_Central_Rope_copy4_0': Can't find file.
+[2021.11.14-20.06.32:531][  0]LogLinker: Warning: [AssetLog] C:\Users\Dreamtyt\Desktop\GitHub\GamersBot\OneShot\Content\Blueprints\Coins.uasset: Failed to load '/Game/Blueprints/Potion/Magic_Potion/11_Central_Rope_copy5_Central_Rope_copy5_0': Can't find file.
+[2021.11.14-20.06.32:531][  0]LogLinker: Warning: [AssetLog] C:\Users\Dreamtyt\Desktop\GitHub\GamersBot\OneShot\Content\Blueprints\Coins.uasset: Failed to load '/Game/Blueprints/Potion/Magic_Potion/12_Central_Rope_copy6_Central_Rope_copy6_0': Can't find file.
+[2021.11.14-20.06.32:531][  0]LogLinker: Warning: [AssetLog] C:\Users\Dreamtyt\Desktop\GitHub\GamersBot\OneShot\Content\Blueprints\Coins.uasset: Failed to load '/Game/Blueprints/Potion/Magic_Potion/13_Central_Rope_copy7_Central_Rope_copy7_0': Can't find file.
+[2021.11.14-20.06.32:531][  0]LogLinker: Warning: [AssetLog] C:\Users\Dreamtyt\Desktop\GitHub\GamersBot\OneShot\Content\Blueprints\Coins.uasset: Failed to load '/Game/Blueprints/Potion/Magic_Potion/14_Bottom_Rope_Bottom_Rope_0': Can't find file.
+[2021.11.14-20.06.32:531][  0]LogLinker: Warning: [AssetLog] C:\Users\Dreamtyt\Desktop\GitHub\GamersBot\OneShot\Content\Blueprints\Coins.uasset: Failed to load '/Game/Blueprints/Potion/Magic_Potion/15_Central_Rope_copy2_Central_Rope_copy2_0': Can't find file.
+[2021.11.14-20.06.32:532][  0]LogLinker: Warning: [AssetLog] C:\Users\Dreamtyt\Desktop\GitHub\GamersBot\OneShot\Content\Blueprints\Coins.uasset: Failed to load '/Game/Blueprints/Potion/Magic_Potion/16_Bubbles32_Bubbles_0': Can't find file.
+[2021.11.14-20.06.32:532][  0]LogLinker: Warning: [AssetLog] C:\Users\Dreamtyt\Desktop\GitHub\GamersBot\OneShot\Content\Blueprints\Coins.uasset: Failed to load '/Game/Blueprints/Potion/Magic_Potion/1_Mouth_bottle2_Mouth_bottle2_0': Can't find file.
+[2021.11.14-20.06.32:532][  0]LogLinker: Warning: [AssetLog] C:\Users\Dreamtyt\Desktop\GitHub\GamersBot\OneShot\Content\Blueprints\Coins.uasset: Failed to load '/Game/Blueprints/Potion/Magic_Potion/2_Plug1_Plug1_0': Can't find file.
+[2021.11.14-20.06.32:532][  0]LogLinker: Warning: [AssetLog] C:\Users\Dreamtyt\Desktop\GitHub\GamersBot\OneShot\Content\Blueprints\Coins.uasset: Failed to load '/Game/Blueprints/Potion/Magic_Potion/3_Magic_Potion_Magic_Potion1_0': Can't find file.
+[2021.11.14-20.06.32:533][  0]LogLinker: Warning: [AssetLog] C:\Users\Dreamtyt\Desktop\GitHub\GamersBot\OneShot\Content\Blueprints\Coins.uasset: Failed to load '/Game/Blueprints/Potion/Magic_Potion/4_Liquid_Liquid1_0': Can't find file.
+[2021.11.14-20.06.32:533][  0]LogLinker: Warning: [AssetLog] C:\Users\Dreamtyt\Desktop\GitHub\GamersBot\OneShot\Content\Blueprints\Coins.uasset: Failed to load '/Game/Blueprints/Potion/Magic_Potion/5_Upper_Rope_Upper_Rope_0': Can't find file.
+[2021.11.14-20.06.32:533][  0]LogLinker: Warning: [AssetLog] C:\Users\Dreamtyt\Desktop\GitHub\GamersBot\OneShot\Content\Blueprints\Coins.uasset: Failed to load '/Game/Blueprints/Potion/Magic_Potion/6_Central_Rope_Central_Rope_0': Can't find file.
+[2021.11.14-20.06.32:533][  0]LogLinker: Warning: [AssetLog] C:\Users\Dreamtyt\Desktop\GitHub\GamersBot\OneShot\Content\Blueprints\Coins.uasset: Failed to load '/Game/Blueprints/Potion/Magic_Potion/7_Central_Rope_copy1_Central_Rope_copy1_0': Can't find file.
+[2021.11.14-20.06.32:534][  0]LogLinker: Warning: [AssetLog] C:\Users\Dreamtyt\Desktop\GitHub\GamersBot\OneShot\Content\Blueprints\Coins.uasset: Failed to load '/Game/Blueprints/Potion/Magic_Potion/8_Central_Rope_copy3_Central_Rope_copy3_0': Can't find file.
+[2021.11.14-20.06.32:534][  0]LogLinker: Warning: [AssetLog] C:\Users\Dreamtyt\Desktop\GitHub\GamersBot\OneShot\Content\Blueprints\Coins.uasset: Failed to load '/Game/Blueprints/Potion/Magic_Potion/9_Top_Rope_Top_Rope_0': Can't find file.
+[2021.11.14-20.06.32:534][  0]LogLinker: Warning: [AssetLog] C:\Users\Dreamtyt\Desktop\GitHub\GamersBot\OneShot\Content\Blueprints\Coins.uasset: Failed to load '/Game/Blueprints/Potion/Magic_Potion/0_Algae_Algae_0': Can't find file.
+[2021.11.14-20.06.32:535][  0]LogLinker: Warning: [AssetLog] C:\Users\Dreamtyt\Desktop\GitHub\GamersBot\OneShot\Content\Blueprints\Coins.uasset: Failed to load '/Game/Blueprints/Potion/Magic_Potion/10_Central_Rope_copy4_Central_Rope_copy4_0': Can't find file.
+[2021.11.14-20.06.32:535][  0]LogLinker: Warning: [AssetLog] C:\Users\Dreamtyt\Desktop\GitHub\GamersBot\OneShot\Content\Blueprints\Coins.uasset: Failed to load '/Game/Blueprints/Potion/Magic_Potion/11_Central_Rope_copy5_Central_Rope_copy5_0': Can't find file.
+[2021.11.14-20.06.32:535][  0]LogLinker: Warning: [AssetLog] C:\Users\Dreamtyt\Desktop\GitHub\GamersBot\OneShot\Content\Blueprints\Coins.uasset: Failed to load '/Game/Blueprints/Potion/Magic_Potion/12_Central_Rope_copy6_Central_Rope_copy6_0': Can't find file.
+[2021.11.14-20.06.32:535][  0]LogLinker: Warning: [AssetLog] C:\Users\Dreamtyt\Desktop\GitHub\GamersBot\OneShot\Content\Blueprints\Coins.uasset: Failed to load '/Game/Blueprints/Potion/Magic_Potion/13_Central_Rope_copy7_Central_Rope_copy7_0': Can't find file.
+[2021.11.14-20.06.32:536][  0]LogLinker: Warning: [AssetLog] C:\Users\Dreamtyt\Desktop\GitHub\GamersBot\OneShot\Content\Blueprints\Coins.uasset: Failed to load '/Game/Blueprints/Potion/Magic_Potion/14_Bottom_Rope_Bottom_Rope_0': Can't find file.
+[2021.11.14-20.06.32:536][  0]LogLinker: Warning: [AssetLog] C:\Users\Dreamtyt\Desktop\GitHub\GamersBot\OneShot\Content\Blueprints\Coins.uasset: Failed to load '/Game/Blueprints/Potion/Magic_Potion/15_Central_Rope_copy2_Central_Rope_copy2_0': Can't find file.
+[2021.11.14-20.06.32:536][  0]LogLinker: Warning: [AssetLog] C:\Users\Dreamtyt\Desktop\GitHub\GamersBot\OneShot\Content\Blueprints\Coins.uasset: Failed to load '/Game/Blueprints/Potion/Magic_Potion/16_Bubbles32_Bubbles_0': Can't find file.
+[2021.11.14-20.06.32:536][  0]LogLinker: Warning: [AssetLog] C:\Users\Dreamtyt\Desktop\GitHub\GamersBot\OneShot\Content\Blueprints\Coins.uasset: Failed to load '/Game/Blueprints/Potion/Magic_Potion/1_Mouth_bottle2_Mouth_bottle2_0': Can't find file.
+[2021.11.14-20.06.32:537][  0]LogLinker: Warning: [AssetLog] C:\Users\Dreamtyt\Desktop\GitHub\GamersBot\OneShot\Content\Blueprints\Coins.uasset: Failed to load '/Game/Blueprints/Potion/Magic_Potion/2_Plug1_Plug1_0': Can't find file.
+[2021.11.14-20.06.32:537][  0]LogLinker: Warning: [AssetLog] C:\Users\Dreamtyt\Desktop\GitHub\GamersBot\OneShot\Content\Blueprints\Coins.uasset: Failed to load '/Game/Blueprints/Potion/Magic_Potion/3_Magic_Potion_Magic_Potion1_0': Can't find file.
+[2021.11.14-20.06.32:538][  0]LogLinker: Warning: [AssetLog] C:\Users\Dreamtyt\Desktop\GitHub\GamersBot\OneShot\Content\Blueprints\Coins.uasset: Failed to load '/Game/Blueprints/Potion/Magic_Potion/4_Liquid_Liquid1_0': Can't find file.
+[2021.11.14-20.06.32:538][  0]LogLinker: Warning: [AssetLog] C:\Users\Dreamtyt\Desktop\GitHub\GamersBot\OneShot\Content\Blueprints\Coins.uasset: Failed to load '/Game/Blueprints/Potion/Magic_Potion/5_Upper_Rope_Upper_Rope_0': Can't find file.
+[2021.11.14-20.06.32:538][  0]LogLinker: Warning: [AssetLog] C:\Users\Dreamtyt\Desktop\GitHub\GamersBot\OneShot\Content\Blueprints\Coins.uasset: Failed to load '/Game/Blueprints/Potion/Magic_Potion/6_Central_Rope_Central_Rope_0': Can't find file.
+[2021.11.14-20.06.32:539][  0]LogLinker: Warning: [AssetLog] C:\Users\Dreamtyt\Desktop\GitHub\GamersBot\OneShot\Content\Blueprints\Coins.uasset: Failed to load '/Game/Blueprints/Potion/Magic_Potion/7_Central_Rope_copy1_Central_Rope_copy1_0': Can't find file.
+[2021.11.14-20.06.32:539][  0]LogLinker: Warning: [AssetLog] C:\Users\Dreamtyt\Desktop\GitHub\GamersBot\OneShot\Content\Blueprints\Coins.uasset: Failed to load '/Game/Blueprints/Potion/Magic_Potion/8_Central_Rope_copy3_Central_Rope_copy3_0': Can't find file.
+[2021.11.14-20.06.32:539][  0]LogLinker: Warning: [AssetLog] C:\Users\Dreamtyt\Desktop\GitHub\GamersBot\OneShot\Content\Blueprints\Coins.uasset: Failed to load '/Game/Blueprints/Potion/Magic_Potion/9_Top_Rope_Top_Rope_0': Can't find file.
+[2021.11.14-20.06.32:541][  0]LogLinker: Warning: [AssetLog] C:\Users\Dreamtyt\Desktop\GitHub\GamersBot\OneShot\Content\Blueprints\Coins.uasset: Failed to load '/Game/Blueprints/Potion/Magic_Potion/0_Algae_Algae_0': Can't find file.
+[2021.11.14-20.06.32:541][  0]LoadErrors: Failed to load /Game/Blueprints/Potion/Magic_Potion/0_Algae_Algae_0.0_Algae_Algae_0 Referenced by 0_Algae_Algae_0_GEN_VARIABLE
+[2021.11.14-20.06.32:541][  0]LogLinker: Warning: [AssetLog] C:\Users\Dreamtyt\Desktop\GitHub\GamersBot\OneShot\Content\Blueprints\Coins.uasset: Failed to load '/Game/Blueprints/Potion/Magic_Potion/10_Central_Rope_copy4_Central_Rope_copy4_0': Can't find file.
+[2021.11.14-20.06.32:541][  0]LoadErrors: Failed to load /Game/Blueprints/Potion/Magic_Potion/10_Central_Rope_copy4_Central_Rope_copy4_0.10_Central_Rope_copy4_Central_Rope_copy4_0 Referenced by 10_Central_Rope_copy4_Central_Rope_copy4_0_GEN_VARIABLE
+[2021.11.14-20.06.32:542][  0]LogLinker: Warning: [AssetLog] C:\Users\Dreamtyt\Desktop\GitHub\GamersBot\OneShot\Content\Blueprints\Coins.uasset: Failed to load '/Game/Blueprints/Potion/Magic_Potion/11_Central_Rope_copy5_Central_Rope_copy5_0': Can't find file.
+[2021.11.14-20.06.32:542][  0]LoadErrors: Failed to load /Game/Blueprints/Potion/Magic_Potion/11_Central_Rope_copy5_Central_Rope_copy5_0.11_Central_Rope_copy5_Central_Rope_copy5_0 Referenced by 11_Central_Rope_copy5_Central_Rope_copy5_0_GEN_VARIABLE
+[2021.11.14-20.06.32:543][  0]LogLinker: Warning: [AssetLog] C:\Users\Dreamtyt\Desktop\GitHub\GamersBot\OneShot\Content\Blueprints\Coins.uasset: Failed to load '/Game/Blueprints/Potion/Magic_Potion/12_Central_Rope_copy6_Central_Rope_copy6_0': Can't find file.
+[2021.11.14-20.06.32:543][  0]LoadErrors: Failed to load /Game/Blueprints/Potion/Magic_Potion/12_Central_Rope_copy6_Central_Rope_copy6_0.12_Central_Rope_copy6_Central_Rope_copy6_0 Referenced by 12_Central_Rope_copy6_Central_Rope_copy6_0_GEN_VARIABLE
+[2021.11.14-20.06.32:543][  0]LogLinker: Warning: [AssetLog] C:\Users\Dreamtyt\Desktop\GitHub\GamersBot\OneShot\Content\Blueprints\Coins.uasset: Failed to load '/Game/Blueprints/Potion/Magic_Potion/13_Central_Rope_copy7_Central_Rope_copy7_0': Can't find file.
+[2021.11.14-20.06.32:543][  0]LoadErrors: Failed to load /Game/Blueprints/Potion/Magic_Potion/13_Central_Rope_copy7_Central_Rope_copy7_0.13_Central_Rope_copy7_Central_Rope_copy7_0 Referenced by 13_Central_Rope_copy7_Central_Rope_copy7_0_GEN_VARIABLE
+[2021.11.14-20.06.32:544][  0]LogLinker: Warning: [AssetLog] C:\Users\Dreamtyt\Desktop\GitHub\GamersBot\OneShot\Content\Blueprints\Coins.uasset: Failed to load '/Game/Blueprints/Potion/Magic_Potion/14_Bottom_Rope_Bottom_Rope_0': Can't find file.
+[2021.11.14-20.06.32:544][  0]LoadErrors: Failed to load /Game/Blueprints/Potion/Magic_Potion/14_Bottom_Rope_Bottom_Rope_0.14_Bottom_Rope_Bottom_Rope_0 Referenced by 14_Bottom_Rope_Bottom_Rope_0_GEN_VARIABLE
+[2021.11.14-20.06.32:545][  0]LogLinker: Warning: [AssetLog] C:\Users\Dreamtyt\Desktop\GitHub\GamersBot\OneShot\Content\Blueprints\Coins.uasset: Failed to load '/Game/Blueprints/Potion/Magic_Potion/15_Central_Rope_copy2_Central_Rope_copy2_0': Can't find file.
+[2021.11.14-20.06.32:545][  0]LoadErrors: Failed to load /Game/Blueprints/Potion/Magic_Potion/15_Central_Rope_copy2_Central_Rope_copy2_0.15_Central_Rope_copy2_Central_Rope_copy2_0 Referenced by 15_Central_Rope_copy2_Central_Rope_copy2_0_GEN_VARIABLE
+[2021.11.14-20.06.32:545][  0]LogLinker: Warning: [AssetLog] C:\Users\Dreamtyt\Desktop\GitHub\GamersBot\OneShot\Content\Blueprints\Coins.uasset: Failed to load '/Game/Blueprints/Potion/Magic_Potion/16_Bubbles32_Bubbles_0': Can't find file.
+[2021.11.14-20.06.32:545][  0]LoadErrors: Failed to load /Game/Blueprints/Potion/Magic_Potion/16_Bubbles32_Bubbles_0.16_Bubbles32_Bubbles_0 Referenced by 16_Bubbles32_Bubbles_0_GEN_VARIABLE
+[2021.11.14-20.06.32:546][  0]LogLinker: Warning: [AssetLog] C:\Users\Dreamtyt\Desktop\GitHub\GamersBot\OneShot\Content\Blueprints\Coins.uasset: Failed to load '/Game/Blueprints/Potion/Magic_Potion/1_Mouth_bottle2_Mouth_bottle2_0': Can't find file.
+[2021.11.14-20.06.32:546][  0]LoadErrors: Failed to load /Game/Blueprints/Potion/Magic_Potion/1_Mouth_bottle2_Mouth_bottle2_0.1_Mouth_bottle2_Mouth_bottle2_0 Referenced by 1_Mouth_bottle2_Mouth_bottle2_0_GEN_VARIABLE
+[2021.11.14-20.06.32:547][  0]LogLinker: Warning: [AssetLog] C:\Users\Dreamtyt\Desktop\GitHub\GamersBot\OneShot\Content\Blueprints\Coins.uasset: Failed to load '/Game/Blueprints/Potion/Magic_Potion/2_Plug1_Plug1_0': Can't find file.
+[2021.11.14-20.06.32:547][  0]LoadErrors: Failed to load /Game/Blueprints/Potion/Magic_Potion/2_Plug1_Plug1_0.2_Plug1_Plug1_0 Referenced by 2_Plug1_Plug1_0_GEN_VARIABLE
+[2021.11.14-20.06.32:548][  0]LogLinker: Warning: [AssetLog] C:\Users\Dreamtyt\Desktop\GitHub\GamersBot\OneShot\Content\Blueprints\Coins.uasset: Failed to load '/Game/Blueprints/Potion/Magic_Potion/3_Magic_Potion_Magic_Potion1_0': Can't find file.
+[2021.11.14-20.06.32:548][  0]LoadErrors: Failed to load /Game/Blueprints/Potion/Magic_Potion/3_Magic_Potion_Magic_Potion1_0.3_Magic_Potion_Magic_Potion1_0 Referenced by 3_Magic_Potion_Magic_Potion1_0_GEN_VARIABLE
+[2021.11.14-20.06.32:548][  0]LogLinker: Warning: [AssetLog] C:\Users\Dreamtyt\Desktop\GitHub\GamersBot\OneShot\Content\Blueprints\Coins.uasset: Failed to load '/Game/Blueprints/Potion/Magic_Potion/4_Liquid_Liquid1_0': Can't find file.
+[2021.11.14-20.06.32:549][  0]LoadErrors: Failed to load /Game/Blueprints/Potion/Magic_Potion/4_Liquid_Liquid1_0.4_Liquid_Liquid1_0 Referenced by 4_Liquid_Liquid1_0_GEN_VARIABLE
+[2021.11.14-20.06.32:549][  0]LogLinker: Warning: [AssetLog] C:\Users\Dreamtyt\Desktop\GitHub\GamersBot\OneShot\Content\Blueprints\Coins.uasset: Failed to load '/Game/Blueprints/Potion/Magic_Potion/5_Upper_Rope_Upper_Rope_0': Can't find file.
+[2021.11.14-20.06.32:549][  0]LoadErrors: Failed to load /Game/Blueprints/Potion/Magic_Potion/5_Upper_Rope_Upper_Rope_0.5_Upper_Rope_Upper_Rope_0 Referenced by 5_Upper_Rope_Upper_Rope_0_GEN_VARIABLE
+[2021.11.14-20.06.32:550][  0]LogLinker: Warning: [AssetLog] C:\Users\Dreamtyt\Desktop\GitHub\GamersBot\OneShot\Content\Blueprints\Coins.uasset: Failed to load '/Game/Blueprints/Potion/Magic_Potion/6_Central_Rope_Central_Rope_0': Can't find file.
+[2021.11.14-20.06.32:550][  0]LoadErrors: Failed to load /Game/Blueprints/Potion/Magic_Potion/6_Central_Rope_Central_Rope_0.6_Central_Rope_Central_Rope_0 Referenced by 6_Central_Rope_Central_Rope_0_GEN_VARIABLE
+[2021.11.14-20.06.32:550][  0]LogLinker: Warning: [AssetLog] C:\Users\Dreamtyt\Desktop\GitHub\GamersBot\OneShot\Content\Blueprints\Coins.uasset: Failed to load '/Game/Blueprints/Potion/Magic_Potion/7_Central_Rope_copy1_Central_Rope_copy1_0': Can't find file.
+[2021.11.14-20.06.32:550][  0]LoadErrors: Failed to load /Game/Blueprints/Potion/Magic_Potion/7_Central_Rope_copy1_Central_Rope_copy1_0.7_Central_Rope_copy1_Central_Rope_copy1_0 Referenced by 7_Central_Rope_copy1_Central_Rope_copy1_0_GEN_VARIABLE
+[2021.11.14-20.06.32:551][  0]LogLinker: Warning: [AssetLog] C:\Users\Dreamtyt\Desktop\GitHub\GamersBot\OneShot\Content\Blueprints\Coins.uasset: Failed to load '/Game/Blueprints/Potion/Magic_Potion/8_Central_Rope_copy3_Central_Rope_copy3_0': Can't find file.
+[2021.11.14-20.06.32:551][  0]LoadErrors: Failed to load /Game/Blueprints/Potion/Magic_Potion/8_Central_Rope_copy3_Central_Rope_copy3_0.8_Central_Rope_copy3_Central_Rope_copy3_0 Referenced by 8_Central_Rope_copy3_Central_Rope_copy3_0_GEN_VARIABLE
+[2021.11.14-20.06.32:551][  0]LogLinker: Warning: [AssetLog] C:\Users\Dreamtyt\Desktop\GitHub\GamersBot\OneShot\Content\Blueprints\Coins.uasset: Failed to load '/Game/Blueprints/Potion/Magic_Potion/9_Top_Rope_Top_Rope_0': Can't find file.
+[2021.11.14-20.06.32:551][  0]LoadErrors: Failed to load /Game/Blueprints/Potion/Magic_Potion/9_Top_Rope_Top_Rope_0.9_Top_Rope_Top_Rope_0 Referenced by 9_Top_Rope_Top_Rope_0_GEN_VARIABLE
+[2021.11.14-20.06.32:985][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Tutorial'.
+[2021.11.14-20.06.32:986][  0]LogAIModule: Creating AISystem for world Tutorial
+[2021.11.14-20.06.32:988][  0]LogMaterial: Display: Material /Game/Models/Jail_Cell/Materials/Layer_2_mtl.Layer_2_mtl needed to have new flag set bUsedWithStaticLighting !
+[2021.11.14-20.06.32:993][  0]LogMaterial: Display: Missing cached shader map for material Layer_2_mtl, compiling. 
+[2021.11.14-20.06.33:055][  0]MapCheck: Warning: Layer_2_mtl Material /Game/Models/Jail_Cell/Materials/Layer_2_mtl.Layer_2_mtl was missing the usage flag bUsedWithStaticLighting. If the material asset is not re-saved, it may not render correctly when run outside the editor. Fix
+[2021.11.14-20.06.33:055][  0]LogMaterial: Display: Material /Game/Models/Jail_Cell/Materials/Layer_1_mtl.Layer_1_mtl needed to have new flag set bUsedWithStaticLighting !
+[2021.11.14-20.06.33:057][  0]LogMaterial: Display: Missing cached shader map for material Layer_1_mtl, compiling. 
+[2021.11.14-20.06.33:073][  0]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 26
+[2021.11.14-20.06.33:073][  0]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 20
+[2021.11.14-20.06.33:073][  0]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 14
+[2021.11.14-20.06.33:073][  0]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 8
+[2021.11.14-20.06.33:073][  0]LogShaderCompilers: Display: Worker (5/5): shaders left to compile 2
+[2021.11.14-20.06.33:073][  0]MapCheck: Warning: Layer_1_mtl Material /Game/Models/Jail_Cell/Materials/Layer_1_mtl.Layer_1_mtl was missing the usage flag bUsedWithStaticLighting. If the material asset is not re-saved, it may not render correctly when run outside the editor. Fix
+[2021.11.14-20.06.33:138][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.11.14-20.06.33:149][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2021.11.14-20.06.33:149][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.11.14-20.06.33:150][  0]MapCheck: Map check complete: 0 Error(s), 2 Warning(s), took 0.18ms to complete.
+[2021.11.14-20.06.33:157][  0]LogFileHelpers: Loading map 'Tutorial' took 0.708
+[2021.11.14-20.06.33:160][  0]LogUnrealEdMisc: Total Editor Startup Time, took 7.943
+[2021.11.14-20.06.33:313][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.14-20.06.33:324][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.14-20.06.33:338][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.14-20.06.33:351][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.14-20.06.33:380][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0204 seconds. Added 3801 classes and 916 folders.
+[2021.11.14-20.06.33:384][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2021.11.14-20.06.33:386][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.11.14-20.06.33:386][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.14-20.06.33:386][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.11.14-20.06.33:386][  0]LogPakFile: OnPakFileMounted2Time == 0.000011
+[2021.11.14-20.06.33:387][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.11.14-20.06.33:387][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.14-20.06.33:387][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.11.14-20.06.33:387][  0]LogPakFile: OnPakFileMounted2Time == 0.000013
+[2021.11.14-20.06.33:388][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2021.11.14-20.06.33:388][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.14-20.06.33:388][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2021.11.14-20.06.33:388][  0]LogPakFile: OnPakFileMounted2Time == 0.000016
+[2021.11.14-20.06.33:389][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.11.14-20.06.33:389][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.14-20.06.33:389][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.11.14-20.06.33:389][  0]LogPakFile: OnPakFileMounted2Time == 0.000019
+[2021.11.14-20.06.33:390][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.11.14-20.06.33:390][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.14-20.06.33:390][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.11.14-20.06.33:390][  0]LogPakFile: OnPakFileMounted2Time == 0.000022
+[2021.11.14-20.06.33:391][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.11.14-20.06.33:391][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.14-20.06.33:391][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.11.14-20.06.33:391][  0]LogPakFile: OnPakFileMounted2Time == 0.000024
+[2021.11.14-20.06.33:392][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.11.14-20.06.33:392][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.14-20.06.33:392][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.11.14-20.06.33:392][  0]LogPakFile: OnPakFileMounted2Time == 0.000027
+[2021.11.14-20.06.33:393][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.11.14-20.06.33:393][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.14-20.06.33:393][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.11.14-20.06.33:393][  0]LogPakFile: OnPakFileMounted2Time == 0.000029
+[2021.11.14-20.06.33:394][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.11.14-20.06.33:394][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.14-20.06.33:394][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.11.14-20.06.33:394][  0]LogPakFile: OnPakFileMounted2Time == 0.000032
+[2021.11.14-20.06.33:396][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.11.14-20.06.33:396][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.14-20.06.33:396][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.11.14-20.06.33:396][  0]LogPakFile: OnPakFileMounted2Time == 0.000036
+[2021.11.14-20.06.33:397][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.11.14-20.06.33:397][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.14-20.06.33:397][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.11.14-20.06.33:397][  0]LogPakFile: OnPakFileMounted2Time == 0.000039
+[2021.11.14-20.06.33:398][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.11.14-20.06.33:398][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.14-20.06.33:398][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.11.14-20.06.33:398][  0]LogPakFile: OnPakFileMounted2Time == 0.000043
+[2021.11.14-20.06.33:399][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.11.14-20.06.33:399][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.14-20.06.33:399][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.11.14-20.06.33:399][  0]LogPakFile: OnPakFileMounted2Time == 0.000046
+[2021.11.14-20.06.33:400][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.11.14-20.06.33:400][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.14-20.06.33:400][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.11.14-20.06.33:400][  0]LogPakFile: OnPakFileMounted2Time == 0.000049
+[2021.11.14-20.06.33:401][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.11.14-20.06.33:401][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.14-20.06.33:401][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.11.14-20.06.33:401][  0]LogPakFile: OnPakFileMounted2Time == 0.000052
+[2021.11.14-20.06.33:402][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.11.14-20.06.33:402][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.14-20.06.33:402][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.11.14-20.06.33:402][  0]LogPakFile: OnPakFileMounted2Time == 0.000055
+[2021.11.14-20.06.33:403][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.11.14-20.06.33:403][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.14-20.06.33:403][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.11.14-20.06.33:403][  0]LogPakFile: OnPakFileMounted2Time == 0.000059
+[2021.11.14-20.06.33:404][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.11.14-20.06.33:404][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.14-20.06.33:404][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.11.14-20.06.33:404][  0]LogPakFile: OnPakFileMounted2Time == 0.000062
+[2021.11.14-20.06.33:406][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.11.14-20.06.33:406][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.14-20.06.33:406][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.11.14-20.06.33:406][  0]LogPakFile: OnPakFileMounted2Time == 0.000066
+[2021.11.14-20.06.33:407][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.11.14-20.06.33:407][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.14-20.06.33:407][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.11.14-20.06.33:407][  0]LogPakFile: OnPakFileMounted2Time == 0.000070
+[2021.11.14-20.06.33:408][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.11.14-20.06.33:408][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.14-20.06.33:409][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.11.14-20.06.33:409][  0]LogPakFile: OnPakFileMounted2Time == 0.000073
+[2021.11.14-20.06.33:410][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.11.14-20.06.33:410][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.14-20.06.33:410][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.11.14-20.06.33:410][  0]LogPakFile: OnPakFileMounted2Time == 0.000076
+[2021.11.14-20.06.33:411][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2021.11.14-20.06.33:411][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.14-20.06.33:411][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2021.11.14-20.06.33:411][  0]LogPakFile: OnPakFileMounted2Time == 0.000079
+[2021.11.14-20.06.33:412][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.11.14-20.06.33:412][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.14-20.06.33:412][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.11.14-20.06.33:412][  0]LogPakFile: OnPakFileMounted2Time == 0.000084
+[2021.11.14-20.06.33:413][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.11.14-20.06.33:413][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.14-20.06.33:413][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.11.14-20.06.33:413][  0]LogPakFile: OnPakFileMounted2Time == 0.000088
+[2021.11.14-20.06.33:414][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.11.14-20.06.33:414][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.14-20.06.33:414][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.11.14-20.06.33:414][  0]LogPakFile: OnPakFileMounted2Time == 0.000092
+[2021.11.14-20.06.33:487][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2021.11.14-20.06.33:489][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 2 classes and 0 folders.
+[2021.11.14-20.06.33:523][  0]LogSlate: Took 0.000203 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.11.14-20.06.33:526][  0]LogSlate: Took 0.000181 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.11.14-20.06.33:534][  0]LogSlate: Took 0.000169 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.11.14-20.06.33:703][  0]LogRenderer: Reallocating scene render targets to support 1208x580 Format 10 NumSamples 1 (Frame:1).
+[2021.11.14-20.06.33:972][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2021.11.14-20.06.33:972][  0]LogInput: Warning: Action Jump uses invalid key OculusGo_Left_Trigger_Click.
+[2021.11.14-20.06.33:972][  0]LogInput: Warning: Action ResetVR uses invalid key OculusGo_Left_Trackpad_Click.
+[2021.11.14-20.06.33:972][  0]LogInput: Warning: Use -RemoveInvalidKeys to remove instances of these keys from the action mapping.
+[2021.11.14-20.06.33:972][  0]LogLoad: (Engine Initialization) Total time: 8.75 seconds
+[2021.11.14-20.06.33:972][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.11.14-20.06.33:972][  0]LogInit: First time updating LLM stats...
+[2021.11.14-20.06.34:045][  0]LogAssetRegistry: Asset discovery search completed in 5.0853 seconds
+[2021.11.14-20.06.34:048][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000005 seconds (updated 0 objects)
+[2021.11.14-20.06.34:178][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2021.11.14-20.06.34:246][  0]LogSlate: Took 0.000192 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2021.11.14-20.06.34:352][  2]LogSlate: Took 0.000236 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.11.14-20.06.36:455][ 79]LogSlate: Window 'Message Log' being destroyed
+[2021.11.14-20.06.36:485][ 79]LogSlate: Window 'Message Log' being destroyed
+[2021.11.14-20.06.38:020][135]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 26
+[2021.11.14-20.06.38:457][148]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 19
+[2021.11.14-20.06.38:649][155]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 14
+[2021.11.14-20.06.38:746][158]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 10
+[2021.11.14-20.06.40:610][231]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 7
+[2021.11.14-20.06.41:390][253]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2021.11.14-20.06.41:878][270]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3
+[2021.11.14-20.06.42:209][284]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2021.11.14-20.06.42:350][291]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2021.11.14-20.06.58:105][845]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2021.11.14-20.07.02:139][845]LogSlate: Window 'Delete Assets' being destroyed
+[2021.11.14-20.07.02:171][845]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Models/Light/fluorescent_lamp/Lamp.Lamp
+[2021.11.14-20.07.02:175][845]LogSlate: Took 0.000123 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.11.14-20.07.04:514][845]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2021.11.14-20.07.04:528][845]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2021.11.14-20.07.04:535][845]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2021.11.14-20.07.04:540][845]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2021.11.14-20.07.16:446][ 84]LogFactory: FactoryCreateFile: StaticMesh with GLTFImportFactory (0 0 C:\Users\Dreamtyt\Desktop\Game Design\Lamp\scene.gltf)
+[2021.11.14-20.07.16:446][ 84]C:\Users\Dreamtyt\Desktop\Game Design\Lamp\scene.gltf
+[2021.11.14-20.07.28:306][ 84]LogSlate: Window 'glTF Import Options' being destroyed
+[2021.11.14-20.07.28:409][ 84]LogTexture: Display: Building textures: 0_Material_25_baseColor (AutoDXT, 2048X2048)
+[2021.11.14-20.07.28:894][ 84]LogTexture: Display: Building textures: 1_Material_25_metallicRoughness (AutoDXT, 2048X2048)
+[2021.11.14-20.07.29:223][ 84]LogTexture: Display: Building textures: 1_Material_25_metallicRoughness (AutoDXT, 2048X2048)
+[2021.11.14-20.07.29:514][ 84]LogTexture: Display: Building textures: 1_Material_25_metallicRoughness (AutoDXT, 2048X2048)
+[2021.11.14-20.07.29:793][ 84]LogTexture: Display: Building textures: 2_Material_25_emissive (AutoDXT, 2048X2048)
+[2021.11.14-20.07.29:990][ 84]LogTexture: Display: Building textures: 3_Material_25_normal (AutoDXT, 2048X2048)
+[2021.11.14-20.07.30:184][ 84]LogTexture: Display: Building textures: 3_Material_25_normal (AutoDXT, 2048X2048)
+[2021.11.14-20.07.30:294][ 84]LogMaterial: Display: Missing cached shader map for material Material_25, compiling. 
+[2021.11.14-20.07.30:309][ 84]LogStaticMesh: Building static mesh 0_LDS2_Material__25_0...
+[2021.11.14-20.07.30:317][ 84]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 17
+[2021.11.14-20.07.30:317][ 84]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 12
+[2021.11.14-20.07.30:317][ 84]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2021.11.14-20.07.30:317][ 84]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2021.11.14-20.07.30:317][ 84]LogStaticMesh: Built static mesh [0.01s] /Game/Models/Light/fluorescent_lamp/0_LDS2_Material__25_0.0_LDS2_Material__25_0
+[2021.11.14-20.07.30:331][ 84]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Dreamtyt\Desktop\Game Design\Lamp\textures/Material_25_baseColor.png)
+[2021.11.14-20.07.30:433][ 84]LogTexture: Display: Building textures: Material_25_baseColor (AutoDXT, 2048X2048)
+[2021.11.14-20.07.30:998][ 84]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Dreamtyt\Desktop\Game Design\Lamp\textures/Material_25_emissive.png)
+[2021.11.14-20.07.31:011][ 84]LogTexture: Display: Building textures: Material_25_emissive (AutoDXT, 2048X2048)
+[2021.11.14-20.07.31:179][ 84]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Dreamtyt\Desktop\Game Design\Lamp\textures/Material_25_metallicRoughness.png)
+[2021.11.14-20.07.31:211][ 84]LogTexture: Display: Building textures: Material_25_metallicRoughness (AutoDXT, 2048X2048)
+[2021.11.14-20.07.31:622][ 84]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Dreamtyt\Desktop\Game Design\Lamp\textures/Material_25_normal.png)
+[2021.11.14-20.07.31:695][ 84]LogTexture: Display: Building textures: Material_25_normal (BC5, 2048X2048)
+[2021.11.14-20.07.31:897][ 84]LogAssetTools: Warning: Failed to import 'C:\Users\Dreamtyt\Desktop\Game Design\Lamp\scene.bin'. Unknown extension 'bin'.
+[2021.11.14-20.08.08:849][127]LogSlate: Window 'Pick Parent Class' being destroyed
+[2021.11.14-20.08.08:863][127]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2021.11.14-20.08.08:870][127]LogContentBrowser: Creating deferred item: NewBlueprint
+[2021.11.14-20.08.12:989][248]LogContentBrowser: Attempting asset rename: NewBlueprint -> Blueprint
+[2021.11.14-20.08.12:993][248]LogContentBrowser: End creating deferred item NewBlueprint
+[2021.11.14-20.08.19:449][470]LogContentBrowser: Attempting asset rename: Blueprint -> Lamp
+[2021.11.14-20.08.19:523][470]LogMetaData: Removing '/Game/Models/Light/fluorescent_lamp/Lamp.Lamp:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Models/Light/fluorescent_lamp/Blueprint.PackageMetaData'
+[2021.11.14-20.08.19:523][470]LogMetaData: Removing '/Game/Models/Light/fluorescent_lamp/Lamp.SKEL_Lamp_C:UserConstructionScript' ref from Metadata '/Game/Models/Light/fluorescent_lamp/Blueprint.PackageMetaData'
+[2021.11.14-20.08.19:523][470]LogMetaData: Removing '/Game/Models/Light/fluorescent_lamp/Lamp.SKEL_Lamp_C' ref from Metadata '/Game/Models/Light/fluorescent_lamp/Blueprint.PackageMetaData'
+[2021.11.14-20.08.19:523][470]LogMetaData: Removing '/Game/Models/Light/fluorescent_lamp/Lamp.Lamp_C' ref from Metadata '/Game/Models/Light/fluorescent_lamp/Blueprint.PackageMetaData'
+[2021.11.14-20.08.19:523][470]LogMetaData: Removing '/Game/Models/Light/fluorescent_lamp/Lamp.Lamp:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Models/Light/fluorescent_lamp/Blueprint.PackageMetaData'
+[2021.11.14-20.08.19:523][470]LogMetaData: Removing '/Game/Models/Light/fluorescent_lamp/Lamp.Lamp:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Models/Light/fluorescent_lamp/Blueprint.PackageMetaData'
+[2021.11.14-20.08.19:523][470]LogMetaData: Removing '/Game/Models/Light/fluorescent_lamp/Lamp.Lamp:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Models/Light/fluorescent_lamp/Blueprint.PackageMetaData'
+[2021.11.14-20.08.19:554][470]LogSavePackage: Moving '../../../../../../Users/Dreamtyt/Desktop/GitHub/GamersBot/OneShot/Saved/Lamp7CDC4EC7405A4443DB0710A693B3B4B0.tmp' to '../../../../../../Users/Dreamtyt/Desktop/GitHub/GamersBot/OneShot/Content/Models/Light/fluorescent_lamp/Lamp.uasset'
+[2021.11.14-20.08.19:617][470]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2021.11.14-20.08.19:633][470]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2021.11.14-20.08.19:639][470]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2021.11.14-20.08.19:667][470]AssetCheck: New page: Asset Save: Lamp
+[2021.11.14-20.08.19:667][470]LogContentValidation: Display: Validating Blueprint /Game/Models/Light/fluorescent_lamp/Lamp.Lamp
+[2021.11.14-20.08.21:250][515]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Models/Light/fluorescent_lamp/Lamp.Lamp
+[2021.11.14-20.08.21:448][515]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 126 classes and 0 folders.
+[2021.11.14-20.08.22:509][515]LogRenderer: Reallocating scene render targets to support 1208x720 Format 10 NumSamples 1 (Frame:1).
+[2021.11.14-20.08.24:850][582]LogSlate: Window 'Lamp' being destroyed
+[2021.11.14-20.08.25:692][601]LogActorFactory: Actor Factory created 0_LDS2_Material__25_0
+[2021.11.14-20.08.31:416][741]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Models/Light/fluorescent_lamp/0_LDS2_Material__25_0.0_LDS2_Material__25_0
+[2021.11.14-20.08.33:502][781]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2021.11.14-20.08.33:503][781]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.14-20.08.52:956][269]LogSavePackage: Moving '../../../../../../Users/Dreamtyt/Desktop/GitHub/GamersBot/OneShot/Saved/Lamp03C2D2464C2CF393ED85058A8C074D47.tmp' to '../../../../../../Users/Dreamtyt/Desktop/GitHub/GamersBot/OneShot/Content/Models/Light/fluorescent_lamp/Lamp.uasset'
+[2021.11.14-20.08.52:971][269]AssetCheck: New page: Asset Save: Lamp
+[2021.11.14-20.08.52:971][269]LogContentValidation: Display: Validating Blueprint /Game/Models/Light/fluorescent_lamp/Lamp.Lamp
+[2021.11.14-20.08.53:980][295]BlueprintLog: New page: Compile Lamp
+[2021.11.14-20.08.54:030][295]LogUObjectHash: Compacting FUObjectHashTables data took   2.80ms
+[2021.11.14-20.08.55:902][341]LogSlate: Took 0.000214 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.11.14-20.09.10:179][954]LogSlate: Window 'Lamp' being destroyed
+[2021.11.14-20.09.26:985][400]LogSavePackage: Moving '../../../../../../Users/Dreamtyt/Desktop/GitHub/GamersBot/OneShot/Saved/Lamp081F0857463EFE00B58B34965239F928.tmp' to '../../../../../../Users/Dreamtyt/Desktop/GitHub/GamersBot/OneShot/Content/Models/Light/fluorescent_lamp/Lamp.uasset'
+[2021.11.14-20.09.27:004][400]AssetCheck: New page: Asset Save: Lamp
+[2021.11.14-20.09.27:004][400]LogContentValidation: Display: Validating Blueprint /Game/Models/Light/fluorescent_lamp/Lamp.Lamp
+[2021.11.14-20.09.27:383][411]BlueprintLog: New page: Compile Lamp
+[2021.11.14-20.09.27:446][411]LogUObjectHash: Compacting FUObjectHashTables data took   2.86ms
+[2021.11.14-20.09.28:580][450]LogSlate: Window 'Lamp' being destroyed
+[2021.11.14-20.09.38:524][696]LogEditorTransaction: Undo Modify Component(s)
+[2021.11.14-20.09.40:553][753]LogEditorTransaction: Undo Create Actors
+[2021.11.14-20.09.52:524][ 42]BlueprintLog: New page: Compile Lamp
+[2021.11.14-20.09.52:602][ 42]LogUObjectHash: Compacting FUObjectHashTables data took   2.66ms
+[2021.11.14-20.10.00:621][242]LogEditorViewport: Clicking on Actor (LMB): Lamp_C (Lamp)
+[2021.11.14-20.10.19:434][701]LogSlate: Window 'Lamp' being destroyed
+[2021.11.14-20.10.24:077][933]LogSlate: Window 'Lamp' being destroyed
+[2021.11.14-20.10.25:856][  5]LogSlate: Window 'Lamp' being destroyed
+[2021.11.14-20.10.26:868][ 43]LogSlate: Window 'Lamp' being destroyed
+[2021.11.14-20.10.52:133][688]LogRenderer: Reallocating scene render targets to support 1228x720 Format 10 NumSamples 1 (Frame:3135).
+[2021.11.14-20.10.52:202][689]LogRenderer: Reallocating scene render targets to support 1268x720 Format 10 NumSamples 1 (Frame:3137).
+[2021.11.14-20.10.52:254][690]LogRenderer: Reallocating scene render targets to support 1352x720 Format 10 NumSamples 1 (Frame:3139).
+[2021.11.14-20.10.52:313][690]LogRenderer: Reallocating scene render targets to support 1396x720 Format 10 NumSamples 1 (Frame:3141).
+[2021.11.14-20.10.52:363][692]LogRenderer: Reallocating scene render targets to support 1452x720 Format 10 NumSamples 1 (Frame:3143).
+[2021.11.14-20.11.21:781][493]LogSlate: Window 'Lamp' being destroyed
+[2021.11.14-20.11.38:140][906]LogSlate: Window 'Color Picker' being destroyed
+[2021.11.14-20.11.57:100][367]Cmd: EDIT COPY
+[2021.11.14-20.12.04:314][536]Cmd: DELETE
+[2021.11.14-20.12.04:314][536]Cmd: ACTOR DELETE
+[2021.11.14-20.12.04:320][536]LogEditorActor: Deleted Actor: SpotLight
+[2021.11.14-20.12.04:361][536]LogUObjectHash: Compacting FUObjectHashTables data took   3.07ms
+[2021.11.14-20.12.04:365][536]LogEditorActor: Deleted 1 Actors (0.050 secs)
+[2021.11.14-20.12.13:349][743]LogEditorTransaction: Undo Delete Actors
+[2021.11.14-20.12.34:252][258]LogSlate: Window 'Lamp' being destroyed
+[2021.11.14-20.12.35:401][287]BlueprintLog: New page: Compile Lamp
+[2021.11.14-20.12.35:447][287]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2021.11.14-20.12.36:574][313]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight)
+[2021.11.14-20.12.37:584][338]Cmd: DELETE
+[2021.11.14-20.12.37:584][338]Cmd: ACTOR DELETE
+[2021.11.14-20.12.37:587][338]LogEditorActor: Deleted Actor: SpotLight
+[2021.11.14-20.12.37:617][338]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2021.11.14-20.12.37:618][338]LogEditorActor: Deleted 1 Actors (0.035 secs)
+[2021.11.14-20.13.14:488][273]LogSlate: Window 'Lamp' being destroyed
+[2021.11.14-20.13.21:849][469]LogSlate: Window 'Color Picker' being destroyed
+[2021.11.14-20.13.36:701][  7]BlueprintLog: New page: Compile Lamp
+[2021.11.14-20.13.36:782][  7]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2021.11.14-20.13.37:548][ 29]LogSlate: Window 'Lamp' being destroyed
+[2021.11.14-20.13.37:562][ 29]LogSlate: Window 'Lamp' being destroyed
+[2021.11.14-20.13.37:568][ 29]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2021.11.14-20.13.37:568][ 29]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.14-20.13.38:580][ 54]LogSavePackage: Moving '../../../../../../Users/Dreamtyt/Desktop/GitHub/GamersBot/OneShot/Saved/3_Material_25_normalCAC03DB54DA56CD6B16E899C112C8542.tmp' to '../../../../../../Users/Dreamtyt/Desktop/GitHub/GamersBot/OneShot/Content/Models/Light/fluorescent_lamp/Textures/3_Material_25_normal.uasset'
+[2021.11.14-20.13.38:605][ 54]LogSavePackage: Moving '../../../../../../Users/Dreamtyt/Desktop/GitHub/GamersBot/OneShot/Saved/2_Material_25_emissiveF0F69B604683FA1BDC3E9A826D1F20C0.tmp' to '../../../../../../Users/Dreamtyt/Desktop/GitHub/GamersBot/OneShot/Content/Models/Light/fluorescent_lamp/Textures/2_Material_25_emissive.uasset'
+[2021.11.14-20.13.38:649][ 54]LogSavePackage: Moving '../../../../../../Users/Dreamtyt/Desktop/GitHub/GamersBot/OneShot/Saved/1_Material_25_metallicRoughness0FC6D0FE43FDF7609F3A43B9962C03DD.tmp' to '../../../../../../Users/Dreamtyt/Desktop/GitHub/GamersBot/OneShot/Content/Models/Light/fluorescent_lamp/Textures/1_Material_25_metallicRoughness.uasset'
+[2021.11.14-20.13.38:816][ 54]LogSavePackage: Moving '../../../../../../Users/Dreamtyt/Desktop/GitHub/GamersBot/OneShot/Saved/0_Material_25_baseColor37A42E534D9B2105892C1F8DCD623C0E.tmp' to '../../../../../../Users/Dreamtyt/Desktop/GitHub/GamersBot/OneShot/Content/Models/Light/fluorescent_lamp/Textures/0_Material_25_baseColor.uasset'
+[2021.11.14-20.13.38:849][ 54]LogSavePackage: Moving '../../../../../../Users/Dreamtyt/Desktop/GitHub/GamersBot/OneShot/Saved/Material_2504A8E58C4DA0A4F0ED828B8DE9DA5B96.tmp' to '../../../../../../Users/Dreamtyt/Desktop/GitHub/GamersBot/OneShot/Content/Models/Light/fluorescent_lamp/Materials/Material_25.uasset'
+[2021.11.14-20.13.38:891][ 54]LogSavePackage: Moving '../../../../../../Users/Dreamtyt/Desktop/GitHub/GamersBot/OneShot/Saved/LampDA1478F742F4F5FA2A5AA99D1F014457.tmp' to '../../../../../../Users/Dreamtyt/Desktop/GitHub/GamersBot/OneShot/Content/Models/Light/fluorescent_lamp/Lamp.uasset'
+[2021.11.14-20.13.38:914][ 54]LogSavePackage: Moving '../../../../../../Users/Dreamtyt/Desktop/GitHub/GamersBot/OneShot/Saved/0_LDS2_Material__25_03BA5F63A4C3161E3A76CADAB16F8532A.tmp' to '../../../../../../Users/Dreamtyt/Desktop/GitHub/GamersBot/OneShot/Content/Models/Light/fluorescent_lamp/0_LDS2_Material__25_0.uasset'
+[2021.11.14-20.13.38:934][ 54]AssetCheck: New page: Asset Save: multiple assets
+[2021.11.14-20.13.38:934][ 54]LogContentValidation: Display: Validating Texture2D /Game/Models/Light/fluorescent_lamp/Textures/3_Material_25_normal.3_Material_25_normal
+[2021.11.14-20.13.38:934][ 54]LogContentValidation: Display: Validating Texture2D /Game/Models/Light/fluorescent_lamp/Textures/2_Material_25_emissive.2_Material_25_emissive
+[2021.11.14-20.13.38:934][ 54]LogContentValidation: Display: Validating Texture2D /Game/Models/Light/fluorescent_lamp/Textures/1_Material_25_metallicRoughness.1_Material_25_metallicRoughness
+[2021.11.14-20.13.38:934][ 54]LogContentValidation: Display: Validating Texture2D /Game/Models/Light/fluorescent_lamp/Textures/0_Material_25_baseColor.0_Material_25_baseColor
+[2021.11.14-20.13.38:934][ 54]LogContentValidation: Display: Validating Material /Game/Models/Light/fluorescent_lamp/Materials/Material_25.Material_25
+[2021.11.14-20.13.38:935][ 54]LogContentValidation: Display: Validating Blueprint /Game/Models/Light/fluorescent_lamp/Lamp.Lamp
+[2021.11.14-20.13.38:935][ 54]LogContentValidation: Display: Validating StaticMesh /Game/Models/Light/fluorescent_lamp/0_LDS2_Material__25_0.0_LDS2_Material__25_0
+[2021.11.14-20.13.40:088][ 87]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Models/Light/fluorescent_lamp/Lamp.Lamp
+[2021.11.14-20.13.40:471][ 87]LogSlate: Took 0.000142 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.11.14-20.13.40:500][ 88]LogRHI: Error: Present Fail Count 1
+[2021.11.14-20.13.40:500][ 88]LogRHI: Error: SyncInterval 0
+[2021.11.14-20.13.40:500][ 88]LogRHI: Error: SwapChainDesc.BufferDesc.Width 1936
+[2021.11.14-20.13.40:501][ 88]LogRHI: Error: SwapChainDesc.BufferDesc.Height 1066
+[2021.11.14-20.13.40:501][ 88]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Numerator 0
+[2021.11.14-20.13.40:501][ 88]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Denominator 0
+[2021.11.14-20.13.40:501][ 88]LogRHI: Error: SwapChainDesc.BufferDesc.Format 24
+[2021.11.14-20.13.40:501][ 88]LogRHI: Error: SwapChainDesc.BufferDesc.ScanlineOrdering 0
+[2021.11.14-20.13.40:501][ 88]LogRHI: Error: SwapChainDesc.BufferDesc.Scaling 0
+[2021.11.14-20.13.40:501][ 88]LogRHI: Error: SwapChainDesc.SampleDesc.Count 1
+[2021.11.14-20.13.40:501][ 88]LogRHI: Error: SwapChainDesc.SampleDesc.Quality 0
+[2021.11.14-20.13.40:501][ 88]LogRHI: Error: SwapChainDesc.BufferUsage 48
+[2021.11.14-20.13.40:501][ 88]LogRHI: Error: SwapChainDesc.BufferCount 2
+[2021.11.14-20.13.40:501][ 88]LogRHI: Error: SwapChainDesc.OutputWindow 000000000012086E
+[2021.11.14-20.13.40:501][ 88]LogRHI: Error: SwapChainDesc.Windowed true
+[2021.11.14-20.13.40:501][ 88]LogRHI: Error: SwapChainDesc.SwapEffect 4
+[2021.11.14-20.13.40:501][ 88]LogRHI: Error: SwapChainDesc.Flags 2050
+[2021.11.14-20.13.40:501][ 88]LogD3D11RHI: Error: Result failed 
+ at D:/Build/++UE4/Sync/Engine/Source/Runtime/Windows/D3D11RHI/Private/D3D11Query.cpp:356 
+ with error DXGI_ERROR_DEVICE_REMOVED DXGI_ERROR_DRIVER_INTERNAL_ERROR
+[2021.11.14-20.13.40:501][ 88]LogD3D11RHI: [Aftermath] GDynamicRHI=000001FFF4DE4180, GDX11NVAfterMathEnabled=0, Result=0xFFFFFFFF, bDeviceActive=0
+[2021.11.14-20.13.40:501][ 88]LogWindows: Windows GetLastError: The operation completed successfully. (0)
