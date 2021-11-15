@@ -1,0 +1,1636 @@
+﻿Log file open, 11/15/21 18:33:18
+LogInit: LLM is enabled
+LogInit: LLM CsvWriter: off TraceWriter: off
+LogInit: Display: Running engine for game: StrandedTogether
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.264536
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +2:00, Platform Override: ''
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin EditorScriptingUtilities
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GLTFImporter
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin DataprepEditor
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin DatasmithGLTFImporter
+LogPluginManager: Mounting plugin DatasmithImporter
+LogPluginManager: Mounting plugin StaticMeshEditorExtension
+LogPluginManager: Mounting plugin VariantManager
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin BlastPlugin
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.26-CL-15973114
+LogInit: Engine Version: 4.26.2-15973114+++UE4+Release-4.26
+LogInit: Compatible Engine Version: 4.26.0-14830424+++UE4+Release-4.26
+LogInit: Net CL: 14830424
+LogInit: OS: Windows 10 (Release 2009) (), CPU: Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz, GPU: Intel(R) HD Graphics 630
+LogInit: Compiled (64-bit): Apr 12 2021 06:14:10
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.26
+LogInit: Command Line:  -EpicPortal -epicusername=DreamThunder -epicuserid=03e08dc875704127a5d8897083f65dd3 -epiclocale=en -epicsandboxid=ue
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.26/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 44
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 43
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 40
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Dreamtyt/Desktop/GitHub/GamersBot/OneShot/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2021.11.15-16.33.19:373][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2021.11.15-16.33.19:373][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2021.11.15-16.33.19:373][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/Dreamtyt/Desktop/GitHub/GamersBot/OneShot/Saved/Config/Windows/Engine.ini]
+[2021.11.15-16.33.19:373][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2021.11.15-16.33.19:373][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/Dreamtyt/Desktop/GitHub/GamersBot/OneShot/Saved/Config/Windows/Engine.ini]
+[2021.11.15-16.33.19:373][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Dreamtyt/Desktop/GitHub/GamersBot/OneShot/Saved/Config/Windows/Engine.ini]
+[2021.11.15-16.33.19:373][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2021.11.15-16.33.19:373][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2021.11.15-16.33.19:373][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2021.11.15-16.33.19:373][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2021.11.15-16.33.19:374][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2021.11.15-16.33.19:374][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2021.11.15-16.33.19:374][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2021.11.15-16.33.19:374][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2021.11.15-16.33.19:374][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2021.11.15-16.33.19:374][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2021.11.15-16.33.19:374][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2021.11.15-16.33.19:374][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2021.11.15-16.33.19:374][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2021.11.15-16.33.19:374][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2021.11.15-16.33.19:374][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/Dreamtyt/Desktop/GitHub/GamersBot/OneShot/Saved/Config/Windows/Engine.ini]
+[2021.11.15-16.33.19:374][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2021.11.15-16.33.19:374][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2021.11.15-16.33.19:374][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2021.11.15-16.33.19:374][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2021.11.15-16.33.19:374][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2021.11.15-16.33.19:374][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2021.11.15-16.33.19:374][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2021.11.15-16.33.19:374][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2021.11.15-16.33.19:374][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2021.11.15-16.33.19:374][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2021.11.15-16.33.19:374][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2021.11.15-16.33.19:374][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2021.11.15-16.33.19:374][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2021.11.15-16.33.19:374][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2021.11.15-16.33.19:374][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/Dreamtyt/Desktop/GitHub/GamersBot/OneShot/Saved/Config/Windows/Engine.ini]
+[2021.11.15-16.33.19:374][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/Dreamtyt/Desktop/GitHub/GamersBot/OneShot/Saved/Config/Windows/Engine.ini]
+[2021.11.15-16.33.19:400][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Dreamtyt/Desktop/GitHub/GamersBot/OneShot/Saved/Config/Windows/Scalability.ini]
+[2021.11.15-16.33.19:400][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.11.15-16.33.19:400][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.11.15-16.33.19:400][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Dreamtyt/Desktop/GitHub/GamersBot/OneShot/Saved/Config/Windows/Scalability.ini]
+[2021.11.15-16.33.19:400][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.11.15-16.33.19:400][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Dreamtyt/Desktop/GitHub/GamersBot/OneShot/Saved/Config/Windows/Scalability.ini]
+[2021.11.15-16.33.19:400][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.11.15-16.33.19:400][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.11.15-16.33.19:400][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.11.15-16.33.19:400][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.11.15-16.33.19:400][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.11.15-16.33.19:400][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.11.15-16.33.19:400][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.11.15-16.33.19:400][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.11.15-16.33.19:400][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.11.15-16.33.19:400][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.11.15-16.33.19:400][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.11.15-16.33.19:400][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.11.15-16.33.19:400][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.11.15-16.33.19:400][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.11.15-16.33.19:400][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.11.15-16.33.19:400][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.11.15-16.33.19:400][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.11.15-16.33.19:400][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.11.15-16.33.19:400][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Dreamtyt/Desktop/GitHub/GamersBot/OneShot/Saved/Config/Windows/Scalability.ini]
+[2021.11.15-16.33.19:400][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.11.15-16.33.19:400][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.11.15-16.33.19:400][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.11.15-16.33.19:400][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.11.15-16.33.19:400][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.11.15-16.33.19:400][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.11.15-16.33.19:400][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.11.15-16.33.19:400][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.11.15-16.33.19:400][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.11.15-16.33.19:400][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.11.15-16.33.19:400][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.11.15-16.33.19:400][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.11.15-16.33.19:400][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.11.15-16.33.19:400][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.11.15-16.33.19:400][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.11.15-16.33.19:400][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.11.15-16.33.19:400][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.11.15-16.33.19:400][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.11.15-16.33.19:400][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.11.15-16.33.19:400][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.11.15-16.33.19:400][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.11.15-16.33.19:400][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.11.15-16.33.19:400][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.11.15-16.33.19:400][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.11.15-16.33.19:400][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.11.15-16.33.19:400][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.11.15-16.33.19:400][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.11.15-16.33.19:400][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.11.15-16.33.19:400][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.11.15-16.33.19:401][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.11.15-16.33.19:401][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Dreamtyt/Desktop/GitHub/GamersBot/OneShot/Saved/Config/Windows/Scalability.ini]
+[2021.11.15-16.33.19:401][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.11.15-16.33.19:401][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.11.15-16.33.19:401][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.11.15-16.33.19:401][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.11.15-16.33.19:401][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.11.15-16.33.19:401][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.11.15-16.33.19:401][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.11.15-16.33.19:401][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.11.15-16.33.19:401][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.11.15-16.33.19:401][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Dreamtyt/Desktop/GitHub/GamersBot/OneShot/Saved/Config/Windows/Scalability.ini]
+[2021.11.15-16.33.19:401][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.11.15-16.33.19:401][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.11.15-16.33.19:401][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.11.15-16.33.19:401][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.11.15-16.33.19:401][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.11.15-16.33.19:401][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.11.15-16.33.19:401][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.11.15-16.33.19:401][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.11.15-16.33.19:401][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.11.15-16.33.19:401][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.11.15-16.33.19:401][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.11.15-16.33.19:401][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.11.15-16.33.19:401][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.11.15-16.33.19:401][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.11.15-16.33.19:401][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.11.15-16.33.19:401][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.11.15-16.33.19:401][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.11.15-16.33.19:401][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.11.15-16.33.19:401][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.11.15-16.33.19:401][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.11.15-16.33.19:401][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.11.15-16.33.19:401][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.11.15-16.33.19:401][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.11.15-16.33.19:401][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.11.15-16.33.19:401][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.11.15-16.33.19:401][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.11.15-16.33.19:401][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.11.15-16.33.19:401][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Dreamtyt/Desktop/GitHub/GamersBot/OneShot/Saved/Config/Windows/Scalability.ini]
+[2021.11.15-16.33.19:401][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.11.15-16.33.19:401][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.11.15-16.33.19:401][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/Dreamtyt/Desktop/GitHub/GamersBot/OneShot/Saved/Config/Windows/Scalability.ini]
+[2021.11.15-16.33.19:401][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.11.15-16.33.19:401][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.11.15-16.33.19:401][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.11.15-16.33.19:401][  0]LogInit: Selected Device Profile: [Windows]
+[2021.11.15-16.33.19:401][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2021.11.15-16.33.19:401][  0]LogHAL: Display: Platform has ~ 14 GB [14936084480 / 17179869184 / 14], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.11.15-16.33.19:401][  0]LogInit: Going up to parent DeviceProfile []
+[2021.11.15-16.33.19:401][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Dreamtyt/Desktop/GitHub/GamersBot/OneShot/Saved/Config/Windows/Scalability.ini]
+[2021.11.15-16.33.19:401][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.11.15-16.33.19:401][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.11.15-16.33.19:401][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Dreamtyt/Desktop/GitHub/GamersBot/OneShot/Saved/Config/Windows/Scalability.ini]
+[2021.11.15-16.33.19:401][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.11.15-16.33.19:401][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Dreamtyt/Desktop/GitHub/GamersBot/OneShot/Saved/Config/Windows/Scalability.ini]
+[2021.11.15-16.33.19:401][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.11.15-16.33.19:401][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.11.15-16.33.19:401][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.11.15-16.33.19:401][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.11.15-16.33.19:401][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.11.15-16.33.19:401][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.11.15-16.33.19:402][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.11.15-16.33.19:402][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.11.15-16.33.19:402][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.11.15-16.33.19:402][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.11.15-16.33.19:402][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.11.15-16.33.19:402][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.11.15-16.33.19:402][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.11.15-16.33.19:402][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.11.15-16.33.19:402][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.11.15-16.33.19:402][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.11.15-16.33.19:402][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.11.15-16.33.19:402][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.11.15-16.33.19:402][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Dreamtyt/Desktop/GitHub/GamersBot/OneShot/Saved/Config/Windows/Scalability.ini]
+[2021.11.15-16.33.19:402][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.11.15-16.33.19:402][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.11.15-16.33.19:402][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.11.15-16.33.19:402][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.11.15-16.33.19:402][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.11.15-16.33.19:402][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.11.15-16.33.19:402][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.11.15-16.33.19:402][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.11.15-16.33.19:402][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.11.15-16.33.19:402][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.11.15-16.33.19:402][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.11.15-16.33.19:402][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.11.15-16.33.19:402][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.11.15-16.33.19:402][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.11.15-16.33.19:402][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.11.15-16.33.19:402][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.11.15-16.33.19:402][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.11.15-16.33.19:402][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.11.15-16.33.19:402][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.11.15-16.33.19:402][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.11.15-16.33.19:402][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.11.15-16.33.19:402][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.11.15-16.33.19:402][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.11.15-16.33.19:402][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.11.15-16.33.19:402][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.11.15-16.33.19:402][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.11.15-16.33.19:402][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.11.15-16.33.19:402][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.11.15-16.33.19:402][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.11.15-16.33.19:402][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.11.15-16.33.19:402][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Dreamtyt/Desktop/GitHub/GamersBot/OneShot/Saved/Config/Windows/Scalability.ini]
+[2021.11.15-16.33.19:402][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.11.15-16.33.19:402][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.11.15-16.33.19:402][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.11.15-16.33.19:402][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.11.15-16.33.19:402][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.11.15-16.33.19:402][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.11.15-16.33.19:402][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.11.15-16.33.19:402][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.11.15-16.33.19:402][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.11.15-16.33.19:402][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Dreamtyt/Desktop/GitHub/GamersBot/OneShot/Saved/Config/Windows/Scalability.ini]
+[2021.11.15-16.33.19:402][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.11.15-16.33.19:402][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.11.15-16.33.19:402][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.11.15-16.33.19:402][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.11.15-16.33.19:402][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.11.15-16.33.19:402][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.11.15-16.33.19:402][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.11.15-16.33.19:402][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.11.15-16.33.19:402][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.11.15-16.33.19:402][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.11.15-16.33.19:402][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.11.15-16.33.19:402][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.11.15-16.33.19:402][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.11.15-16.33.19:402][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.11.15-16.33.19:402][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.11.15-16.33.19:402][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.11.15-16.33.19:402][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.11.15-16.33.19:402][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.11.15-16.33.19:402][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.11.15-16.33.19:402][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.11.15-16.33.19:403][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.11.15-16.33.19:403][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.11.15-16.33.19:403][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.11.15-16.33.19:403][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.11.15-16.33.19:403][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.11.15-16.33.19:403][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.11.15-16.33.19:403][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.11.15-16.33.19:403][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Dreamtyt/Desktop/GitHub/GamersBot/OneShot/Saved/Config/Windows/Scalability.ini]
+[2021.11.15-16.33.19:403][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.11.15-16.33.19:403][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.11.15-16.33.19:403][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/Dreamtyt/Desktop/GitHub/GamersBot/OneShot/Saved/Config/Windows/Scalability.ini]
+[2021.11.15-16.33.19:403][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.11.15-16.33.19:403][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.11.15-16.33.19:403][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.11.15-16.33.19:403][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2021.11.15-16.33.19:403][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2021.11.15-16.33.19:403][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2021.11.15-16.33.19:403][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2021.11.15-16.33.19:403][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Dreamtyt/Desktop/GitHub/GamersBot/OneShot/Saved/Config/Windows/Engine.ini]
+[2021.11.15-16.33.19:403][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Dreamtyt/Desktop/GitHub/GamersBot/OneShot/Saved/Config/Windows/Editor.ini]
+[2021.11.15-16.33.19:403][  0]LogInit: Computer: DREAMTYT
+[2021.11.15-16.33.19:403][  0]LogInit: User: Dreamtyt
+[2021.11.15-16.33.19:403][  0]LogInit: CPU Page size=4096, Cores=4
+[2021.11.15-16.33.19:403][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2021.11.15-16.33.19:403][  0]LogMemory: Memory total: Physical=13.9GB (14GB approx)
+[2021.11.15-16.33.19:403][  0]LogMemory: Platform Memory Stats for Windows
+[2021.11.15-16.33.19:403][  0]LogMemory: Process Physical Memory: 136.02 MB used, 136.02 MB peak
+[2021.11.15-16.33.19:403][  0]LogMemory: Process Virtual Memory: 118.55 MB used, 118.55 MB peak
+[2021.11.15-16.33.19:403][  0]LogMemory: Physical Memory: 8627.53 MB used,  5616.63 MB free, 14244.16 MB total
+[2021.11.15-16.33.19:403][  0]LogMemory: Virtual Memory: 134213104.00 MB used,  4625.75 MB free, 134217728.00 MB total
+[2021.11.15-16.33.19:409][  0]LogWindows: WindowsPlatformFeatures enabled
+[2021.11.15-16.33.19:454][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2021.11.15-16.33.19:455][  0]LogInit: Using OS detected language (en-US).
+[2021.11.15-16.33.19:455][  0]LogInit: Using OS detected locale (en-US).
+[2021.11.15-16.33.19:458][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2021.11.15-16.33.19:695][  0]LogInit: Setting process to per monitor DPI aware
+[2021.11.15-16.33.19:710][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.11.15-16.33.19:729][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.11.15-16.33.19:729][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.11.15-16.33.19:881][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.11.15-16.33.19:881][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2021.11.15-16.33.19:881][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2021.11.15-16.33.19:881][  0]LogD3D11RHI: D3D11 adapters:
+[2021.11.15-16.33.20:007][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060 with Max-Q Design' (Feature Level 11_0)
+[2021.11.15-16.33.20:007][  0]LogD3D11RHI:       6052/0/7122 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2021.11.15-16.33.20:041][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 630' (Feature Level 11_0)
+[2021.11.15-16.33.20:041][  0]LogD3D11RHI:       128/0/7122 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x8086
+[2021.11.15-16.33.20:044][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.11.15-16.33.20:044][  0]LogD3D11RHI:       0/0/7122 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.11.15-16.33.20:044][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2021.11.15-16.33.20:053][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2021.11.15-16.33.20:053][  0]LogD3D11RHI:     GPU DeviceId: 0x1c20 (for the marketing name, search the web for "GPU Device Id")
+[2021.11.15-16.33.20:053][  0]LogWindows: EnumDisplayDevices:
+[2021.11.15-16.33.20:053][  0]LogWindows:    0. 'Intel(R) HD Graphics 630' (P:0 D:1)
+[2021.11.15-16.33.20:054][  0]LogWindows:    1. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2021.11.15-16.33.20:054][  0]LogWindows:    2. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2021.11.15-16.33.20:054][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060 with Max-Q Design' (P:1 D:1)
+[2021.11.15-16.33.20:055][  0]LogWindows:    4. 'NVIDIA GeForce GTX 1060 with Max-Q Design' (P:0 D:0)
+[2021.11.15-16.33.20:055][  0]LogWindows:    5. 'NVIDIA GeForce GTX 1060 with Max-Q Design' (P:0 D:0)
+[2021.11.15-16.33.20:055][  0]LogWindows:    6. 'NVIDIA GeForce GTX 1060 with Max-Q Design' (P:0 D:0)
+[2021.11.15-16.33.20:055][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2021.11.15-16.33.20:055][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060 with Max-Q Design
+[2021.11.15-16.33.20:056][  0]LogD3D11RHI:   Driver Version: 496.49 (internal:30.0.14.9649, unified:496.49)
+[2021.11.15-16.33.20:056][  0]LogD3D11RHI:      Driver Date: 10-20-2021
+[2021.11.15-16.33.20:056][  0]LogRHI: Texture pool is 4236 MB (70% of 6052 MB)
+[2021.11.15-16.33.20:140][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2021.11.15-16.33.20:140][  0]LogD3D11RHI: Async texture creation enabled
+[2021.11.15-16.33.20:140][  0]LogD3D11RHI: Array index from any shader is supported
+[2021.11.15-16.33.20:172][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2021.11.15-16.33.20:174][  0]LogRHI: GeForceNow SDK initialized: 1
+[2021.11.15-16.33.20:572][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2021.11.15-16.33.20:602][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2021.11.15-16.33.20:602][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2021.11.15-16.33.20:602][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2021.11.15-16.33.20:602][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2021.11.15-16.33.20:602][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2021.11.15-16.33.20:602][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2021.11.15-16.33.20:602][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2021.11.15-16.33.20:602][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2021.11.15-16.33.20:602][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2021.11.15-16.33.20:602][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2021.11.15-16.33.20:630][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2021.11.15-16.33.20:630][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2021.11.15-16.33.20:640][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2021.11.15-16.33.20:649][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2021.11.15-16.33.20:661][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2021.11.15-16.33.20:671][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2021.11.15-16.33.20:684][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2021.11.15-16.33.20:697][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2021.11.15-16.33.20:707][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2021.11.15-16.33.20:733][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2021.11.15-16.33.20:733][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2021.11.15-16.33.20:743][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2021.11.15-16.33.20:752][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2021.11.15-16.33.20:760][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2021.11.15-16.33.20:770][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2021.11.15-16.33.20:788][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2021.11.15-16.33.20:788][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2021.11.15-16.33.20:798][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2021.11.15-16.33.20:807][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2021.11.15-16.33.20:816][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2021.11.15-16.33.20:825][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2021.11.15-16.33.20:825][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2021.11.15-16.33.20:833][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2021.11.15-16.33.20:901][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2021.11.15-16.33.20:901][  0]LogShaderCompilers: Guid format shader working directory is -17 characters bigger than the processId version (../../../../../../Users/Dreamtyt/Desktop/GitHub/GamersBot/OneShot/Intermediate/Shaders/WorkingDirectory/19168/).
+[2021.11.15-16.33.20:902][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Dreamtyt/AppData/Local/Temp/UnrealShaderWorkingDir/BDC9B347493EA9876940E39374D2CF97/'.
+[2021.11.15-16.33.20:902][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2021.11.15-16.33.20:902][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2021.11.15-16.33.21:889][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.11.15-16.33.21:960][  0]LogDerivedDataCache: Loaded boot cache 0.07s 94MB C:/Users/Dreamtyt/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.11.15-16.33.21:960][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Dreamtyt/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc
+[2021.11.15-16.33.21:960][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Dreamtyt/Desktop/GitHub/GamersBot/OneShot/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.11.15-16.33.21:960][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.11.15-16.33.21:960][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Dreamtyt/Desktop/GitHub/GamersBot/OneShot/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.11.15-16.33.21:960][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2021.11.15-16.33.21:976][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.11.15-16.33.21:976][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.11.15-16.33.21:976][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2021.11.15-16.33.21:982][  0]LogDerivedDataCache: Speed tests for C:/Users/Dreamtyt/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2021.11.15-16.33.21:982][  0]LogDerivedDataCache: Display: Performance to C:/Users/Dreamtyt/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.03ms. RandomReadSpeed=1074.29MBs, RandomWriteSpeed=220.62MBs. Assigned SpeedClass 'Local'
+[2021.11.15-16.33.21:983][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Dreamtyt/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2021.11.15-16.33.21:983][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2021.11.15-16.33.21:983][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2021.11.15-16.33.22:047][  0]LogSlate: Using FreeType 2.10.0
+[2021.11.15-16.33.22:048][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.11.15-16.33.22:079][  0]LogAssetRegistry: FAssetRegistry took 0.0027 seconds to start up
+[2021.11.15-16.33.22:439][  0]LogInit: Selected Device Profile: [Windows]
+[2021.11.15-16.33.22:439][  0]LogInit: Active device profile: [000001C34430B300][000001C32DE6EAC0 49] Windows
+[2021.11.15-16.33.22:439][  0]LogInit: Profiles: [000001C34430B300][000001C32DE6EAC0 49] Windows, [000001C344304F00][000001C32DE76C40 49] WindowsNoEditor, [000001C344308F00][000001C32DE7ADC0 49] WindowsServer, [000001C344306B00][000001C32DE7EF40 49] WindowsClient, [000001C34430AA00][000001C32DE830C0 49] IOS, [000001C344305800][000001C32DE8B240 49] iPadAir, [000001C344309700][000001C32DE8F3C0 49] iPadAir2, [000001C3442B0500][000001C32DE73640 49] IPadPro, [000001C3442B0600][000001C32DE93680 49] iPadAir3, [000001C34430A400][000001C32DE977C0 49] iPadAir4, [000001C3442B3000][000001C32DE9B900 49] iPadMini2, [000001C344309C00][000001C32DE9FA40 49] iPadMini3, [000001C3442B1F00][000001C32DEA7BC0 49] iPadMini4, [000001C344308A00][000001C32DEABD40 49] iPadMini5, [000001C3442ABD00][000001C32DEB2340 49] iPhone6, [000001C3442ABE00][000001C32DEAE380 49] iPodTouch6, [000001C3442B2800][000001C32DEBA640 49] iPhone7, [000001C3442B2A00][000001C32DEB6680 49] iPodTouch7, [000001C3442A9300][000001C343566800 49] iPhone5S, [000001C3442B0A00][000001C34356A980 49] iPhone6Plus, [000001C3442AA600][000001C34359EB00 49] iPhone6S, [000001C3442B3800][000001C3435D6C80 49] iPhone6SPlus, [000001C3442A9B00][000001C3435DAE00 49] iPhone7Plus, [000001C3442B2700][000001C3435DEF80 49] iPhoneSE, [000001C3442A8900][000001C3435E3100 49] iPhone8, [000001C3442B2B00][000001C3435ED280 49] iPhone8Plus, [000001C3442AAB00][000001C342F7B400 49] iPhoneX, [000001C3442B0D00][000001C342F7F580 49] iPhoneXS, [000001C3442ABA00][000001C342FA3700 49] iPhoneXSMax, [000001C3442B0700][000001C32DEA3840 49] iPhoneXR, [000001C3442AA700][000001C342FD3980 49] iPhone11, [000001C3442B1B00][000001C342FD7AC0 49] iPhone11Pro, [000001C3442A9900][000001C342FDFC40 49] iPhone11ProMax, [000001C3442B0B00][000001C342FE6100 49] iPhoneSE2, [000001C3442AA900][000001C342FEA280 49] iPhone12Mini, [000001C3442B2900][000001C342FEE400 49] iPhone12, [000001C3442A9D00][000001C342FFE580 49] iPhone12Pro, [000001C3442B2400][000001C343006700 49] iPhone12ProMax, [000001C3442AA200][000001C34300A880 49] iPadPro105, [000001C3442B3B00][000001C34300EA00 49] iPadPro129, [000001C3442A9700][000001C343012B80 49] iPadPro97, [000001C3442B2100][000001C343016D00 49] iPadPro2_129, [000001C3442AB200][000001C34301AE80 49] iPad5, [000001C3442B0C00][000001C34301F000 49] iPad6, [000001C3442A8700][000001C343023180 49] iPad7, [000001C3442B0300][000001C343027300 49] iPad8, [000001C3442AB500][000001C34302B480 49] iPadPro11, [000001C3442B1A00][000001C34302F600 49] iPadPro2_11, [000001C3442A8400][000001C343033780 49] iPadPro3_129, [000001C3442B3A00][000001C342FDB8C0 49] iPadPro4_129, [000001C3442AA100][000001C343037A00 49] AppleTV, [000001C3442B2D00][000001C34303BB40 49] AppleTV4K, [000001C3442A9A00][000001C343043CC0 49] TVOS, [000001C3442B2F00][000001C343046180 49] Mac, [000001C3442AB700][000001C34304A300 49] MacClient, [000001C3442B2C00][000001C34304E480 49] MacNoEditor, [000001C3442A8B00][000001C343052600 49] MacServer, [000001C3442B1300][000001C343056780 49] Linux, [000001C3442A9400][000001C34305A900 49] LinuxAArch64, [000001C344304700][000001C34305EA80 49] LinuxNoEditor, [000001C344398B00][000001C343062C00 49] LinuxAArch64NoEditor, [000001C344307C00][000001C343066D80 49] LinuxClient, [000001C344399500][000001C34306AF00 49] LinuxAArch64Client, [000001C344306700][000001C34306F080 49] LinuxServer, [000001C344399300][000001C343073200 49] LinuxAArch64Server, [000001C344306300][000001C343077380 49] Android, [000001C344398500][000001C34307B500 49] Android_Low, [000001C344304A00][000001C34307F680 49] Android_Mid, [000001C344399600][000001C343083800 49] Android_High, [000001C344307700][000001C34303F940 49] Android_Default, [000001C344399900][000001C343087A80 49] Android_Adreno4xx, [000001C344305200][000001C34308BBC0 49] Android_Adreno5xx_Low, [000001C344398300][000001C34308FD00 49] Android_Adreno5xx, [000001C344307B00][000001C3430961C0 49] Android_Adreno6xx, [000001C344399800][000001C34309A340 49] Android_Adreno6xx_Vulkan, [000001C344306D00][000001C3430B04C0 49] Android_Mali_T6xx, [000001C344398D00][000001C3430B4640 49] Android_Mali_T7xx, [000001C3442A8300][000001C3430B87C0 49] Android_Mali_T8xx, [000001C3442B1C00][000001C3430D4940 49] Android_Mali_G71, [000001C3442AAA00][000001C3430DCAC0 49] Android_Mali_G72, [000001C3442B3900][000001C3430E8C40 49] Android_Mali_G72_Vulkan, [000001C3442A8C00][000001C3430ECDC0 49] Android_Mali_G76, [000001C3442B1900][000001C3430F0F40 49] Android_Mali_G76_Vulkan, [000001C3442A9800][000001C3430F50C0 49] Android_Mali_G77, [000001C3442B3F00][000001C3430F9240 49] Android_Mali_G77_Vulkan, [000001C3442A8100][000001C3430FD3C0 49] Android_Vulkan_SM5, [000001C3442B1200][000001C343101540 49] Android_PowerVR_G6xxx, [000001C3442ABF00][000001C3431056C0 49] Android_PowerVR_GT7xxx, [000001C3442B2300][000001C343109840 49] Android_PowerVR_GE8xxx, [000001C3442A8200][000001C343093980 49] Android_PowerVR_GM9xxx, [000001C3442B0E00][000001C34310DAC0 49] Android_PowerVR_GM9xxx_Vulkan, [000001C3442AA500][000001C343111C00 49] Android_TegraK1, [000001C3442B0200][000001C343115D40 49] Android_Unknown_Vulkan, [000001C3442A8A00][000001C34311C200 49] Lumin, [000001C3442B3500][000001C343120380 49] Lumin_Desktop, [000001C3442A8F00][000001C343124500 49] HoloLens, 
+[2021.11.15-16.33.22:595][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2021.11.15-16.33.22:595][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2021.11.15-16.33.22:595][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2021.11.15-16.33.22:595][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2021.11.15-16.33.22:595][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2021.11.15-16.33.22:620][  0]LogNetVersion: StrandedTogether 1.0.0, NetCL: 14830424, EngineNetVer: 16, GameNetVer: 0 (Checksum: 2975150810)
+[2021.11.15-16.33.23:210][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2021.11.15-16.33.23:284][  0]LogPackageLocalizationCache: Processed 26 localized package path(s) for 1 prioritized culture(s) in 0.074277 seconds
+[2021.11.15-16.33.23:292][  0]LogUObjectArray: 16831 objects as part of root set at end of initial load.
+[2021.11.15-16.33.23:292][  0]LogUObjectAllocator: 4209728 out of 0 bytes used by permanent object pool.
+[2021.11.15-16.33.23:292][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.11.15-16.33.23:646][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2021.11.15-16.33.23:651][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2021.11.15-16.33.23:914][  0]SourceControl: Source control is disabled
+[2021.11.15-16.33.23:915][  0]SourceControl: Source control is disabled
+[2021.11.15-16.33.23:998][  0]SourceControl: Source control is disabled
+[2021.11.15-16.33.24:001][  0]SourceControl: Source control is disabled
+[2021.11.15-16.33.24:039][  0]SourceControl: Source control is disabled
+[2021.11.15-16.33.24:041][  0]LogUProjectInfo: Found projects:
+[2021.11.15-16.33.24:629][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.11.15-16.33.24:644][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.11.15-16.33.24:644][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.11.15-16.33.24:694][  0]LogCollectionManager: Loaded 0 collections in 0.003072 seconds
+[2021.11.15-16.33.24:721][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Dreamtyt/Desktop/GitHub/GamersBot/OneShot/Saved/Collections/' took 0.00s
+[2021.11.15-16.33.24:721][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Dreamtyt/Desktop/GitHub/GamersBot/OneShot/Content/Developers/Dreamtyt/Collections/' took 0.00s
+[2021.11.15-16.33.24:721][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Dreamtyt/Desktop/GitHub/GamersBot/OneShot/Content/Collections/' took 0.00s
+[2021.11.15-16.33.24:721][  0]LogOcInput: OculusInput pre-init called
+[2021.11.15-16.33.24:734][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2021.11.15-16.33.24:734][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2021.11.15-16.33.24:786][  0]LogEngine: Initializing Engine...
+[2021.11.15-16.33.24:787][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.11.15-16.33.24:787][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2021.11.15-16.33.24:789][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2021.11.15-16.33.24:938][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.11.15-16.33.24:947][  0]LogAIModule: Creating AISystem for world Untitled
+[2021.11.15-16.33.24:966][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2021.11.15-16.33.24:970][  0]LogAudio: Display: Audio Device Manager Initialized
+[2021.11.15-16.33.24:970][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2021.11.15-16.33.24:970][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.11.15-16.33.24:970][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.11.15-16.33.24:970][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.11.15-16.33.24:970][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.11.15-16.33.24:970][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.11.15-16.33.24:970][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.11.15-16.33.24:970][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.11.15-16.33.24:970][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.11.15-16.33.24:971][  0]LogAudio: Display: Using built-in audio occlusion.
+[2021.11.15-16.33.24:971][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2021.11.15-16.33.25:006][  0]LogAudioMixer: Display: 0: FrontLeft
+[2021.11.15-16.33.25:006][  0]LogAudioMixer: Display: 1: FrontRight
+[2021.11.15-16.33.25:059][  0]LogAudioMixer: Display: Using Audio Device Speakers (PRO)
+[2021.11.15-16.33.25:065][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.11.15-16.33.25:067][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.11.15-16.33.25:067][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.11.15-16.33.25:069][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.11.15-16.33.25:069][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.11.15-16.33.25:069][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.11.15-16.33.25:070][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.11.15-16.33.25:070][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.11.15-16.33.25:070][  0]LogInit: FAudioDevice initialized.
+[2021.11.15-16.33.25:070][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2021.11.15-16.33.25:070][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2021.11.15-16.33.25:261][  0]LogDerivedDataCache: Saved boot cache 0.19s 94MB C:/Users/Dreamtyt/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.11.15-16.33.25:262][  0]LogInit: Texture streaming: Enabled
+[2021.11.15-16.33.25:275][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.26.2-15973114+++UE4+Release-4.26
+[2021.11.15-16.33.25:279][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2021.11.15-16.33.25:279][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2021.11.15-16.33.25:280][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2021.11.15-16.33.25:310][  0]LogInit: Transaction tracking system initialized
+[2021.11.15-16.33.25:330][  0]BlueprintLog: New page: Editor Load
+[2021.11.15-16.33.25:399][  0]LocalizationService: Localization service is disabled
+[2021.11.15-16.33.25:424][  0]TimingProfiler: Initialize
+[2021.11.15-16.33.25:424][  0]TimingProfiler: OnSessionChanged
+[2021.11.15-16.33.25:424][  0]LoadingProfiler: Initialize
+[2021.11.15-16.33.25:424][  0]LoadingProfiler: OnSessionChanged
+[2021.11.15-16.33.25:424][  0]NetworkingProfiler: Initialize
+[2021.11.15-16.33.25:424][  0]NetworkingProfiler: OnSessionChanged
+[2021.11.15-16.33.25:424][  0]MemoryProfiler: Initialize
+[2021.11.15-16.33.25:424][  0]MemoryProfiler: OnSessionChanged
+[2021.11.15-16.33.25:580][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2021.11.15-16.33.25:580][  0]LogCook: Display: Mobile HDR setting 1
+[2021.11.15-16.33.25:738][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Dreamtyt/Desktop/GitHub/GamersBot/OneShot/Content/' took 0.00s
+[2021.11.15-16.33.25:944][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2021.11.15-16.33.25:947][  0]SourceControl: Source control is disabled
+[2021.11.15-16.33.25:947][  0]LogUnrealEdMisc: Loading editor; pre map load, took 7.748
+[2021.11.15-16.33.25:948][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Dreamtyt/Desktop/GitHub/GamersBot/OneShot/Content/Levels/Tutorial.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.11.15-16.33.25:948][  0]LightingResults: New page: Lighting Build
+[2021.11.15-16.33.25:949][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.11.15-16.33.25:949][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.15-16.33.25:949][  0]MapCheck: New page: Map Check
+[2021.11.15-16.33.25:949][  0]LightingResults: New page: Lighting Build
+[2021.11.15-16.33.25:957][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2021.11.15-16.33.26:002][  0]LogBlueprint: Warning: [AssetLog] C:\Users\Dreamtyt\Desktop\GitHub\GamersBot\OneShot\Content\Animations\Character\Lewis_Anim_BP.uasset: [Compiler] Idle to Jumping  will never be taken, please connect something to  Can Enter Transition
+[2021.11.15-16.33.26:003][  0]LogBlueprint: Warning: [AssetLog] C:\Users\Dreamtyt\Desktop\GitHub\GamersBot\OneShot\Content\Animations\Character\Lewis_Anim_BP.uasset: [Compiler] Jumping to Walk/run  will never be taken, please connect something to  Can Enter Transition
+[2021.11.15-16.33.26:003][  0]LogBlueprint: Warning: [AssetLog] C:\Users\Dreamtyt\Desktop\GitHub\GamersBot\OneShot\Content\Animations\Character\Lewis_Anim_BP.uasset: [Compiler] Jumping to Idle  will never be taken, please connect something to  Can Enter Transition
+[2021.11.15-16.33.26:003][  0]LogBlueprint: Warning: [AssetLog] C:\Users\Dreamtyt\Desktop\GitHub\GamersBot\OneShot\Content\Animations\Character\Lewis_Anim_BP.uasset: [Compiler] Walk/run to Jumping  will never be taken, please connect something to  Can Enter Transition
+[2021.11.15-16.33.26:017][  0]LogBlueprint: Warning: [AssetLog] C:\Users\Dreamtyt\Desktop\GitHub\GamersBot\OneShot\Content\Animations\Character\Lewis_Anim_BP.uasset: [Compiler] Node  Blend Poses by bool  uses potentially thread-unsafe call  Try Get Pawn Owner . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2021.11.15-16.33.26:862][  0]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 8X8)
+[2021.11.15-16.33.26:862][  0]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 8X8)
+[2021.11.15-16.33.26:862][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (BGRA8, 512X512)
+[2021.11.15-16.33.26:862][  0]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 1024X1024)
+[2021.11.15-16.33.26:862][  0]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 1024X1024)
+[2021.11.15-16.33.26:862][  0]LogMaterial: Display: Missing cached shader map for material Layer_1_mtl, compiling. 
+[2021.11.15-16.33.26:928][  0]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 26
+[2021.11.15-16.33.26:928][  0]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 20
+[2021.11.15-16.33.26:928][  0]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 14
+[2021.11.15-16.33.26:928][  0]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 8
+[2021.11.15-16.33.26:929][  0]LogShaderCompilers: Display: Worker (5/5): shaders left to compile 2
+[2021.11.15-16.33.26:929][  0]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10000-1-1-1-1-1 wave door_opening...
+[2021.11.15-16.33.26:929][  0]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/Sounds/door_opening.door_opening will be modified from 40 to 40.
+[2021.11.15-16.33.26:981][  0]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 153756 while cooking SoundWave /Game/Sounds/door_opening.door_opening.
+[2021.11.15-16.33.26:986][  0]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10000-1-1-1-1-1 wave door_closing...
+[2021.11.15-16.33.26:986][  0]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/Sounds/door_closing.door_closing will be modified from 40 to 40.
+[2021.11.15-16.33.27:017][  0]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 140944 while cooking SoundWave /Game/Sounds/door_closing.door_closing.
+[2021.11.15-16.33.27:046][  0]LogMaterial: Display: Missing cached shader map for material Layer_2_mtl, compiling. 
+[2021.11.15-16.33.27:082][  0]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10000-1-1-1-1-1 wave pickup_item...
+[2021.11.15-16.33.27:082][  0]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/Sounds/pickup_item.pickup_item will be modified from 40 to 40.
+[2021.11.15-16.33.27:099][  0]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 76880 while cooking SoundWave /Game/Sounds/pickup_item.pickup_item.
+[2021.11.15-16.33.27:446][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Tutorial'.
+[2021.11.15-16.33.27:448][  0]LogAIModule: Creating AISystem for world Tutorial
+[2021.11.15-16.33.27:550][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.11.15-16.33.27:568][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2021.11.15-16.33.27:574][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.11.15-16.33.27:575][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.215ms to complete.
+[2021.11.15-16.33.27:575][  0]LogFileHelpers: Loading map 'Tutorial' took 1.627
+[2021.11.15-16.33.27:581][  0]LogUnrealEdMisc: Total Editor Startup Time, took 9.381
+[2021.11.15-16.33.27:798][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.15-16.33.27:812][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.15-16.33.27:827][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.15-16.33.27:841][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.15-16.33.27:886][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0189 seconds. Added 3801 classes and 916 folders.
+[2021.11.15-16.33.27:895][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2021.11.15-16.33.27:901][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.11.15-16.33.27:901][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.15-16.33.27:901][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.11.15-16.33.27:901][  0]LogPakFile: OnPakFileMounted2Time == 0.000012
+[2021.11.15-16.33.27:903][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.11.15-16.33.27:903][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.15-16.33.27:904][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.11.15-16.33.27:904][  0]LogPakFile: OnPakFileMounted2Time == 0.000017
+[2021.11.15-16.33.27:906][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2021.11.15-16.33.27:906][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.15-16.33.27:906][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2021.11.15-16.33.27:906][  0]LogPakFile: OnPakFileMounted2Time == 0.000023
+[2021.11.15-16.33.27:909][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.11.15-16.33.27:909][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.15-16.33.27:909][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.11.15-16.33.27:909][  0]LogPakFile: OnPakFileMounted2Time == 0.000030
+[2021.11.15-16.33.27:911][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.11.15-16.33.27:911][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.15-16.33.27:911][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.11.15-16.33.27:911][  0]LogPakFile: OnPakFileMounted2Time == 0.000039
+[2021.11.15-16.33.27:913][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.11.15-16.33.27:914][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.15-16.33.27:914][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.11.15-16.33.27:914][  0]LogPakFile: OnPakFileMounted2Time == 0.000044
+[2021.11.15-16.33.27:916][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.11.15-16.33.27:916][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.15-16.33.27:916][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.11.15-16.33.27:916][  0]LogPakFile: OnPakFileMounted2Time == 0.000049
+[2021.11.15-16.33.27:918][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.11.15-16.33.27:919][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.15-16.33.27:919][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.11.15-16.33.27:919][  0]LogPakFile: OnPakFileMounted2Time == 0.000055
+[2021.11.15-16.33.27:921][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.11.15-16.33.27:921][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.15-16.33.27:921][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.11.15-16.33.27:921][  0]LogPakFile: OnPakFileMounted2Time == 0.000061
+[2021.11.15-16.33.27:923][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.11.15-16.33.27:923][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.15-16.33.27:924][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.11.15-16.33.27:924][  0]LogPakFile: OnPakFileMounted2Time == 0.000066
+[2021.11.15-16.33.27:926][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.11.15-16.33.27:926][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.15-16.33.27:926][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.11.15-16.33.27:926][  0]LogPakFile: OnPakFileMounted2Time == 0.000073
+[2021.11.15-16.33.27:928][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.11.15-16.33.27:928][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.15-16.33.27:928][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.11.15-16.33.27:928][  0]LogPakFile: OnPakFileMounted2Time == 0.000078
+[2021.11.15-16.33.27:931][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.11.15-16.33.27:931][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.15-16.33.27:931][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.11.15-16.33.27:931][  0]LogPakFile: OnPakFileMounted2Time == 0.000084
+[2021.11.15-16.33.27:933][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.11.15-16.33.27:933][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.15-16.33.27:933][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.11.15-16.33.27:933][  0]LogPakFile: OnPakFileMounted2Time == 0.000090
+[2021.11.15-16.33.27:935][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.11.15-16.33.27:935][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.15-16.33.27:935][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.11.15-16.33.27:935][  0]LogPakFile: OnPakFileMounted2Time == 0.000095
+[2021.11.15-16.33.27:937][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.11.15-16.33.27:937][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.15-16.33.27:937][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.11.15-16.33.27:938][  0]LogPakFile: OnPakFileMounted2Time == 0.000105
+[2021.11.15-16.33.27:940][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.11.15-16.33.27:940][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.15-16.33.27:940][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.11.15-16.33.27:940][  0]LogPakFile: OnPakFileMounted2Time == 0.000113
+[2021.11.15-16.33.27:942][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.11.15-16.33.27:942][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.15-16.33.27:942][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.11.15-16.33.27:942][  0]LogPakFile: OnPakFileMounted2Time == 0.000119
+[2021.11.15-16.33.27:944][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.11.15-16.33.27:944][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.15-16.33.27:944][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.11.15-16.33.27:944][  0]LogPakFile: OnPakFileMounted2Time == 0.000124
+[2021.11.15-16.33.27:946][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.11.15-16.33.27:947][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.15-16.33.27:947][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.11.15-16.33.27:947][  0]LogPakFile: OnPakFileMounted2Time == 0.000129
+[2021.11.15-16.33.27:949][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.11.15-16.33.27:949][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.15-16.33.27:949][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.11.15-16.33.27:949][  0]LogPakFile: OnPakFileMounted2Time == 0.000134
+[2021.11.15-16.33.27:951][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.11.15-16.33.27:951][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.15-16.33.27:951][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.11.15-16.33.27:951][  0]LogPakFile: OnPakFileMounted2Time == 0.000141
+[2021.11.15-16.33.27:954][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2021.11.15-16.33.27:954][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.15-16.33.27:954][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2021.11.15-16.33.27:954][  0]LogPakFile: OnPakFileMounted2Time == 0.000148
+[2021.11.15-16.33.27:956][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.11.15-16.33.27:957][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.15-16.33.27:957][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.11.15-16.33.27:957][  0]LogPakFile: OnPakFileMounted2Time == 0.000153
+[2021.11.15-16.33.27:959][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.11.15-16.33.27:959][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.15-16.33.27:959][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.11.15-16.33.27:959][  0]LogPakFile: OnPakFileMounted2Time == 0.000158
+[2021.11.15-16.33.27:961][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.11.15-16.33.27:961][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.15-16.33.27:961][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.11.15-16.33.27:961][  0]LogPakFile: OnPakFileMounted2Time == 0.000163
+[2021.11.15-16.33.28:087][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2021.11.15-16.33.28:092][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0005 seconds. Added 2 classes and 0 folders.
+[2021.11.15-16.33.28:158][  0]LogSlate: Took 0.000152 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.11.15-16.33.28:161][  0]LogSlate: Took 0.000165 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.11.15-16.33.28:170][  0]LogSlate: Took 0.000688 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.11.15-16.33.28:388][  0]LogRenderer: Reallocating scene render targets to support 1208x580 Format 10 NumSamples 1 (Frame:1).
+[2021.11.15-16.33.28:989][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2021.11.15-16.33.28:989][  0]LogInput: Warning: Action Jump uses invalid key OculusGo_Left_Trigger_Click.
+[2021.11.15-16.33.28:989][  0]LogInput: Warning: Action ResetVR uses invalid key OculusGo_Left_Trackpad_Click.
+[2021.11.15-16.33.28:989][  0]LogInput: Warning: Use -RemoveInvalidKeys to remove instances of these keys from the action mapping.
+[2021.11.15-16.33.28:989][  0]LogLoad: (Engine Initialization) Total time: 10.79 seconds
+[2021.11.15-16.33.28:989][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.11.15-16.33.28:989][  0]LogInit: First time updating LLM stats...
+[2021.11.15-16.33.29:063][  0]LogAssetRegistry: Asset discovery search completed in 6.9846 seconds
+[2021.11.15-16.33.29:065][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000005 seconds (updated 0 objects)
+[2021.11.15-16.33.29:067][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2021.11.15-16.33.29:271][  2]LogSlate: Took 0.000914 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.11.15-16.33.32:262][ 53]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 26
+[2021.11.15-16.33.32:788][ 65]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 19
+[2021.11.15-16.33.32:928][ 68]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 14
+[2021.11.15-16.33.32:989][ 69]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 10
+[2021.11.15-16.33.35:608][121]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 7
+[2021.11.15-16.33.36:889][146]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 5
+[2021.11.15-16.33.37:531][159]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2021.11.15-16.33.38:382][175]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2021.11.15-16.33.38:406][176]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2021.11.15-16.33.46:935][234]LogSlate: Took 0.000108 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.11.15-16.33.46:960][234]LogAssetTools: Warning: Failed to import 'C:\Users\Dreamtyt\Desktop\Game Design\modular hallway t 1/license.txt'. Unknown extension 'txt'.
+[2021.11.15-16.33.46:964][234]LogAssetTools: Warning: Failed to import 'C:\Users\Dreamtyt\Desktop\Game Design\modular hallway t 1/scene.bin'. Unknown extension 'bin'.
+[2021.11.15-16.33.46:966][234]LogFactory: FactoryCreateFile: StaticMesh with GLTFImportFactory (0 0 C:\Users\Dreamtyt\Desktop\Game Design\modular hallway t 1/scene.gltf)
+[2021.11.15-16.33.46:966][234]C:\Users\Dreamtyt\Desktop\Game Design\modular hallway t 1/scene.gltf
+[2021.11.15-16.33.56:011][234]LogSlate: Window 'glTF Import Options' being destroyed
+[2021.11.15-16.33.56:041][234]LogTexture: Display: Building textures: 0_Hulle_baseColor (AutoDXT, 512X512)
+[2021.11.15-16.33.56:106][234]LogTexture: Display: Building textures: 1_Hulle_metallicRoughness (AutoDXT, 512X512)
+[2021.11.15-16.33.56:147][234]LogTexture: Display: Building textures: 1_Hulle_metallicRoughness (AutoDXT, 512X512)
+[2021.11.15-16.33.56:199][234]LogTexture: Display: Building textures: 1_Hulle_metallicRoughness (AutoDXT, 512X512)
+[2021.11.15-16.33.56:237][234]LogMaterial: Display: Missing cached shader map for material Hulle, compiling. 
+[2021.11.15-16.33.56:248][234]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 17
+[2021.11.15-16.33.56:248][234]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 12
+[2021.11.15-16.33.56:248][234]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2021.11.15-16.33.56:248][234]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2021.11.15-16.33.56:259][234]LogMaterial: Display: Missing cached shader map for material SG-LightW, compiling. 
+[2021.11.15-16.33.56:291][234]LogTexture: Display: Building textures: 2_Material__2142148966_emissive (AutoDXT, 1024X1024)
+[2021.11.15-16.33.56:537][234]LogMaterial: Display: Missing cached shader map for material Material__2142148966, compiling. 
+[2021.11.15-16.33.56:561][234]LogStaticMesh: Building static mesh 0_Gang_T-Verbinder_Hulle_0...
+[2021.11.15-16.33.56:588][234]LogStaticMesh: Built static mesh [0.03s] /Game/Models/modular_hallway_t_1/Modular_Hallway_T-connector_Type_01/0_Gang_T-Verbinder_Hulle_0.0_Gang_T-Verbinder_Hulle_0
+[2021.11.15-16.33.56:594][234]LogStaticMesh: Warning: 0_Gang_T-Verbinder_Hulle_0 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2021.11.15-16.33.56:594][234]LogStaticMesh: Warning: 0_Gang_T-Verbinder_Hulle_0 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2021.11.15-16.33.56:596][234]LogStaticMesh: Building static mesh 1_Gang_T-Verbinder_SG-LightW_0...
+[2021.11.15-16.33.56:597][234]LogStaticMesh: Built static mesh [0.00s] /Game/Models/modular_hallway_t_1/Modular_Hallway_T-connector_Type_01/1_Gang_T-Verbinder_SG-LightW_0.1_Gang_T-Verbinder_SG-LightW_0
+[2021.11.15-16.33.56:599][234]LogStaticMesh: Building static mesh 2_Gang_T-Verbinder_Material__2142148966_0...
+[2021.11.15-16.33.56:599][234]LogStaticMesh: Built static mesh [0.00s] /Game/Models/modular_hallway_t_1/Modular_Hallway_T-connector_Type_01/2_Gang_T-Verbinder_Material__2142148966_0.2_Gang_T-Verbinder_Material__2142148966_0
+[2021.11.15-16.33.56:603][234]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Dreamtyt\Desktop\Game Design\modular hallway t 1/textures/Hulle_baseColor.jpeg)
+[2021.11.15-16.33.56:607][234]LogTexture: Display: Building textures: Hulle_baseColor (AutoDXT, 512X512)
+[2021.11.15-16.33.56:655][234]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Dreamtyt\Desktop\Game Design\modular hallway t 1/textures/Hulle_metallicRoughness.png)
+[2021.11.15-16.33.56:663][234]LogTexture: Display: Building textures: Hulle_metallicRoughness (AutoDXT, 512X512)
+[2021.11.15-16.33.56:711][234]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Dreamtyt\Desktop\Game Design\modular hallway t 1/textures/Material__2142148966_emissive.jpeg)
+[2021.11.15-16.33.56:727][234]LogTexture: Display: Building textures: Material__2142148966_emissive (AutoDXT, 1024X1024)
+[2021.11.15-16.33.58:624][290]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 34
+[2021.11.15-16.34.00:286][344]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 25
+[2021.11.15-16.34.01:215][374]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 18
+[2021.11.15-16.34.01:246][375]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 13
+[2021.11.15-16.34.05:160][499]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2021.11.15-16.34.05:403][507]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 6
+[2021.11.15-16.34.06:186][533]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4
+[2021.11.15-16.34.06:582][545]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Models/modular_hallway_t_1/Modular_Hallway_T-connector_Type_01/0_Gang_T-Verbinder_Hulle_0.0_Gang_T-Verbinder_Hulle_0
+[2021.11.15-16.34.06:805][545]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2021.11.15-16.34.07:411][545]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2021.11.15-16.34.07:588][545]LogSlate: Took 0.000894 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.11.15-16.34.14:533][812]LogSlate: Window '0_Gang_T-Verbinder_Hulle_0' being destroyed
+[2021.11.15-16.34.14:545][812]LogSlate: Window '0_Gang_T-Verbinder_Hulle_0' being destroyed
+[2021.11.15-16.34.14:550][812]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2021.11.15-16.34.14:550][812]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.15-16.34.15:489][845]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Models/modular_hallway_t_1/Modular_Hallway_T-connector_Type_01/1_Gang_T-Verbinder_SG-LightW_0.1_Gang_T-Verbinder_SG-LightW_0
+[2021.11.15-16.34.21:819][ 74]LogSlate: Window '1_Gang_T-Verbinder_SG-LightW_0' being destroyed
+[2021.11.15-16.34.21:826][ 74]LogSlate: Window '1_Gang_T-Verbinder_SG-LightW_0' being destroyed
+[2021.11.15-16.34.21:830][ 74]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2021.11.15-16.34.21:830][ 74]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.15-16.34.22:736][108]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Models/modular_hallway_t_1/Modular_Hallway_T-connector_Type_01/2_Gang_T-Verbinder_Material__2142148966_0.2_Gang_T-Verbinder_Material__2142148966_0
+[2021.11.15-16.34.25:721][210]LogSlate: Window '2_Gang_T-Verbinder_Material__2142148966_0' being destroyed
+[2021.11.15-16.34.25:731][210]LogSlate: Window '2_Gang_T-Verbinder_Material__2142148966_0' being destroyed
+[2021.11.15-16.34.25:734][210]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2021.11.15-16.34.25:735][210]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.15-16.34.33:035][569]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2021.11.15-16.34.34:250][569]LogSlate: Window 'Delete Assets' being destroyed
+[2021.11.15-16.34.34:338][569]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2021.11.15-16.34.38:576][692]LogAssetTools: Warning: Failed to import 'C:\Users\Dreamtyt\Desktop\Game Design\modular hallway t 2/license.txt'. Unknown extension 'txt'.
+[2021.11.15-16.34.38:581][692]LogAssetTools: Warning: Failed to import 'C:\Users\Dreamtyt\Desktop\Game Design\modular hallway t 2/scene.bin'. Unknown extension 'bin'.
+[2021.11.15-16.34.38:581][692]LogFactory: FactoryCreateFile: StaticMesh with GLTFImportFactory (0 0 C:\Users\Dreamtyt\Desktop\Game Design\modular hallway t 2/scene.gltf)
+[2021.11.15-16.34.38:581][692]C:\Users\Dreamtyt\Desktop\Game Design\modular hallway t 2/scene.gltf
+[2021.11.15-16.34.41:072][692]LogSlate: Window 'glTF Import Options' being destroyed
+[2021.11.15-16.34.41:109][692]LogTexture: Display: Building textures: 0_Hulle_baseColor (AutoDXT, 512X512)
+[2021.11.15-16.34.41:172][692]LogTexture: Display: Building textures: 1_Hulle_metallicRoughness (AutoDXT, 512X512)
+[2021.11.15-16.34.41:210][692]LogTexture: Display: Building textures: 1_Hulle_metallicRoughness (AutoDXT, 512X512)
+[2021.11.15-16.34.41:261][692]LogTexture: Display: Building textures: 1_Hulle_metallicRoughness (AutoDXT, 512X512)
+[2021.11.15-16.34.41:298][692]LogMaterial: Display: Missing cached shader map for material Hulle, compiling. 
+[2021.11.15-16.34.41:311][692]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 17
+[2021.11.15-16.34.41:311][692]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 12
+[2021.11.15-16.34.41:311][692]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2021.11.15-16.34.41:311][692]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2021.11.15-16.34.41:318][692]LogMaterial: Display: Missing cached shader map for material SG-LightW, compiling. 
+[2021.11.15-16.34.41:346][692]LogMaterial: Display: Missing cached shader map for material Gaenge, compiling. 
+[2021.11.15-16.34.41:448][692]LogTexture: Display: Building textures: 2_Material__2142148966_emissive (AutoDXT, 1024X1024)
+[2021.11.15-16.34.41:744][692]LogMaterial: Display: Missing cached shader map for material Material__2142148966, compiling. 
+[2021.11.15-16.34.41:768][692]LogStaticMesh: Building static mesh 0_Gang_T-Verbinder001_Hulle_0...
+[2021.11.15-16.34.41:789][692]LogStaticMesh: Built static mesh [0.02s] /Game/Models/modular_hallway_t_2/Modular_Hallway_T-connector_Type_02/0_Gang_T-Verbinder001_Hulle_0.0_Gang_T-Verbinder001_Hulle_0
+[2021.11.15-16.34.41:794][692]LogStaticMesh: Warning: 0_Gang_T-Verbinder001_Hulle_0 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2021.11.15-16.34.41:794][692]LogStaticMesh: Warning: 0_Gang_T-Verbinder001_Hulle_0 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2021.11.15-16.34.41:796][692]LogStaticMesh: Building static mesh 1_Gang_T-Verbinder001_SG-LightW_0...
+[2021.11.15-16.34.41:797][692]LogStaticMesh: Built static mesh [0.00s] /Game/Models/modular_hallway_t_2/Modular_Hallway_T-connector_Type_02/1_Gang_T-Verbinder001_SG-LightW_0.1_Gang_T-Verbinder001_SG-LightW_0
+[2021.11.15-16.34.41:800][692]LogStaticMesh: Building static mesh 2_Gang_T-Verbinder001_Gaenge_0...
+[2021.11.15-16.34.41:801][692]LogStaticMesh: Built static mesh [0.00s] /Game/Models/modular_hallway_t_2/Modular_Hallway_T-connector_Type_02/2_Gang_T-Verbinder001_Gaenge_0.2_Gang_T-Verbinder001_Gaenge_0
+[2021.11.15-16.34.41:804][692]LogStaticMesh: Building static mesh 3_Gang_T-Verbinder001_Material__2142148966_0...
+[2021.11.15-16.34.41:804][692]LogStaticMesh: Built static mesh [0.00s] /Game/Models/modular_hallway_t_2/Modular_Hallway_T-connector_Type_02/3_Gang_T-Verbinder001_Material__2142148966_0.3_Gang_T-Verbinder001_Material__2142148966_0
+[2021.11.15-16.34.41:808][692]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Dreamtyt\Desktop\Game Design\modular hallway t 2/textures/Hulle_baseColor.jpeg)
+[2021.11.15-16.34.41:811][692]LogTexture: Display: Building textures: Hulle_baseColor (AutoDXT, 512X512)
+[2021.11.15-16.34.41:858][692]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Dreamtyt\Desktop\Game Design\modular hallway t 2/textures/Hulle_metallicRoughness.png)
+[2021.11.15-16.34.41:867][692]LogTexture: Display: Building textures: Hulle_metallicRoughness (AutoDXT, 512X512)
+[2021.11.15-16.34.41:917][692]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Dreamtyt\Desktop\Game Design\modular hallway t 2/textures/Material__2142148966_emissive.jpeg)
+[2021.11.15-16.34.41:935][692]LogTexture: Display: Building textures: Material__2142148966_emissive (AutoDXT, 1024X1024)
+[2021.11.15-16.34.43:642][726]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 66
+[2021.11.15-16.34.43:823][733]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Models/modular_hallway_t_2/Modular_Hallway_T-connector_Type_02/0_Gang_T-Verbinder001_Hulle_0.0_Gang_T-Verbinder001_Hulle_0
+[2021.11.15-16.34.45:392][766]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 56
+[2021.11.15-16.34.46:047][789]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 46
+[2021.11.15-16.34.46:354][799]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 36
+[2021.11.15-16.34.53:392][ 37]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 26
+[2021.11.15-16.34.56:983][155]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 19
+[2021.11.15-16.34.58:398][202]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 14
+[2021.11.15-16.34.58:550][207]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 10
+[2021.11.15-16.35.01:430][303]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2021.11.15-16.35.03:077][353]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 5
+[2021.11.15-16.35.03:556][368]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3
+[2021.11.15-16.35.03:594][370]LogSlate: Window '0_Gang_T-Verbinder001_Hulle_0' being destroyed
+[2021.11.15-16.35.03:630][370]LogSlate: Window '0_Gang_T-Verbinder001_Hulle_0' being destroyed
+[2021.11.15-16.35.03:635][370]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2021.11.15-16.35.03:635][370]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.15-16.35.03:951][381]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2021.11.15-16.35.04:510][398]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2021.11.15-16.35.09:075][620]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2021.11.15-16.35.10:413][620]LogSlate: Window 'Delete Assets' being destroyed
+[2021.11.15-16.35.10:518][620]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2021.11.15-16.35.18:169][672]LogAssetTools: Warning: Failed to import 'C:\Users\Dreamtyt\Desktop\Game Design\interior/scene.bin'. Unknown extension 'bin'.
+[2021.11.15-16.35.18:170][672]LogFactory: FactoryCreateFile: StaticMesh with GLTFImportFactory (0 0 C:\Users\Dreamtyt\Desktop\Game Design\interior/scene.gltf)
+[2021.11.15-16.35.18:170][672]C:\Users\Dreamtyt\Desktop\Game Design\interior/scene.gltf
+[2021.11.15-16.35.20:392][672]LogSlate: Window 'glTF Import Options' being destroyed
+[2021.11.15-16.35.20:421][672]LogMaterial: Display: Missing cached shader map for material Material_27, compiling. 
+[2021.11.15-16.35.20:520][672]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 17
+[2021.11.15-16.35.20:520][672]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 12
+[2021.11.15-16.35.20:520][672]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2021.11.15-16.35.20:520][672]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2021.11.15-16.35.20:520][672]LogTexture: Display: Building textures: 0_Walls_Straight_baseColor (AutoDXT, 2048X2048)
+[2021.11.15-16.35.20:865][672]LogTexture: Display: Building textures: 1_Walls_Straight_emissive (AutoDXT, 2048X2048)
+[2021.11.15-16.35.21:061][672]LogMaterial: Display: Missing cached shader map for material Walls_Straight, compiling. 
+[2021.11.15-16.35.21:265][672]LogTexture: Display: Building textures: 2_Platforms_baseColor (AutoDXT, 2048X2048)
+[2021.11.15-16.35.22:550][672]LogTexture: Display: Building textures: 3_Platforms_emissive (AutoDXT, 2048X2048)
+[2021.11.15-16.35.23:271][672]LogMaterial: Display: Missing cached shader map for material Platforms, compiling. 
+[2021.11.15-16.35.23:413][672]LogTexture: Display: Building textures: 4_Doorways_baseColor (AutoDXT, 2048X2048)
+[2021.11.15-16.35.23:811][672]LogTexture: Display: Building textures: 5_Doorways_emissive (AutoDXT, 2048X2048)
+[2021.11.15-16.35.24:121][672]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 34
+[2021.11.15-16.35.24:143][672]LogMaterial: Display: Missing cached shader map for material Doorways, compiling. 
+[2021.11.15-16.35.24:288][672]LogTexture: Display: Building textures: 6_Doors_baseColor (AutoDXT, 2048X2048)
+[2021.11.15-16.35.24:706][672]LogMaterial: Display: Missing cached shader map for material Doors, compiling. 
+[2021.11.15-16.35.24:871][672]LogTexture: Display: Building textures: 7_Crates_00_baseColor (AutoDXT, 2048X2048)
+[2021.11.15-16.35.25:251][672]LogMaterial: Display: Missing cached shader map for material Crates_00, compiling. 
+[2021.11.15-16.35.25:303][672]LogStaticMesh: Building static mesh 0_Ceiling_Straight_Material__27_0...
+[2021.11.15-16.35.25:303][672]LogStaticMesh: Built static mesh [0.00s] /Game/Models/interior/Sci-Fi_Interior_Pack_LowPoly/0_Ceiling_Straight_Material__27_0.0_Ceiling_Straight_Material__27_0
+[2021.11.15-16.35.25:311][672]LogStaticMesh: Building static mesh 1_Walls_6_Walls_Straight_0...
+[2021.11.15-16.35.25:313][672]LogStaticMesh: Built static mesh [0.00s] /Game/Models/interior/Sci-Fi_Interior_Pack_LowPoly/1_Walls_6_Walls_Straight_0.1_Walls_6_Walls_Straight_0
+[2021.11.15-16.35.25:316][672]LogStaticMesh: Warning: 1_Walls_6_Walls_Straight_0 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2021.11.15-16.35.25:316][672]LogStaticMesh: Warning: 1_Walls_6_Walls_Straight_0 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2021.11.15-16.35.25:319][672]LogStaticMesh: Building static mesh 2_FloorCeilings_9_Platforms_0...
+[2021.11.15-16.35.25:320][672]LogStaticMesh: Built static mesh [0.00s] /Game/Models/interior/Sci-Fi_Interior_Pack_LowPoly/2_FloorCeilings_9_Platforms_0.2_FloorCeilings_9_Platforms_0
+[2021.11.15-16.35.25:328][672]LogStaticMesh: Building static mesh 3_Doorways_Doorways_0...
+[2021.11.15-16.35.25:331][672]LogStaticMesh: Built static mesh [0.00s] /Game/Models/interior/Sci-Fi_Interior_Pack_LowPoly/3_Doorways_Doorways_0.3_Doorways_Doorways_0
+[2021.11.15-16.35.25:332][672]LogStaticMesh: Warning: 3_Doorways_Doorways_0 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2021.11.15-16.35.25:332][672]LogStaticMesh: Warning: 3_Doorways_Doorways_0 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2021.11.15-16.35.25:336][672]LogStaticMesh: Building static mesh 4_Doors_Doors_0...
+[2021.11.15-16.35.25:338][672]LogStaticMesh: Built static mesh [0.00s] /Game/Models/interior/Sci-Fi_Interior_Pack_LowPoly/4_Doors_Doors_0.4_Doors_Doors_0
+[2021.11.15-16.35.25:342][672]LogStaticMesh: Building static mesh 5_Crates_Crates_00_0...
+[2021.11.15-16.35.25:396][672]LogStaticMesh: Built static mesh [0.05s] /Game/Models/interior/Sci-Fi_Interior_Pack_LowPoly/5_Crates_Crates_00_0.5_Crates_Crates_00_0
+[2021.11.15-16.35.25:407][672]LogStaticMesh: Warning: 5_Crates_Crates_00_0 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2021.11.15-16.35.25:407][672]LogStaticMesh: Warning: 5_Crates_Crates_00_0 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2021.11.15-16.35.25:410][672]LogStaticMesh: Building static mesh 6_SlidingDoor_Window_Doors_0...
+[2021.11.15-16.35.25:410][672]LogStaticMesh: Built static mesh [0.00s] /Game/Models/interior/Sci-Fi_Interior_Pack_LowPoly/6_SlidingDoor_Window_Doors_0.6_SlidingDoor_Window_Doors_0
+[2021.11.15-16.35.25:415][672]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Dreamtyt\Desktop\Game Design\interior/textures/Crates_00_baseColor.png)
+[2021.11.15-16.35.25:516][672]LogTexture: Display: Building textures: Crates_00_baseColor (AutoDXT, 2048X2048)
+[2021.11.15-16.35.25:910][672]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Dreamtyt\Desktop\Game Design\interior/textures/Doors_baseColor.png)
+[2021.11.15-16.35.26:029][672]LogTexture: Display: Building textures: Doors_baseColor (AutoDXT, 2048X2048)
+[2021.11.15-16.35.26:469][672]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Dreamtyt\Desktop\Game Design\interior/textures/Doorways_baseColor.png)
+[2021.11.15-16.35.26:569][672]LogTexture: Display: Building textures: Doorways_baseColor (AutoDXT, 2048X2048)
+[2021.11.15-16.35.26:970][672]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Dreamtyt\Desktop\Game Design\interior/textures/Doorways_emissive.png)
+[2021.11.15-16.35.26:988][672]LogTexture: Display: Building textures: Doorways_emissive (AutoDXT, 2048X2048)
+[2021.11.15-16.35.27:266][672]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Dreamtyt\Desktop\Game Design\interior/textures/Platforms_baseColor.png)
+[2021.11.15-16.35.27:452][672]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 76
+[2021.11.15-16.35.27:453][672]LogTexture: Display: Building textures: Platforms_baseColor (AutoDXT, 2048X2048)
+[2021.11.15-16.35.28:744][672]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Dreamtyt\Desktop\Game Design\interior/textures/Platforms_emissive.png)
+[2021.11.15-16.35.28:967][672]LogTexture: Display: Building textures: Platforms_emissive (AutoDXT, 2048X2048)
+[2021.11.15-16.35.29:844][672]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 66
+[2021.11.15-16.35.29:857][672]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Dreamtyt\Desktop\Game Design\interior/textures/Walls_Straight_baseColor.png)
+[2021.11.15-16.35.29:962][672]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 56
+[2021.11.15-16.35.29:962][672]LogTexture: Display: Building textures: Walls_Straight_baseColor (AutoDXT, 2048X2048)
+[2021.11.15-16.35.30:270][672]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Dreamtyt\Desktop\Game Design\interior/textures/Walls_Straight_emissive.png)
+[2021.11.15-16.35.30:329][672]LogTexture: Display: Building textures: Walls_Straight_emissive (AutoDXT, 2048X2048)
+[2021.11.15-16.35.35:051][816]LogActorFactory: Actor Factory created 0_Ceiling_Straight_Material__27_0
+[2021.11.15-16.35.35:587][832]LogActorFactory: Actor Factory created 0_Ceiling_Straight_Material__27_0
+[2021.11.15-16.35.37:066][887]Cmd: DELETE
+[2021.11.15-16.35.37:066][887]Cmd: ACTOR DELETE
+[2021.11.15-16.35.37:077][887]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.11.15-16.35.37:090][887]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 46
+[2021.11.15-16.35.37:107][887]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2021.11.15-16.35.37:114][887]LogEditorActor: Deleted 1 Actors (0.046 secs)
+[2021.11.15-16.35.38:545][937]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Models/interior/Sci-Fi_Interior_Pack_LowPoly/0_Ceiling_Straight_Material__27_0.0_Ceiling_Straight_Material__27_0
+[2021.11.15-16.35.39:850][955]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 36
+[2021.11.15-16.35.40:170][966]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 26
+[2021.11.15-16.35.40:787][986]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 19
+[2021.11.15-16.35.42:686][ 46]LogSlate: Window '0_Ceiling_Straight_Material__27_0' being destroyed
+[2021.11.15-16.35.42:715][ 46]LogSlate: Window '0_Ceiling_Straight_Material__27_0' being destroyed
+[2021.11.15-16.35.42:722][ 46]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2021.11.15-16.35.42:723][ 46]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.15-16.35.46:017][145]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 14
+[2021.11.15-16.35.48:422][247]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 10
+[2021.11.15-16.35.48:775][262]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 7
+[2021.11.15-16.35.51:320][359]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 5
+[2021.11.15-16.35.51:446][367]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 3
+[2021.11.15-16.35.51:595][371]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2021.11.15-16.35.52:084][385]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2021.11.15-16.36.23:121][607]LogSlate: Window 'Pick Parent Class' being destroyed
+[2021.11.15-16.36.23:129][607]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2021.11.15-16.36.23:138][607]LogContentBrowser: Creating deferred item: NewBlueprint
+[2021.11.15-16.36.25:497][719]LogContentBrowser: Attempting asset rename: NewBlueprint -> Interior
+[2021.11.15-16.36.25:502][719]LogContentBrowser: End creating deferred item NewBlueprint
+[2021.11.15-16.36.30:961][954]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Models/interior/Interior.Interior
+[2021.11.15-16.36.31:225][954]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0007 seconds. Added 126 classes and 0 folders.
+[2021.11.15-16.36.48:577][498]LogRenderer: Reallocating scene render targets to support 1208x720 Format 10 NumSamples 1 (Frame:500).
+[2021.11.15-16.37.06:969][145]LogEditorTransaction: Undo Add Component
+[2021.11.15-16.37.09:351][227]LogSlate: Window 'Interior' being destroyed
+[2021.11.15-16.37.09:400][227]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2021.11.15-16.37.09:400][227]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.15-16.37.14:002][398]LogUObjectHash: Compacting FUObjectHashTables data took   3.91ms
+[2021.11.15-16.37.15:308][398]LogSlate: Window 'Delete Assets' being destroyed
+[2021.11.15-16.37.15:380][398]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Models/interior/Interior.Interior
+[2021.11.15-16.37.18:925][398]LogUObjectHash: Compacting FUObjectHashTables data took   2.61ms
+[2021.11.15-16.37.18:971][398]LogUObjectHash: Compacting FUObjectHashTables data took   2.87ms
+[2021.11.15-16.38.18:656][672]LogAssetTools: Warning: Failed to import 'C:\Users\Dreamtyt\Desktop\Game Design\Structures/scene.bin'. Unknown extension 'bin'.
+[2021.11.15-16.38.18:659][672]LogFactory: FactoryCreateFile: StaticMesh with GLTFImportFactory (0 0 C:\Users\Dreamtyt\Desktop\Game Design\Structures/scene.gltf)
+[2021.11.15-16.38.18:659][672]C:\Users\Dreamtyt\Desktop\Game Design\Structures/scene.gltf
+[2021.11.15-16.38.22:027][672]LogSlate: Window 'glTF Import Options' being destroyed
+[2021.11.15-16.38.22:151][672]LogTexture: Display: Building textures: 9_Objet2_baseColor (AutoDXT, 1024X1024)
+[2021.11.15-16.38.22:356][672]LogTexture: Display: Building textures: 7_Objet2_metallicRoughness (AutoDXT, 1024X1024)
+[2021.11.15-16.38.22:569][672]LogTexture: Display: Building textures: 7_Objet2_metallicRoughness (AutoDXT, 1024X1024)
+[2021.11.15-16.38.22:808][672]LogTexture: Display: Building textures: 7_Objet2_metallicRoughness (AutoDXT, 1024X1024)
+[2021.11.15-16.38.23:034][672]LogTexture: Display: Building textures: 8_Objet2_emissive (AutoDXT, 1024X1024)
+[2021.11.15-16.38.23:185][672]LogTexture: Display: Building textures: 10_Objet2_normal (AutoDXT, 1024X1024)
+[2021.11.15-16.38.23:363][672]LogTexture: Display: Building textures: 10_Objet2_normal (AutoDXT, 1024X1024)
+[2021.11.15-16.38.23:522][672]LogMaterial: Display: Missing cached shader map for material Objet2, compiling. 
+[2021.11.15-16.38.23:564][672]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 12
+[2021.11.15-16.38.23:564][672]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2021.11.15-16.38.23:564][672]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 4
+[2021.11.15-16.38.23:564][672]LogTexture: Display: Building textures: 15_Objet_baseColor (AutoDXT, 1024X1024)
+[2021.11.15-16.38.24:014][672]LogTexture: Display: Building textures: 14_Objet_metallicRoughness (AutoDXT, 1024X1024)
+[2021.11.15-16.38.24:414][672]LogTexture: Display: Building textures: 14_Objet_metallicRoughness (AutoDXT, 1024X1024)
+[2021.11.15-16.38.24:874][672]LogTexture: Display: Building textures: 14_Objet_metallicRoughness (AutoDXT, 1024X1024)
+[2021.11.15-16.38.25:270][672]LogTexture: Display: Building textures: 16_Objet_emissive (AutoDXT, 1024X1024)
+[2021.11.15-16.38.25:397][672]LogTexture: Display: Building textures: 17_Objet_normal (AutoDXT, 1024X1024)
+[2021.11.15-16.38.25:739][672]LogTexture: Display: Building textures: 17_Objet_normal (AutoDXT, 1024X1024)
+[2021.11.15-16.38.25:998][672]LogMaterial: Display: Missing cached shader map for material Objet, compiling. 
+[2021.11.15-16.38.26:026][672]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 30
+[2021.11.15-16.38.26:045][672]LogTexture: Display: Building textures: 13_Room1_baseColor (AutoDXT, 1024X1024)
+[2021.11.15-16.38.26:219][672]LogTexture: Display: Building textures: 12_Room1_metallicRoughness (AutoDXT, 1024X1024)
+[2021.11.15-16.38.26:426][672]LogTexture: Display: Building textures: 12_Room1_metallicRoughness (AutoDXT, 1024X1024)
+[2021.11.15-16.38.26:670][672]LogTexture: Display: Building textures: 11_Room1_normal (AutoDXT, 1024X1024)
+[2021.11.15-16.38.27:271][672]LogTexture: Display: Building textures: 11_Room1_normal (AutoDXT, 1024X1024)
+[2021.11.15-16.38.27:882][672]LogMaterial: Display: Missing cached shader map for material Room1, compiling. 
+[2021.11.15-16.38.27:966][672]LogTexture: Display: Building textures: 1_Objet3_baseColor (AutoDXT, 1024X1024)
+[2021.11.15-16.38.28:814][672]LogTexture: Display: Building textures: 0_Objet3_metallicRoughness (AutoDXT, 1024X1024)
+[2021.11.15-16.38.29:374][672]LogTexture: Display: Building textures: 0_Objet3_metallicRoughness (AutoDXT, 1024X1024)
+[2021.11.15-16.38.29:830][672]LogTexture: Display: Building textures: 0_Objet3_metallicRoughness (AutoDXT, 1024X1024)
+[2021.11.15-16.38.30:409][672]LogTexture: Display: Building textures: 2_Objet3_normal (AutoDXT, 1024X1024)
+[2021.11.15-16.38.30:697][672]LogTexture: Display: Building textures: 2_Objet3_normal (AutoDXT, 1024X1024)
+[2021.11.15-16.38.30:883][672]LogMaterial: Display: Missing cached shader map for material Objet3, compiling. 
+[2021.11.15-16.38.31:086][672]LogTexture: Display: Building textures: 20_CoffreTexture_baseColor (AutoDXT, 2048X2048)
+[2021.11.15-16.38.33:616][672]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 64
+[2021.11.15-16.38.33:894][672]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 54
+[2021.11.15-16.38.33:894][672]LogTexture: Display: Building textures: 18_CoffreTexture_metallicRoughness (AutoDXT, 2048X2048)
+[2021.11.15-16.38.36:175][672]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 44
+[2021.11.15-16.38.36:196][672]LogTexture: Display: Building textures: 18_CoffreTexture_metallicRoughness (AutoDXT, 2048X2048)
+[2021.11.15-16.38.38:457][672]LogTexture: Display: Building textures: 18_CoffreTexture_metallicRoughness (AutoDXT, 2048X2048)
+[2021.11.15-16.38.40:595][672]LogTexture: Display: Building textures: 19_CoffreTexture_normal (AutoDXT, 2048X2048)
+[2021.11.15-16.38.40:927][672]LogTexture: Display: Building textures: 19_CoffreTexture_normal (AutoDXT, 2048X2048)
+[2021.11.15-16.38.41:092][672]LogMaterial: Display: Missing cached shader map for material CoffreTexture, compiling. 
+[2021.11.15-16.38.41:136][672]LogTexture: Display: Building textures: 5_Robot1_baseColor (AutoDXT, 512X512)
+[2021.11.15-16.38.41:254][672]LogTexture: Display: Building textures: 3_Robot1_metallicRoughness (AutoDXT, 512X512)
+[2021.11.15-16.38.41:340][672]LogTexture: Display: Building textures: 3_Robot1_metallicRoughness (AutoDXT, 512X512)
+[2021.11.15-16.38.41:457][672]LogTexture: Display: Building textures: 3_Robot1_metallicRoughness (AutoDXT, 512X512)
+[2021.11.15-16.38.41:552][672]LogTexture: Display: Building textures: 4_Robot1_emissive (AutoDXT, 512X512)
+[2021.11.15-16.38.41:590][672]LogTexture: Display: Building textures: 6_Robot1_normal (AutoDXT, 512X512)
+[2021.11.15-16.38.41:718][672]LogTexture: Display: Building textures: 6_Robot1_normal (AutoDXT, 512X512)
+[2021.11.15-16.38.41:856][672]LogMaterial: Display: Missing cached shader map for material Robot1, compiling. 
+[2021.11.15-16.38.41:894][672]LogStaticMesh: Building static mesh 0_Canette2_Objet2_0...
+[2021.11.15-16.38.41:895][672]LogStaticMesh: Built static mesh [0.00s] /Game/Models/Structures/Space_smugglers_club_house_-_Dark_Version/0_Canette2_Objet2_0.0_Canette2_Objet2_0
+[2021.11.15-16.38.41:900][672]LogStaticMesh: Building static mesh 1_Canette1_Objet2_0...
+[2021.11.15-16.38.41:900][672]LogStaticMesh: Built static mesh [0.00s] /Game/Models/Structures/Space_smugglers_club_house_-_Dark_Version/1_Canette1_Objet2_0.1_Canette1_Objet2_0
+[2021.11.15-16.38.41:905][672]LogStaticMesh: Building static mesh 2_Cigarette1_Objet2_0...
+[2021.11.15-16.38.41:905][672]LogStaticMesh: Built static mesh [0.00s] /Game/Models/Structures/Space_smugglers_club_house_-_Dark_Version/2_Cigarette1_Objet2_0.2_Cigarette1_Objet2_0
+[2021.11.15-16.38.41:911][672]LogStaticMesh: Building static mesh 3_Coussin_Objet2_0...
+[2021.11.15-16.38.41:911][672]LogStaticMesh: Built static mesh [0.00s] /Game/Models/Structures/Space_smugglers_club_house_-_Dark_Version/3_Coussin_Objet2_0.3_Coussin_Objet2_0
+[2021.11.15-16.38.41:917][672]LogStaticMesh: Building static mesh 4_Couverture_Objet2_0...
+[2021.11.15-16.38.41:918][672]LogStaticMesh: Built static mesh [0.00s] /Game/Models/Structures/Space_smugglers_club_house_-_Dark_Version/4_Couverture_Objet2_0.4_Couverture_Objet2_0
+[2021.11.15-16.38.41:922][672]LogStaticMesh: Building static mesh 5_Coussin_Objet2_0...
+[2021.11.15-16.38.41:923][672]LogStaticMesh: Built static mesh [0.00s] /Game/Models/Structures/Space_smugglers_club_house_-_Dark_Version/5_Coussin_Objet2_0.5_Coussin_Objet2_0
+[2021.11.15-16.38.41:928][672]LogStaticMesh: Building static mesh 6_Couverture_Objet2_0...
+[2021.11.15-16.38.41:929][672]LogStaticMesh: Built static mesh [0.00s] /Game/Models/Structures/Space_smugglers_club_house_-_Dark_Version/6_Couverture_Objet2_0.6_Couverture_Objet2_0
+[2021.11.15-16.38.41:934][672]LogStaticMesh: Building static mesh 7_Coussin_Objet2_0...
+[2021.11.15-16.38.41:935][672]LogStaticMesh: Built static mesh [0.00s] /Game/Models/Structures/Space_smugglers_club_house_-_Dark_Version/7_Coussin_Objet2_0.7_Coussin_Objet2_0
+[2021.11.15-16.38.41:940][672]LogStaticMesh: Building static mesh 8_Couverture_Objet2_0...
+[2021.11.15-16.38.41:941][672]LogStaticMesh: Built static mesh [0.00s] /Game/Models/Structures/Space_smugglers_club_house_-_Dark_Version/8_Couverture_Objet2_0.8_Couverture_Objet2_0
+[2021.11.15-16.38.41:946][672]LogStaticMesh: Building static mesh 9_Tuyau3_Objet2_0...
+[2021.11.15-16.38.41:948][672]LogStaticMesh: Built static mesh [0.00s] /Game/Models/Structures/Space_smugglers_club_house_-_Dark_Version/9_Tuyau3_Objet2_0.9_Tuyau3_Objet2_0
+[2021.11.15-16.38.41:954][672]LogStaticMesh: Building static mesh 10_Tuyau2_Objet2_0...
+[2021.11.15-16.38.41:956][672]LogStaticMesh: Built static mesh [0.00s] /Game/Models/Structures/Space_smugglers_club_house_-_Dark_Version/10_Tuyau2_Objet2_0.10_Tuyau2_Objet2_0
+[2021.11.15-16.38.41:962][672]LogStaticMesh: Building static mesh 11_Tuyau1_Objet2_0...
+[2021.11.15-16.38.41:964][672]LogStaticMesh: Built static mesh [0.00s] /Game/Models/Structures/Space_smugglers_club_house_-_Dark_Version/11_Tuyau1_Objet2_0.11_Tuyau1_Objet2_0
+[2021.11.15-16.38.41:969][672]LogStaticMesh: Building static mesh 12_Tablette4_Objet2_0...
+[2021.11.15-16.38.41:970][672]LogStaticMesh: Built static mesh [0.00s] /Game/Models/Structures/Space_smugglers_club_house_-_Dark_Version/12_Tablette4_Objet2_0.12_Tablette4_Objet2_0
+[2021.11.15-16.38.41:974][672]LogStaticMesh: Building static mesh 13_Tablette3_Objet2_0...
+[2021.11.15-16.38.41:975][672]LogStaticMesh: Built static mesh [0.00s] /Game/Models/Structures/Space_smugglers_club_house_-_Dark_Version/13_Tablette3_Objet2_0.13_Tablette3_Objet2_0
+[2021.11.15-16.38.41:980][672]LogStaticMesh: Building static mesh 14_Tablette_Objet2_0...
+[2021.11.15-16.38.41:980][672]LogStaticMesh: Built static mesh [0.00s] /Game/Models/Structures/Space_smugglers_club_house_-_Dark_Version/14_Tablette_Objet2_0.14_Tablette_Objet2_0
+[2021.11.15-16.38.41:986][672]LogStaticMesh: Building static mesh 15_Coussin_Objet2_0...
+[2021.11.15-16.38.41:987][672]LogStaticMesh: Built static mesh [0.00s] /Game/Models/Structures/Space_smugglers_club_house_-_Dark_Version/15_Coussin_Objet2_0.15_Coussin_Objet2_0
+[2021.11.15-16.38.41:991][672]LogStaticMesh: Building static mesh 16_Couverture_Objet2_0...
+[2021.11.15-16.38.41:992][672]LogStaticMesh: Built static mesh [0.00s] /Game/Models/Structures/Space_smugglers_club_house_-_Dark_Version/16_Couverture_Objet2_0.16_Couverture_Objet2_0
+[2021.11.15-16.38.41:998][672]LogStaticMesh: Building static mesh 17_Ecran_Objet2_0...
+[2021.11.15-16.38.41:998][672]LogStaticMesh: Built static mesh [0.00s] /Game/Models/Structures/Space_smugglers_club_house_-_Dark_Version/17_Ecran_Objet2_0.17_Ecran_Objet2_0
+[2021.11.15-16.38.42:003][672]LogStaticMesh: Building static mesh 18_Ecran1_Objet2_0...
+[2021.11.15-16.38.42:003][672]LogStaticMesh: Built static mesh [0.00s] /Game/Models/Structures/Space_smugglers_club_house_-_Dark_Version/18_Ecran1_Objet2_0.18_Ecran1_Objet2_0
+[2021.11.15-16.38.42:008][672]LogStaticMesh: Building static mesh 19_Ecran2_Objet2_0...
+[2021.11.15-16.38.42:008][672]LogStaticMesh: Built static mesh [0.00s] /Game/Models/Structures/Space_smugglers_club_house_-_Dark_Version/19_Ecran2_Objet2_0.19_Ecran2_Objet2_0
+[2021.11.15-16.38.42:014][672]LogStaticMesh: Building static mesh 20_Ecran3_Objet2_0...
+[2021.11.15-16.38.42:014][672]LogStaticMesh: Built static mesh [0.00s] /Game/Models/Structures/Space_smugglers_club_house_-_Dark_Version/20_Ecran3_Objet2_0.20_Ecran3_Objet2_0
+[2021.11.15-16.38.42:019][672]LogStaticMesh: Building static mesh 21_Ecran4_Objet2_0...
+[2021.11.15-16.38.42:020][672]LogStaticMesh: Built static mesh [0.00s] /Game/Models/Structures/Space_smugglers_club_house_-_Dark_Version/21_Ecran4_Objet2_0.21_Ecran4_Objet2_0
+[2021.11.15-16.38.42:024][672]LogStaticMesh: Building static mesh 22_Ecran5_Objet2_0...
+[2021.11.15-16.38.42:025][672]LogStaticMesh: Built static mesh [0.00s] /Game/Models/Structures/Space_smugglers_club_house_-_Dark_Version/22_Ecran5_Objet2_0.22_Ecran5_Objet2_0
+[2021.11.15-16.38.42:030][672]LogStaticMesh: Building static mesh 23_Ecran6_Objet2_0...
+[2021.11.15-16.38.42:030][672]LogStaticMesh: Built static mesh [0.00s] /Game/Models/Structures/Space_smugglers_club_house_-_Dark_Version/23_Ecran6_Objet2_0.23_Ecran6_Objet2_0
+[2021.11.15-16.38.42:035][672]LogStaticMesh: Building static mesh 24_Ecran7_Objet2_0...
+[2021.11.15-16.38.42:035][672]LogStaticMesh: Built static mesh [0.00s] /Game/Models/Structures/Space_smugglers_club_house_-_Dark_Version/24_Ecran7_Objet2_0.24_Ecran7_Objet2_0
+[2021.11.15-16.38.42:044][672]LogStaticMesh: Building static mesh 25_Canette_Objet2_0...
+[2021.11.15-16.38.42:045][672]LogStaticMesh: Built static mesh [0.00s] /Game/Models/Structures/Space_smugglers_club_house_-_Dark_Version/25_Canette_Objet2_0.25_Canette_Objet2_0
+[2021.11.15-16.38.42:054][672]LogStaticMesh: Building static mesh 26_LampeALerte_Objet2_0...
+[2021.11.15-16.38.42:055][672]LogStaticMesh: Built static mesh [0.00s] /Game/Models/Structures/Space_smugglers_club_house_-_Dark_Version/26_LampeALerte_Objet2_0.26_LampeALerte_Objet2_0
+[2021.11.15-16.38.42:059][672]LogStaticMesh: Building static mesh 27_PaquetCiga_Objet2_0...
+[2021.11.15-16.38.42:060][672]LogStaticMesh: Built static mesh [0.00s] /Game/Models/Structures/Space_smugglers_club_house_-_Dark_Version/27_PaquetCiga_Objet2_0.27_PaquetCiga_Objet2_0
+[2021.11.15-16.38.42:064][672]LogStaticMesh: Building static mesh 28_Cigarette_Objet2_0...
+[2021.11.15-16.38.42:065][672]LogStaticMesh: Built static mesh [0.00s] /Game/Models/Structures/Space_smugglers_club_house_-_Dark_Version/28_Cigarette_Objet2_0.28_Cigarette_Objet2_0
+[2021.11.15-16.38.42:070][672]LogStaticMesh: Building static mesh 29_Cendrier_Objet2_0...
+[2021.11.15-16.38.42:071][672]LogStaticMesh: Built static mesh [0.00s] /Game/Models/Structures/Space_smugglers_club_house_-_Dark_Version/29_Cendrier_Objet2_0.29_Cendrier_Objet2_0
+[2021.11.15-16.38.42:078][672]LogStaticMesh: Building static mesh 30_FirstAidKit1_Objet_0...
+[2021.11.15-16.38.42:078][672]LogStaticMesh: Built static mesh [0.00s] /Game/Models/Structures/Space_smugglers_club_house_-_Dark_Version/30_FirstAidKit1_Objet_0.30_FirstAidKit1_Objet_0
+[2021.11.15-16.38.42:085][672]LogStaticMesh: Building static mesh 31_FirstAidKit_Objet_0...
+[2021.11.15-16.38.42:085][672]LogStaticMesh: Built static mesh [0.00s] /Game/Models/Structures/Space_smugglers_club_house_-_Dark_Version/31_FirstAidKit_Objet_0.31_FirstAidKit_Objet_0
+[2021.11.15-16.38.42:090][672]LogStaticMesh: Building static mesh 32_TableBasse_Objet_0...
+[2021.11.15-16.38.42:091][672]LogStaticMesh: Built static mesh [0.00s] /Game/Models/Structures/Space_smugglers_club_house_-_Dark_Version/32_TableBasse_Objet_0.32_TableBasse_Objet_0
+[2021.11.15-16.38.42:096][672]LogStaticMesh: Building static mesh 33_TableBasse1_Objet_0...
+[2021.11.15-16.38.42:097][672]LogStaticMesh: Built static mesh [0.00s] /Game/Models/Structures/Space_smugglers_club_house_-_Dark_Version/33_TableBasse1_Objet_0.33_TableBasse1_Objet_0
+[2021.11.15-16.38.42:103][672]LogStaticMesh: Building static mesh 34_Sofa_Objet_0...
+[2021.11.15-16.38.42:105][672]LogStaticMesh: Built static mesh [0.00s] /Game/Models/Structures/Space_smugglers_club_house_-_Dark_Version/34_Sofa_Objet_0.34_Sofa_Objet_0
+[2021.11.15-16.38.42:111][672]LogStaticMesh: Building static mesh 35_Caisse1_Objet_0...
+[2021.11.15-16.38.42:111][672]LogStaticMesh: Built static mesh [0.00s] /Game/Models/Structures/Space_smugglers_club_house_-_Dark_Version/35_Caisse1_Objet_0.35_Caisse1_Objet_0
+[2021.11.15-16.38.42:116][672]LogStaticMesh: Building static mesh 36_Caisse2_Objet_0...
+[2021.11.15-16.38.42:116][672]LogStaticMesh: Built static mesh [0.00s] /Game/Models/Structures/Space_smugglers_club_house_-_Dark_Version/36_Caisse2_Objet_0.36_Caisse2_Objet_0
+[2021.11.15-16.38.42:121][672]LogStaticMesh: Building static mesh 37_Caisse3_Objet_0...
+[2021.11.15-16.38.42:122][672]LogStaticMesh: Built static mesh [0.00s] /Game/Models/Structures/Space_smugglers_club_house_-_Dark_Version/37_Caisse3_Objet_0.37_Caisse3_Objet_0
+[2021.11.15-16.38.42:127][672]LogStaticMesh: Building static mesh 38_Caisse4_Objet_0...
+[2021.11.15-16.38.42:127][672]LogStaticMesh: Built static mesh [0.00s] /Game/Models/Structures/Space_smugglers_club_house_-_Dark_Version/38_Caisse4_Objet_0.38_Caisse4_Objet_0
+[2021.11.15-16.38.42:132][672]LogStaticMesh: Building static mesh 39_Caisse5_Objet_0...
+[2021.11.15-16.38.42:132][672]LogStaticMesh: Built static mesh [0.00s] /Game/Models/Structures/Space_smugglers_club_house_-_Dark_Version/39_Caisse5_Objet_0.39_Caisse5_Objet_0
+[2021.11.15-16.38.42:137][672]LogStaticMesh: Building static mesh 40_Caisse_Objet_0...
+[2021.11.15-16.38.42:138][672]LogStaticMesh: Built static mesh [0.00s] /Game/Models/Structures/Space_smugglers_club_house_-_Dark_Version/40_Caisse_Objet_0.40_Caisse_Objet_0
+[2021.11.15-16.38.42:142][672]LogStaticMesh: Building static mesh 41_Tiroir3_Objet_0...
+[2021.11.15-16.38.42:142][672]LogStaticMesh: Built static mesh [0.00s] /Game/Models/Structures/Space_smugglers_club_house_-_Dark_Version/41_Tiroir3_Objet_0.41_Tiroir3_Objet_0
+[2021.11.15-16.38.42:147][672]LogStaticMesh: Building static mesh 42_Tiroir2_Objet_0...
+[2021.11.15-16.38.42:147][672]LogStaticMesh: Built static mesh [0.00s] /Game/Models/Structures/Space_smugglers_club_house_-_Dark_Version/42_Tiroir2_Objet_0.42_Tiroir2_Objet_0
+[2021.11.15-16.38.42:152][672]LogStaticMesh: Building static mesh 43_Tiroir1_Objet_0...
+[2021.11.15-16.38.42:152][672]LogStaticMesh: Built static mesh [0.00s] /Game/Models/Structures/Space_smugglers_club_house_-_Dark_Version/43_Tiroir1_Objet_0.43_Tiroir1_Objet_0
+[2021.11.15-16.38.42:157][672]LogStaticMesh: Building static mesh 44_Tiroir_Objet_0...
+[2021.11.15-16.38.42:158][672]LogStaticMesh: Built static mesh [0.00s] /Game/Models/Structures/Space_smugglers_club_house_-_Dark_Version/44_Tiroir_Objet_0.44_Tiroir_Objet_0
+[2021.11.15-16.38.42:162][672]LogStaticMesh: Building static mesh 45_Tiroir4_Objet_0...
+[2021.11.15-16.38.42:163][672]LogStaticMesh: Built static mesh [0.00s] /Game/Models/Structures/Space_smugglers_club_house_-_Dark_Version/45_Tiroir4_Objet_0.45_Tiroir4_Objet_0
+[2021.11.15-16.38.42:168][672]LogStaticMesh: Building static mesh 46_Tiroir5_Objet_0...
+[2021.11.15-16.38.42:168][672]LogStaticMesh: Built static mesh [0.00s] /Game/Models/Structures/Space_smugglers_club_house_-_Dark_Version/46_Tiroir5_Objet_0.46_Tiroir5_Objet_0
+[2021.11.15-16.38.42:173][672]LogStaticMesh: Building static mesh 47_Neon13_Objet_0...
+[2021.11.15-16.38.42:173][672]LogStaticMesh: Built static mesh [0.00s] /Game/Models/Structures/Space_smugglers_club_house_-_Dark_Version/47_Neon13_Objet_0.47_Neon13_Objet_0
+[2021.11.15-16.38.42:179][672]LogStaticMesh: Building static mesh 48_Neon12_Objet_0...
+[2021.11.15-16.38.42:180][672]LogStaticMesh: Built static mesh [0.00s] /Game/Models/Structures/Space_smugglers_club_house_-_Dark_Version/48_Neon12_Objet_0.48_Neon12_Objet_0
+[2021.11.15-16.38.42:184][672]LogStaticMesh: Building static mesh 49_Neon11_Objet_0...
+[2021.11.15-16.38.42:184][672]LogStaticMesh: Built static mesh [0.00s] /Game/Models/Structures/Space_smugglers_club_house_-_Dark_Version/49_Neon11_Objet_0.49_Neon11_Objet_0
+[2021.11.15-16.38.42:189][672]LogStaticMesh: Building static mesh 50_Neon10_Objet_0...
+[2021.11.15-16.38.42:190][672]LogStaticMesh: Built static mesh [0.00s] /Game/Models/Structures/Space_smugglers_club_house_-_Dark_Version/50_Neon10_Objet_0.50_Neon10_Objet_0
+[2021.11.15-16.38.42:194][672]LogStaticMesh: Building static mesh 51_Neon9_Objet_0...
+[2021.11.15-16.38.42:195][672]LogStaticMesh: Built static mesh [0.00s] /Game/Models/Structures/Space_smugglers_club_house_-_Dark_Version/51_Neon9_Objet_0.51_Neon9_Objet_0
+[2021.11.15-16.38.42:199][672]LogStaticMesh: Building static mesh 52_Neon8_Objet_0...
+[2021.11.15-16.38.42:200][672]LogStaticMesh: Built static mesh [0.00s] /Game/Models/Structures/Space_smugglers_club_house_-_Dark_Version/52_Neon8_Objet_0.52_Neon8_Objet_0
+[2021.11.15-16.38.42:205][672]LogStaticMesh: Building static mesh 53_Neon7_Objet_0...
+[2021.11.15-16.38.42:205][672]LogStaticMesh: Built static mesh [0.00s] /Game/Models/Structures/Space_smugglers_club_house_-_Dark_Version/53_Neon7_Objet_0.53_Neon7_Objet_0
+[2021.11.15-16.38.42:209][672]LogStaticMesh: Building static mesh 54_Neon6_Objet_0...
+[2021.11.15-16.38.42:210][672]LogStaticMesh: Built static mesh [0.00s] /Game/Models/Structures/Space_smugglers_club_house_-_Dark_Version/54_Neon6_Objet_0.54_Neon6_Objet_0
+[2021.11.15-16.38.42:215][672]LogStaticMesh: Building static mesh 55_Neon5_Objet_0...
+[2021.11.15-16.38.42:216][672]LogStaticMesh: Built static mesh [0.00s] /Game/Models/Structures/Space_smugglers_club_house_-_Dark_Version/55_Neon5_Objet_0.55_Neon5_Objet_0
+[2021.11.15-16.38.42:221][672]LogStaticMesh: Building static mesh 56_Neon3_Objet_0...
+[2021.11.15-16.38.42:222][672]LogStaticMesh: Built static mesh [0.00s] /Game/Models/Structures/Space_smugglers_club_house_-_Dark_Version/56_Neon3_Objet_0.56_Neon3_Objet_0
+[2021.11.15-16.38.42:226][672]LogStaticMesh: Building static mesh 57_Neon14_Objet_0...
+[2021.11.15-16.38.42:227][672]LogStaticMesh: Built static mesh [0.00s] /Game/Models/Structures/Space_smugglers_club_house_-_Dark_Version/57_Neon14_Objet_0.57_Neon14_Objet_0
+[2021.11.15-16.38.42:233][672]LogStaticMesh: Building static mesh 58_Neon_Objet_0...
+[2021.11.15-16.38.42:234][672]LogStaticMesh: Built static mesh [0.00s] /Game/Models/Structures/Space_smugglers_club_house_-_Dark_Version/58_Neon_Objet_0.58_Neon_Objet_0
+[2021.11.15-16.38.42:238][672]LogStaticMesh: Building static mesh 59_Neon1_Objet_0...
+[2021.11.15-16.38.42:239][672]LogStaticMesh: Built static mesh [0.00s] /Game/Models/Structures/Space_smugglers_club_house_-_Dark_Version/59_Neon1_Objet_0.59_Neon1_Objet_0
+[2021.11.15-16.38.42:244][672]LogStaticMesh: Building static mesh 60_Fusil_assault4_Objet_0...
+[2021.11.15-16.38.42:246][672]LogStaticMesh: Built static mesh [0.00s] /Game/Models/Structures/Space_smugglers_club_house_-_Dark_Version/60_Fusil_assault4_Objet_0.60_Fusil_assault4_Objet_0
+[2021.11.15-16.38.42:251][672]LogStaticMesh: Building static mesh 61_Fusil_assault3_Objet_0...
+[2021.11.15-16.38.42:253][672]LogStaticMesh: Built static mesh [0.00s] /Game/Models/Structures/Space_smugglers_club_house_-_Dark_Version/61_Fusil_assault3_Objet_0.61_Fusil_assault3_Objet_0
+[2021.11.15-16.38.42:261][672]LogStaticMesh: Building static mesh 62_Fusil_assault2_Objet_0...
+[2021.11.15-16.38.42:262][672]LogStaticMesh: Built static mesh [0.00s] /Game/Models/Structures/Space_smugglers_club_house_-_Dark_Version/62_Fusil_assault2_Objet_0.62_Fusil_assault2_Objet_0
+[2021.11.15-16.38.42:268][672]LogStaticMesh: Building static mesh 63_Fusil_assault1_Objet_0...
+[2021.11.15-16.38.42:270][672]LogStaticMesh: Built static mesh [0.00s] /Game/Models/Structures/Space_smugglers_club_house_-_Dark_Version/63_Fusil_assault1_Objet_0.63_Fusil_assault1_Objet_0
+[2021.11.15-16.38.42:274][672]LogStaticMesh: Building static mesh 64_CaisseArme1_Objet_0...
+[2021.11.15-16.38.42:275][672]LogStaticMesh: Built static mesh [0.00s] /Game/Models/Structures/Space_smugglers_club_house_-_Dark_Version/64_CaisseArme1_Objet_0.64_CaisseArme1_Objet_0
+[2021.11.15-16.38.42:280][672]LogStaticMesh: Building static mesh 65_CouvercleCArme1_Objet_0...
+[2021.11.15-16.38.42:281][672]LogStaticMesh: Built static mesh [0.00s] /Game/Models/Structures/Space_smugglers_club_house_-_Dark_Version/65_CouvercleCArme1_Objet_0.65_CouvercleCArme1_Objet_0
+[2021.11.15-16.38.42:286][672]LogStaticMesh: Building static mesh 66_Fusil_assault5_Objet_0...
+[2021.11.15-16.38.42:287][672]LogStaticMesh: Built static mesh [0.00s] /Game/Models/Structures/Space_smugglers_club_house_-_Dark_Version/66_Fusil_assault5_Objet_0.66_Fusil_assault5_Objet_0
+[2021.11.15-16.38.42:291][672]LogStaticMesh: Building static mesh 67_Fusil_assault6_Objet_0...
+[2021.11.15-16.38.42:293][672]LogStaticMesh: Built static mesh [0.00s] /Game/Models/Structures/Space_smugglers_club_house_-_Dark_Version/67_Fusil_assault6_Objet_0.67_Fusil_assault6_Objet_0
+[2021.11.15-16.38.42:298][672]LogStaticMesh: Building static mesh 68_Fusil_assault7_Objet_0...
+[2021.11.15-16.38.42:300][672]LogStaticMesh: Built static mesh [0.00s] /Game/Models/Structures/Space_smugglers_club_house_-_Dark_Version/68_Fusil_assault7_Objet_0.68_Fusil_assault7_Objet_0
+[2021.11.15-16.38.42:304][672]LogStaticMesh: Building static mesh 69_Fusil_assault8_Objet_0...
+[2021.11.15-16.38.42:306][672]LogStaticMesh: Built static mesh [0.00s] /Game/Models/Structures/Space_smugglers_club_house_-_Dark_Version/69_Fusil_assault8_Objet_0.69_Fusil_assault8_Objet_0
+[2021.11.15-16.38.42:311][672]LogStaticMesh: Building static mesh 70_CaisseArme2_Objet_0...
+[2021.11.15-16.38.42:311][672]LogStaticMesh: Built static mesh [0.00s] /Game/Models/Structures/Space_smugglers_club_house_-_Dark_Version/70_CaisseArme2_Objet_0.70_CaisseArme2_Objet_0
+[2021.11.15-16.38.42:316][672]LogStaticMesh: Building static mesh 71_CouvercleCArme2_Objet_0...
+[2021.11.15-16.38.42:317][672]LogStaticMesh: Built static mesh [0.00s] /Game/Models/Structures/Space_smugglers_club_house_-_Dark_Version/71_CouvercleCArme2_Objet_0.71_CouvercleCArme2_Objet_0
+[2021.11.15-16.38.42:322][672]LogStaticMesh: Building static mesh 72_CouvercleCArme_Objet_0...
+[2021.11.15-16.38.42:322][672]LogStaticMesh: Built static mesh [0.00s] /Game/Models/Structures/Space_smugglers_club_house_-_Dark_Version/72_CouvercleCArme_Objet_0.72_CouvercleCArme_Objet_0
+[2021.11.15-16.38.42:327][672]LogStaticMesh: Building static mesh 73_CaisseArme_Objet_0...
+[2021.11.15-16.38.42:328][672]LogStaticMesh: Built static mesh [0.00s] /Game/Models/Structures/Space_smugglers_club_house_-_Dark_Version/73_CaisseArme_Objet_0.73_CaisseArme_Objet_0
+[2021.11.15-16.38.42:332][672]LogStaticMesh: Building static mesh 74_Tuyau_Objet2_0...
+[2021.11.15-16.38.42:334][672]LogStaticMesh: Built static mesh [0.00s] /Game/Models/Structures/Space_smugglers_club_house_-_Dark_Version/74_Tuyau_Objet2_0.74_Tuyau_Objet2_0
+[2021.11.15-16.38.42:339][672]LogStaticMesh: Building static mesh 75_Panneau_control_Objet2_0...
+[2021.11.15-16.38.42:342][672]LogStaticMesh: Built static mesh [0.00s] /Game/Models/Structures/Space_smugglers_club_house_-_Dark_Version/75_Panneau_control_Objet2_0.75_Panneau_control_Objet2_0
+[2021.11.15-16.38.42:343][672]LogStaticMesh: Warning: 75_Panneau_control_Objet2_0 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2021.11.15-16.38.42:343][672]LogStaticMesh: Warning: 75_Panneau_control_Objet2_0 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2021.11.15-16.38.42:347][672]LogStaticMesh: Building static mesh 76_Fusil_assault_Objet_0...
+[2021.11.15-16.38.42:348][672]LogStaticMesh: Built static mesh [0.00s] /Game/Models/Structures/Space_smugglers_club_house_-_Dark_Version/76_Fusil_assault_Objet_0.76_Fusil_assault_Objet_0
+[2021.11.15-16.38.42:354][672]LogStaticMesh: Building static mesh 77_HoloSupport_Objet_0...
+[2021.11.15-16.38.42:355][672]LogStaticMesh: Built static mesh [0.00s] /Game/Models/Structures/Space_smugglers_club_house_-_Dark_Version/77_HoloSupport_Objet_0.77_HoloSupport_Objet_0
+[2021.11.15-16.38.42:360][672]LogStaticMesh: Building static mesh 78_Globe_Objet_0...
+[2021.11.15-16.38.42:362][672]LogStaticMesh: Built static mesh [0.00s] /Game/Models/Structures/Space_smugglers_club_house_-_Dark_Version/78_Globe_Objet_0.78_Globe_Objet_0
+[2021.11.15-16.38.42:367][672]LogStaticMesh: Building static mesh 79_Room_Room_Room1_0...
+[2021.11.15-16.38.42:371][672]LogStaticMesh: Built static mesh [0.00s] /Game/Models/Structures/Space_smugglers_club_house_-_Dark_Version/79_Room_Room_Room1_0.79_Room_Room_Room1_0
+[2021.11.15-16.38.42:377][672]LogStaticMesh: Building static mesh 80_DoorWay5_Objet2_0...
+[2021.11.15-16.38.42:378][672]LogStaticMesh: Built static mesh [0.00s] /Game/Models/Structures/Space_smugglers_club_house_-_Dark_Version/80_DoorWay5_Objet2_0.80_DoorWay5_Objet2_0
+[2021.11.15-16.38.42:383][672]LogStaticMesh: Building static mesh 81_DoorWay4_Objet2_0...
+[2021.11.15-16.38.42:384][672]LogStaticMesh: Built static mesh [0.00s] /Game/Models/Structures/Space_smugglers_club_house_-_Dark_Version/81_DoorWay4_Objet2_0.81_DoorWay4_Objet2_0
+[2021.11.15-16.38.42:389][672]LogStaticMesh: Building static mesh 82_DoorWay3_Objet2_0...
+[2021.11.15-16.38.42:390][672]LogStaticMesh: Built static mesh [0.00s] /Game/Models/Structures/Space_smugglers_club_house_-_Dark_Version/82_DoorWay3_Objet2_0.82_DoorWay3_Objet2_0
+[2021.11.15-16.38.42:395][672]LogStaticMesh: Building static mesh 83_DoorWay2_Objet2_0...
+[2021.11.15-16.38.42:396][672]LogStaticMesh: Built static mesh [0.00s] /Game/Models/Structures/Space_smugglers_club_house_-_Dark_Version/83_DoorWay2_Objet2_0.83_DoorWay2_Objet2_0
+[2021.11.15-16.38.42:401][672]LogStaticMesh: Building static mesh 84_DoorWay1_Objet2_0...
+[2021.11.15-16.38.42:402][672]LogStaticMesh: Built static mesh [0.00s] /Game/Models/Structures/Space_smugglers_club_house_-_Dark_Version/84_DoorWay1_Objet2_0.84_DoorWay1_Objet2_0
+[2021.11.15-16.38.42:407][672]LogStaticMesh: Building static mesh 85_BacBrosse_Objet2_0...
+[2021.11.15-16.38.42:408][672]LogStaticMesh: Built static mesh [0.00s] /Game/Models/Structures/Space_smugglers_club_house_-_Dark_Version/85_BacBrosse_Objet2_0.85_BacBrosse_Objet2_0
+[2021.11.15-16.38.42:413][672]LogStaticMesh: Building static mesh 86_Verre1_Objet2_0...
+[2021.11.15-16.38.42:414][672]LogStaticMesh: Built static mesh [0.00s] /Game/Models/Structures/Space_smugglers_club_house_-_Dark_Version/86_Verre1_Objet2_0.86_Verre1_Objet2_0
+[2021.11.15-16.38.42:419][672]LogStaticMesh: Building static mesh 87_Brosseadent_Objet2_0...
+[2021.11.15-16.38.42:420][672]LogStaticMesh: Built static mesh [0.00s] /Game/Models/Structures/Space_smugglers_club_house_-_Dark_Version/87_Brosseadent_Objet2_0.87_Brosseadent_Objet2_0
+[2021.11.15-16.38.42:425][672]LogStaticMesh: Building static mesh 88_Brosseadent1_Objet2_0...
+[2021.11.15-16.38.42:426][672]LogStaticMesh: Built static mesh [0.00s] /Game/Models/Structures/Space_smugglers_club_house_-_Dark_Version/88_Brosseadent1_Objet2_0.88_Brosseadent1_Objet2_0
+[2021.11.15-16.38.42:430][672]LogStaticMesh: Building static mesh 89_Fusil_assault9_Objet_0...
+[2021.11.15-16.38.42:431][672]LogStaticMesh: Built static mesh [0.00s] /Game/Models/Structures/Space_smugglers_club_house_-_Dark_Version/89_Fusil_assault9_Objet_0.89_Fusil_assault9_Objet_0
+[2021.11.15-16.38.42:436][672]LogStaticMesh: Building static mesh 90_Fusil_assault10_Objet_0...
+[2021.11.15-16.38.42:438][672]LogStaticMesh: Built static mesh [0.00s] /Game/Models/Structures/Space_smugglers_club_house_-_Dark_Version/90_Fusil_assault10_Objet_0.90_Fusil_assault10_Objet_0
+[2021.11.15-16.38.42:443][672]LogStaticMesh: Building static mesh 91_Fusil_assault11_Objet_0...
+[2021.11.15-16.38.42:444][672]LogStaticMesh: Built static mesh [0.00s] /Game/Models/Structures/Space_smugglers_club_house_-_Dark_Version/91_Fusil_assault11_Objet_0.91_Fusil_assault11_Objet_0
+[2021.11.15-16.38.42:450][672]LogStaticMesh: Building static mesh 92_Canette3_Objet2_0...
+[2021.11.15-16.38.42:451][672]LogStaticMesh: Built static mesh [0.00s] /Game/Models/Structures/Space_smugglers_club_house_-_Dark_Version/92_Canette3_Objet2_0.92_Canette3_Objet2_0
+[2021.11.15-16.38.42:457][672]LogStaticMesh: Building static mesh 93_Canette4_Objet2_0...
+[2021.11.15-16.38.42:457][672]LogStaticMesh: Built static mesh [0.00s] /Game/Models/Structures/Space_smugglers_club_house_-_Dark_Version/93_Canette4_Objet2_0.93_Canette4_Objet2_0
+[2021.11.15-16.38.42:462][672]LogStaticMesh: Building static mesh 94_Canette5_Objet2_0...
+[2021.11.15-16.38.42:463][672]LogStaticMesh: Built static mesh [0.00s] /Game/Models/Structures/Space_smugglers_club_house_-_Dark_Version/94_Canette5_Objet2_0.94_Canette5_Objet2_0
+[2021.11.15-16.38.42:467][672]LogStaticMesh: Building static mesh 95_Canette6_Objet2_0...
+[2021.11.15-16.38.42:468][672]LogStaticMesh: Built static mesh [0.00s] /Game/Models/Structures/Space_smugglers_club_house_-_Dark_Version/95_Canette6_Objet2_0.95_Canette6_Objet2_0
+[2021.11.15-16.38.42:473][672]LogStaticMesh: Building static mesh 96_Canette7_Objet2_0...
+[2021.11.15-16.38.42:473][672]LogStaticMesh: Built static mesh [0.00s] /Game/Models/Structures/Space_smugglers_club_house_-_Dark_Version/96_Canette7_Objet2_0.96_Canette7_Objet2_0
+[2021.11.15-16.38.42:478][672]LogStaticMesh: Building static mesh 97_Canette8_Objet2_0...
+[2021.11.15-16.38.42:479][672]LogStaticMesh: Built static mesh [0.00s] /Game/Models/Structures/Space_smugglers_club_house_-_Dark_Version/97_Canette8_Objet2_0.97_Canette8_Objet2_0
+[2021.11.15-16.38.42:483][672]LogStaticMesh: Building static mesh 98_Canette9_Objet2_0...
+[2021.11.15-16.38.42:484][672]LogStaticMesh: Built static mesh [0.00s] /Game/Models/Structures/Space_smugglers_club_house_-_Dark_Version/98_Canette9_Objet2_0.98_Canette9_Objet2_0
+[2021.11.15-16.38.42:489][672]LogStaticMesh: Building static mesh 99_Canette10_Objet2_0...
+[2021.11.15-16.38.42:490][672]LogStaticMesh: Built static mesh [0.00s] /Game/Models/Structures/Space_smugglers_club_house_-_Dark_Version/99_Canette10_Objet2_0.99_Canette10_Objet2_0
+[2021.11.15-16.38.42:496][672]LogStaticMesh: Building static mesh 100_Cendrier1_Objet2_0...
+[2021.11.15-16.38.42:497][672]LogStaticMesh: Built static mesh [0.00s] /Game/Models/Structures/Space_smugglers_club_house_-_Dark_Version/100_Cendrier1_Objet2_0.100_Cendrier1_Objet2_0
+[2021.11.15-16.38.42:501][672]LogStaticMesh: Building static mesh 101_Cigarette2_Objet2_0...
+[2021.11.15-16.38.42:502][672]LogStaticMesh: Built static mesh [0.00s] /Game/Models/Structures/Space_smugglers_club_house_-_Dark_Version/101_Cigarette2_Objet2_0.101_Cigarette2_Objet2_0
+[2021.11.15-16.38.42:507][672]LogStaticMesh: Building static mesh 102_Cigarette3_Objet2_0...
+[2021.11.15-16.38.42:508][672]LogStaticMesh: Built static mesh [0.00s] /Game/Models/Structures/Space_smugglers_club_house_-_Dark_Version/102_Cigarette3_Objet2_0.102_Cigarette3_Objet2_0
+[2021.11.15-16.38.42:513][672]LogStaticMesh: Building static mesh 103_Photo10_Objet3_0...
+[2021.11.15-16.38.42:513][672]LogStaticMesh: Built static mesh [0.00s] /Game/Models/Structures/Space_smugglers_club_house_-_Dark_Version/103_Photo10_Objet3_0.103_Photo10_Objet3_0
+[2021.11.15-16.38.42:518][672]LogStaticMesh: Building static mesh 104_Photo1_Objet3_0...
+[2021.11.15-16.38.42:518][672]LogStaticMesh: Built static mesh [0.00s] /Game/Models/Structures/Space_smugglers_club_house_-_Dark_Version/104_Photo1_Objet3_0.104_Photo1_Objet3_0
+[2021.11.15-16.38.42:523][672]LogStaticMesh: Building static mesh 105_Photo_Objet3_0...
+[2021.11.15-16.38.42:523][672]LogStaticMesh: Built static mesh [0.00s] /Game/Models/Structures/Space_smugglers_club_house_-_Dark_Version/105_Photo_Objet3_0.105_Photo_Objet3_0
+[2021.11.15-16.38.42:528][672]LogStaticMesh: Building static mesh 106_Photo5_Objet3_0...
+[2021.11.15-16.38.42:529][672]LogStaticMesh: Built static mesh [0.00s] /Game/Models/Structures/Space_smugglers_club_house_-_Dark_Version/106_Photo5_Objet3_0.106_Photo5_Objet3_0
+[2021.11.15-16.38.42:533][672]LogStaticMesh: Building static mesh 107_Photo9_Objet3_0...
+[2021.11.15-16.38.42:533][672]LogStaticMesh: Built static mesh [0.00s] /Game/Models/Structures/Space_smugglers_club_house_-_Dark_Version/107_Photo9_Objet3_0.107_Photo9_Objet3_0
+[2021.11.15-16.38.42:538][672]LogStaticMesh: Building static mesh 108_pPlane1_Objet3_0...
+[2021.11.15-16.38.42:538][672]LogStaticMesh: Built static mesh [0.00s] /Game/Models/Structures/Space_smugglers_club_house_-_Dark_Version/108_pPlane1_Objet3_0.108_pPlane1_Objet3_0
+[2021.11.15-16.38.42:543][672]LogStaticMesh: Building static mesh 109_BoiteCarton2_Objet3_0...
+[2021.11.15-16.38.42:544][672]LogStaticMesh: Built static mesh [0.00s] /Game/Models/Structures/Space_smugglers_club_house_-_Dark_Version/109_BoiteCarton2_Objet3_0.109_BoiteCarton2_Objet3_0
+[2021.11.15-16.38.42:549][672]LogStaticMesh: Building static mesh 110_BoiteCarton3_Objet3_0...
+[2021.11.15-16.38.42:549][672]LogStaticMesh: Built static mesh [0.00s] /Game/Models/Structures/Space_smugglers_club_house_-_Dark_Version/110_BoiteCarton3_Objet3_0.110_BoiteCarton3_Objet3_0
+[2021.11.15-16.38.42:554][672]LogStaticMesh: Building static mesh 111_Boite2_Objet3_0...
+[2021.11.15-16.38.42:555][672]LogStaticMesh: Built static mesh [0.00s] /Game/Models/Structures/Space_smugglers_club_house_-_Dark_Version/111_Boite2_Objet3_0.111_Boite2_Objet3_0
+[2021.11.15-16.38.42:561][672]LogStaticMesh: Building static mesh 112_Boite_Objet3_0...
+[2021.11.15-16.38.42:562][672]LogStaticMesh: Built static mesh [0.00s] /Game/Models/Structures/Space_smugglers_club_house_-_Dark_Version/112_Boite_Objet3_0.112_Boite_Objet3_0
+[2021.11.15-16.38.42:566][672]LogStaticMesh: Building static mesh 113_Etagere_Objet3_0...
+[2021.11.15-16.38.42:569][672]LogStaticMesh: Built static mesh [0.00s] /Game/Models/Structures/Space_smugglers_club_house_-_Dark_Version/113_Etagere_Objet3_0.113_Etagere_Objet3_0
+[2021.11.15-16.38.42:575][672]LogStaticMesh: Building static mesh 114_BoiteCarton1_Objet3_0...
+[2021.11.15-16.38.42:575][672]LogStaticMesh: Built static mesh [0.00s] /Game/Models/Structures/Space_smugglers_club_house_-_Dark_Version/114_BoiteCarton1_Objet3_0.114_BoiteCarton1_Objet3_0
+[2021.11.15-16.38.42:581][672]LogStaticMesh: Building static mesh 115_Boite1_Objet3_0...
+[2021.11.15-16.38.42:582][672]LogStaticMesh: Built static mesh [0.00s] /Game/Models/Structures/Space_smugglers_club_house_-_Dark_Version/115_Boite1_Objet3_0.115_Boite1_Objet3_0
+[2021.11.15-16.38.42:587][672]LogStaticMesh: Building static mesh 116_Boite3_Objet3_0...
+[2021.11.15-16.38.42:587][672]LogStaticMesh: Built static mesh [0.00s] /Game/Models/Structures/Space_smugglers_club_house_-_Dark_Version/116_Boite3_Objet3_0.116_Boite3_Objet3_0
+[2021.11.15-16.38.42:592][672]LogStaticMesh: Building static mesh 117_BoiteCarton_Objet3_0...
+[2021.11.15-16.38.42:592][672]LogStaticMesh: Built static mesh [0.00s] /Game/Models/Structures/Space_smugglers_club_house_-_Dark_Version/117_BoiteCarton_Objet3_0.117_BoiteCarton_Objet3_0
+[2021.11.15-16.38.42:598][672]LogStaticMesh: Building static mesh 118_BoiteCarton4_Objet3_0...
+[2021.11.15-16.38.42:598][672]LogStaticMesh: Built static mesh [0.00s] /Game/Models/Structures/Space_smugglers_club_house_-_Dark_Version/118_BoiteCarton4_Objet3_0.118_BoiteCarton4_Objet3_0
+[2021.11.15-16.38.42:603][672]LogStaticMesh: Building static mesh 119_BoiteCarton6_Objet3_0...
+[2021.11.15-16.38.42:603][672]LogStaticMesh: Built static mesh [0.00s] /Game/Models/Structures/Space_smugglers_club_house_-_Dark_Version/119_BoiteCarton6_Objet3_0.119_BoiteCarton6_Objet3_0
+[2021.11.15-16.38.42:608][672]LogStaticMesh: Building static mesh 120_BoiteCarton5_Objet3_0...
+[2021.11.15-16.38.42:608][672]LogStaticMesh: Built static mesh [0.00s] /Game/Models/Structures/Space_smugglers_club_house_-_Dark_Version/120_BoiteCarton5_Objet3_0.120_BoiteCarton5_Objet3_0
+[2021.11.15-16.38.42:612][672]LogStaticMesh: Building static mesh 121_BoiteCarton2_Objet3_0...
+[2021.11.15-16.38.42:612][672]LogStaticMesh: Built static mesh [0.00s] /Game/Models/Structures/Space_smugglers_club_house_-_Dark_Version/121_BoiteCarton2_Objet3_0.121_BoiteCarton2_Objet3_0
+[2021.11.15-16.38.42:618][672]LogStaticMesh: Building static mesh 122_BoiteCarton3_Objet3_0...
+[2021.11.15-16.38.42:618][672]LogStaticMesh: Built static mesh [0.00s] /Game/Models/Structures/Space_smugglers_club_house_-_Dark_Version/122_BoiteCarton3_Objet3_0.122_BoiteCarton3_Objet3_0
+[2021.11.15-16.38.42:624][672]LogStaticMesh: Building static mesh 123_Boite2_Objet3_0...
+[2021.11.15-16.38.42:624][672]LogStaticMesh: Built static mesh [0.00s] /Game/Models/Structures/Space_smugglers_club_house_-_Dark_Version/123_Boite2_Objet3_0.123_Boite2_Objet3_0
+[2021.11.15-16.38.42:628][672]LogStaticMesh: Building static mesh 124_Boite_Objet3_0...
+[2021.11.15-16.38.42:629][672]LogStaticMesh: Built static mesh [0.00s] /Game/Models/Structures/Space_smugglers_club_house_-_Dark_Version/124_Boite_Objet3_0.124_Boite_Objet3_0
+[2021.11.15-16.38.42:634][672]LogStaticMesh: Building static mesh 125_Etagere_Objet3_0...
+[2021.11.15-16.38.42:637][672]LogStaticMesh: Built static mesh [0.00s] /Game/Models/Structures/Space_smugglers_club_house_-_Dark_Version/125_Etagere_Objet3_0.125_Etagere_Objet3_0
+[2021.11.15-16.38.42:642][672]LogStaticMesh: Building static mesh 126_BoiteCarton1_Objet3_0...
+[2021.11.15-16.38.42:643][672]LogStaticMesh: Built static mesh [0.00s] /Game/Models/Structures/Space_smugglers_club_house_-_Dark_Version/126_BoiteCarton1_Objet3_0.126_BoiteCarton1_Objet3_0
+[2021.11.15-16.38.42:647][672]LogStaticMesh: Building static mesh 127_Boite1_Objet3_0...
+[2021.11.15-16.38.42:648][672]LogStaticMesh: Built static mesh [0.00s] /Game/Models/Structures/Space_smugglers_club_house_-_Dark_Version/127_Boite1_Objet3_0.127_Boite1_Objet3_0
+[2021.11.15-16.38.42:653][672]LogStaticMesh: Building static mesh 128_Boite3_Objet3_0...
+[2021.11.15-16.38.42:654][672]LogStaticMesh: Built static mesh [0.00s] /Game/Models/Structures/Space_smugglers_club_house_-_Dark_Version/128_Boite3_Objet3_0.128_Boite3_Objet3_0
+[2021.11.15-16.38.42:659][672]LogStaticMesh: Building static mesh 129_BoiteCarton_Objet3_0...
+[2021.11.15-16.38.42:660][672]LogStaticMesh: Built static mesh [0.00s] /Game/Models/Structures/Space_smugglers_club_house_-_Dark_Version/129_BoiteCarton_Objet3_0.129_BoiteCarton_Objet3_0
+[2021.11.15-16.38.42:664][672]LogStaticMesh: Building static mesh 130_BoiteCarton4_Objet3_0...
+[2021.11.15-16.38.42:665][672]LogStaticMesh: Built static mesh [0.00s] /Game/Models/Structures/Space_smugglers_club_house_-_Dark_Version/130_BoiteCarton4_Objet3_0.130_BoiteCarton4_Objet3_0
+[2021.11.15-16.38.42:670][672]LogStaticMesh: Building static mesh 131_BoiteCarton6_Objet3_0...
+[2021.11.15-16.38.42:670][672]LogStaticMesh: Built static mesh [0.00s] /Game/Models/Structures/Space_smugglers_club_house_-_Dark_Version/131_BoiteCarton6_Objet3_0.131_BoiteCarton6_Objet3_0
+[2021.11.15-16.38.42:675][672]LogStaticMesh: Building static mesh 132_BoiteCarton5_Objet3_0...
+[2021.11.15-16.38.42:675][672]LogStaticMesh: Built static mesh [0.00s] /Game/Models/Structures/Space_smugglers_club_house_-_Dark_Version/132_BoiteCarton5_Objet3_0.132_BoiteCarton5_Objet3_0
+[2021.11.15-16.38.42:680][672]LogStaticMesh: Building static mesh 133_BoiteCarton7_Objet3_0...
+[2021.11.15-16.38.42:680][672]LogStaticMesh: Built static mesh [0.00s] /Game/Models/Structures/Space_smugglers_club_house_-_Dark_Version/133_BoiteCarton7_Objet3_0.133_BoiteCarton7_Objet3_0
+[2021.11.15-16.38.42:685][672]LogStaticMesh: Building static mesh 134_BoiteCarton8_Objet3_0...
+[2021.11.15-16.38.42:685][672]LogStaticMesh: Built static mesh [0.00s] /Game/Models/Structures/Space_smugglers_club_house_-_Dark_Version/134_BoiteCarton8_Objet3_0.134_BoiteCarton8_Objet3_0
+[2021.11.15-16.38.42:696][672]LogStaticMesh: Building static mesh 135_Bouteille9_Objet3_0...
+[2021.11.15-16.38.42:697][672]LogStaticMesh: Built static mesh [0.00s] /Game/Models/Structures/Space_smugglers_club_house_-_Dark_Version/135_Bouteille9_Objet3_0.135_Bouteille9_Objet3_0
+[2021.11.15-16.38.42:701][672]LogStaticMesh: Building static mesh 136_Bouteille8_Objet3_0...
+[2021.11.15-16.38.42:702][672]LogStaticMesh: Built static mesh [0.00s] /Game/Models/Structures/Space_smugglers_club_house_-_Dark_Version/136_Bouteille8_Objet3_0.136_Bouteille8_Objet3_0
+[2021.11.15-16.38.42:707][672]LogStaticMesh: Building static mesh 137_Bouteille7_Objet3_0...
+[2021.11.15-16.38.42:707][672]LogStaticMesh: Built static mesh [0.00s] /Game/Models/Structures/Space_smugglers_club_house_-_Dark_Version/137_Bouteille7_Objet3_0.137_Bouteille7_Objet3_0
+[2021.11.15-16.38.42:712][672]LogStaticMesh: Building static mesh 138_Bouteille6_Objet3_0...
+[2021.11.15-16.38.42:713][672]LogStaticMesh: Built static mesh [0.00s] /Game/Models/Structures/Space_smugglers_club_house_-_Dark_Version/138_Bouteille6_Objet3_0.138_Bouteille6_Objet3_0
+[2021.11.15-16.38.42:718][672]LogStaticMesh: Building static mesh 139_Pistolet2_Objet3_0...
+[2021.11.15-16.38.42:720][672]LogStaticMesh: Built static mesh [0.00s] /Game/Models/Structures/Space_smugglers_club_house_-_Dark_Version/139_Pistolet2_Objet3_0.139_Pistolet2_Objet3_0
+[2021.11.15-16.38.42:724][672]LogStaticMesh: Building static mesh 140_Argent6_Objet3_0...
+[2021.11.15-16.38.42:724][672]LogStaticMesh: Built static mesh [0.00s] /Game/Models/Structures/Space_smugglers_club_house_-_Dark_Version/140_Argent6_Objet3_0.140_Argent6_Objet3_0
+[2021.11.15-16.38.42:729][672]LogStaticMesh: Building static mesh 141_Argent5_Objet3_0...
+[2021.11.15-16.38.42:729][672]LogStaticMesh: Built static mesh [0.00s] /Game/Models/Structures/Space_smugglers_club_house_-_Dark_Version/141_Argent5_Objet3_0.141_Argent5_Objet3_0
+[2021.11.15-16.38.42:734][672]LogStaticMesh: Building static mesh 142_Argent4_Objet3_0...
+[2021.11.15-16.38.42:734][672]LogStaticMesh: Built static mesh [0.00s] /Game/Models/Structures/Space_smugglers_club_house_-_Dark_Version/142_Argent4_Objet3_0.142_Argent4_Objet3_0
+[2021.11.15-16.38.42:740][672]LogStaticMesh: Building static mesh 143_Argent3_Objet3_0...
+[2021.11.15-16.38.42:740][672]LogStaticMesh: Built static mesh [0.00s] /Game/Models/Structures/Space_smugglers_club_house_-_Dark_Version/143_Argent3_Objet3_0.143_Argent3_Objet3_0
+[2021.11.15-16.38.42:745][672]LogStaticMesh: Building static mesh 144_Argent2_Objet3_0...
+[2021.11.15-16.38.42:746][672]LogStaticMesh: Built static mesh [0.00s] /Game/Models/Structures/Space_smugglers_club_house_-_Dark_Version/144_Argent2_Objet3_0.144_Argent2_Objet3_0
+[2021.11.15-16.38.42:751][672]LogStaticMesh: Building static mesh 145_Safe2_Objet3_0...
+[2021.11.15-16.38.42:751][672]LogStaticMesh: Built static mesh [0.00s] /Game/Models/Structures/Space_smugglers_club_house_-_Dark_Version/145_Safe2_Objet3_0.145_Safe2_Objet3_0
+[2021.11.15-16.38.42:757][672]LogStaticMesh: Building static mesh 146_Safe1_Objet3_0...
+[2021.11.15-16.38.42:758][672]LogStaticMesh: Built static mesh [0.00s] /Game/Models/Structures/Space_smugglers_club_house_-_Dark_Version/146_Safe1_Objet3_0.146_Safe1_Objet3_0
+[2021.11.15-16.38.42:763][672]LogStaticMesh: Building static mesh 147_SupportArme1_Objet3_0...
+[2021.11.15-16.38.42:764][672]LogStaticMesh: Built static mesh [0.00s] /Game/Models/Structures/Space_smugglers_club_house_-_Dark_Version/147_SupportArme1_Objet3_0.147_SupportArme1_Objet3_0
+[2021.11.15-16.38.42:768][672]LogStaticMesh: Building static mesh 148_Photo7_Objet3_0...
+[2021.11.15-16.38.42:769][672]LogStaticMesh: Built static mesh [0.00s] /Game/Models/Structures/Space_smugglers_club_house_-_Dark_Version/148_Photo7_Objet3_0.148_Photo7_Objet3_0
+[2021.11.15-16.38.42:773][672]LogStaticMesh: Building static mesh 149_Photo6_Objet3_0...
+[2021.11.15-16.38.42:774][672]LogStaticMesh: Built static mesh [0.00s] /Game/Models/Structures/Space_smugglers_club_house_-_Dark_Version/149_Photo6_Objet3_0.149_Photo6_Objet3_0
+[2021.11.15-16.38.42:778][672]LogStaticMesh: Building static mesh 150_Photo4_Objet3_0...
+[2021.11.15-16.38.42:779][672]LogStaticMesh: Built static mesh [0.00s] /Game/Models/Structures/Space_smugglers_club_house_-_Dark_Version/150_Photo4_Objet3_0.150_Photo4_Objet3_0
+[2021.11.15-16.38.42:783][672]LogStaticMesh: Building static mesh 151_Photo3_Objet3_0...
+[2021.11.15-16.38.42:783][672]LogStaticMesh: Built static mesh [0.00s] /Game/Models/Structures/Space_smugglers_club_house_-_Dark_Version/151_Photo3_Objet3_0.151_Photo3_Objet3_0
+[2021.11.15-16.38.42:788][672]LogStaticMesh: Building static mesh 152_Photo2_Objet3_0...
+[2021.11.15-16.38.42:788][672]LogStaticMesh: Built static mesh [0.00s] /Game/Models/Structures/Space_smugglers_club_house_-_Dark_Version/152_Photo2_Objet3_0.152_Photo2_Objet3_0
+[2021.11.15-16.38.42:793][672]LogStaticMesh: Building static mesh 153_SupportArme_Objet3_0...
+[2021.11.15-16.38.42:793][672]LogStaticMesh: Built static mesh [0.00s] /Game/Models/Structures/Space_smugglers_club_house_-_Dark_Version/153_SupportArme_Objet3_0.153_SupportArme_Objet3_0
+[2021.11.15-16.38.42:803][672]LogStaticMesh: Building static mesh 154_Canap��_Objet3_0...
+[2021.11.15-16.38.42:805][672]LogStaticMesh: Built static mesh [0.00s] /Game/Models/Structures/Space_smugglers_club_house_-_Dark_Version/154_Canap��_Objet3_0.154_Canap��_Objet3_0
+[2021.11.15-16.38.42:812][672]LogStaticMesh: Building static mesh 155_Pistolet_Objet3_0...
+[2021.11.15-16.38.42:814][672]LogStaticMesh: Built static mesh [0.00s] /Game/Models/Structures/Space_smugglers_club_house_-_Dark_Version/155_Pistolet_Objet3_0.155_Pistolet_Objet3_0
+[2021.11.15-16.38.42:819][672]LogStaticMesh: Building static mesh 156_PlateauRepas_Objet3_0...
+[2021.11.15-16.38.42:820][672]LogStaticMesh: Built static mesh [0.00s] /Game/Models/Structures/Space_smugglers_club_house_-_Dark_Version/156_PlateauRepas_Objet3_0.156_PlateauRepas_Objet3_0
+[2021.11.15-16.38.42:825][672]LogStaticMesh: Building static mesh 157_Pizza_Objet3_0...
+[2021.11.15-16.38.42:825][672]LogStaticMesh: Built static mesh [0.00s] /Game/Models/Structures/Space_smugglers_club_house_-_Dark_Version/157_Pizza_Objet3_0.157_Pizza_Objet3_0
+[2021.11.15-16.38.42:830][672]LogStaticMesh: Building static mesh 158_Bouteille2_Objet3_0...
+[2021.11.15-16.38.42:831][672]LogStaticMesh: Built static mesh [0.00s] /Game/Models/Structures/Space_smugglers_club_house_-_Dark_Version/158_Bouteille2_Objet3_0.158_Bouteille2_Objet3_0
+[2021.11.15-16.38.42:836][672]LogStaticMesh: Building static mesh 159_Bouteille1_Objet3_0...
+[2021.11.15-16.38.42:836][672]LogStaticMesh: Built static mesh [0.00s] /Game/Models/Structures/Space_smugglers_club_house_-_Dark_Version/159_Bouteille1_Objet3_0.159_Bouteille1_Objet3_0
+[2021.11.15-16.38.42:841][672]LogStaticMesh: Building static mesh 160_Bouteille_Objet3_0...
+[2021.11.15-16.38.42:842][672]LogStaticMesh: Built static mesh [0.00s] /Game/Models/Structures/Space_smugglers_club_house_-_Dark_Version/160_Bouteille_Objet3_0.160_Bouteille_Objet3_0
+[2021.11.15-16.38.42:846][672]LogStaticMesh: Building static mesh 161_Minibar_Objet3_0...
+[2021.11.15-16.38.42:847][672]LogStaticMesh: Built static mesh [0.00s] /Game/Models/Structures/Space_smugglers_club_house_-_Dark_Version/161_Minibar_Objet3_0.161_Minibar_Objet3_0
+[2021.11.15-16.38.42:853][672]LogStaticMesh: Building static mesh 162_WetFloor_Objet3_0...
+[2021.11.15-16.38.42:854][672]LogStaticMesh: Built static mesh [0.00s] /Game/Models/Structures/Space_smugglers_club_house_-_Dark_Version/162_WetFloor_Objet3_0.162_WetFloor_Objet3_0
+[2021.11.15-16.38.42:859][672]LogStaticMesh: Building static mesh 163_Balais_Objet3_0...
+[2021.11.15-16.38.42:860][672]LogStaticMesh: Built static mesh [0.00s] /Game/Models/Structures/Space_smugglers_club_house_-_Dark_Version/163_Balais_Objet3_0.163_Balais_Objet3_0
+[2021.11.15-16.38.42:864][672]LogStaticMesh: Building static mesh 164_Robinet1_Objet3_0...
+[2021.11.15-16.38.42:865][672]LogStaticMesh: Built static mesh [0.00s] /Game/Models/Structures/Space_smugglers_club_house_-_Dark_Version/164_Robinet1_Objet3_0.164_Robinet1_Objet3_0
+[2021.11.15-16.38.42:870][672]LogStaticMesh: Building static mesh 165_Cuisine1_Objet3_0...
+[2021.11.15-16.38.42:871][672]LogStaticMesh: Built static mesh [0.00s] /Game/Models/Structures/Space_smugglers_club_house_-_Dark_Version/165_Cuisine1_Objet3_0.165_Cuisine1_Objet3_0
+[2021.11.15-16.38.42:876][672]LogStaticMesh: Building static mesh 166_PaquetCiga1_Objet2_0...
+[2021.11.15-16.38.42:876][672]LogStaticMesh: Built static mesh [0.00s] /Game/Models/Structures/Space_smugglers_club_house_-_Dark_Version/166_PaquetCiga1_Objet2_0.166_PaquetCiga1_Objet2_0
+[2021.11.15-16.38.42:882][672]LogStaticMesh: Building static mesh 167_Coffre_Serruredroite_Coffre_Texture_0...
+[2021.11.15-16.38.42:883][672]LogStaticMesh: Built static mesh [0.00s] /Game/Models/Structures/Space_smugglers_club_house_-_Dark_Version/167_Coffre_Serruredroite_Coffre_Texture_0.167_Coffre_Serruredroite_Coffre_Texture_0
+[2021.11.15-16.38.42:887][672]LogStaticMesh: Building static mesh 168_Coffre_Coffre_Coffre_Texture_0...
+[2021.11.15-16.38.42:891][672]LogStaticMesh: Built static mesh [0.00s] /Game/Models/Structures/Space_smugglers_club_house_-_Dark_Version/168_Coffre_Coffre_Coffre_Texture_0.168_Coffre_Coffre_Coffre_Texture_0
+[2021.11.15-16.38.42:897][672]LogStaticMesh: Building static mesh 169_Coffre_PorteHaut_Coffre_Texture_0...
+[2021.11.15-16.38.42:897][672]LogStaticMesh: Built static mesh [0.00s] /Game/Models/Structures/Space_smugglers_club_house_-_Dark_Version/169_Coffre_PorteHaut_Coffre_Texture_0.169_Coffre_PorteHaut_Coffre_Texture_0
+[2021.11.15-16.38.42:902][672]LogStaticMesh: Building static mesh 170_Coffre_PorteBas_Coffre_Texture_0...
+[2021.11.15-16.38.42:902][672]LogStaticMesh: Built static mesh [0.00s] /Game/Models/Structures/Space_smugglers_club_house_-_Dark_Version/170_Coffre_PorteBas_Coffre_Texture_0.170_Coffre_PorteBas_Coffre_Texture_0
+[2021.11.15-16.38.42:908][672]LogStaticMesh: Building static mesh 171_Coffre_SerrureGauche_Coffre_Texture_0...
+[2021.11.15-16.38.42:909][672]LogStaticMesh: Built static mesh [0.00s] /Game/Models/Structures/Space_smugglers_club_house_-_Dark_Version/171_Coffre_SerrureGauche_Coffre_Texture_0.171_Coffre_SerrureGauche_Coffre_Texture_0
+[2021.11.15-16.38.42:920][672]LogStaticMesh: Building static mesh 172_Tabouret4_Objet_0...
+[2021.11.15-16.38.42:922][672]LogStaticMesh: Built static mesh [0.00s] /Game/Models/Structures/Space_smugglers_club_house_-_Dark_Version/172_Tabouret4_Objet_0.172_Tabouret4_Objet_0
+[2021.11.15-16.38.42:929][672]LogStaticMesh: Building static mesh 173_Tabouret_Objet_0...
+[2021.11.15-16.38.42:930][672]LogStaticMesh: Built static mesh [0.00s] /Game/Models/Structures/Space_smugglers_club_house_-_Dark_Version/173_Tabouret_Objet_0.173_Tabouret_Objet_0
+[2021.11.15-16.38.42:935][672]LogStaticMesh: Building static mesh 174_Table_Objet_0...
+[2021.11.15-16.38.42:936][672]LogStaticMesh: Built static mesh [0.00s] /Game/Models/Structures/Space_smugglers_club_house_-_Dark_Version/174_Table_Objet_0.174_Table_Objet_0
+[2021.11.15-16.38.42:941][672]LogStaticMesh: Building static mesh 175_Pistolet1_Objet3_0...
+[2021.11.15-16.38.42:942][672]LogStaticMesh: Built static mesh [0.00s] /Game/Models/Structures/Space_smugglers_club_house_-_Dark_Version/175_Pistolet1_Objet3_0.175_Pistolet1_Objet3_0
+[2021.11.15-16.38.42:948][672]LogStaticMesh: Building static mesh 176_verre3_Objet2_0...
+[2021.11.15-16.38.42:948][672]LogStaticMesh: Built static mesh [0.00s] /Game/Models/Structures/Space_smugglers_club_house_-_Dark_Version/176_verre3_Objet2_0.176_verre3_Objet2_0
+[2021.11.15-16.38.42:952][672]LogStaticMesh: Building static mesh 177_verre2_Objet2_0...
+[2021.11.15-16.38.42:953][672]LogStaticMesh: Built static mesh [0.00s] /Game/Models/Structures/Space_smugglers_club_house_-_Dark_Version/177_verre2_Objet2_0.177_verre2_Objet2_0
+[2021.11.15-16.38.42:958][672]LogStaticMesh: Building static mesh 178_Tablette2_Objet2_0...
+[2021.11.15-16.38.42:959][672]LogStaticMesh: Built static mesh [0.00s] /Game/Models/Structures/Space_smugglers_club_house_-_Dark_Version/178_Tablette2_Objet2_0.178_Tablette2_Objet2_0
+[2021.11.15-16.38.42:963][672]LogStaticMesh: Building static mesh 179_Argent1_Objet3_0...
+[2021.11.15-16.38.42:964][672]LogStaticMesh: Built static mesh [0.00s] /Game/Models/Structures/Space_smugglers_club_house_-_Dark_Version/179_Argent1_Objet3_0.179_Argent1_Objet3_0
+[2021.11.15-16.38.42:969][672]LogStaticMesh: Building static mesh 180_Argent_Objet3_0...
+[2021.11.15-16.38.42:969][672]LogStaticMesh: Built static mesh [0.00s] /Game/Models/Structures/Space_smugglers_club_house_-_Dark_Version/180_Argent_Objet3_0.180_Argent_Objet3_0
+[2021.11.15-16.38.42:973][672]LogStaticMesh: Building static mesh 181_HoloSupport_mission_Objet_0...
+[2021.11.15-16.38.42:974][672]LogStaticMesh: Built static mesh [0.00s] /Game/Models/Structures/Space_smugglers_club_house_-_Dark_Version/181_HoloSupport_mission_Objet_0.181_HoloSupport_mission_Objet_0
+[2021.11.15-16.38.42:979][672]LogStaticMesh: Building static mesh 182_MissionHolo1_Objet3_0...
+[2021.11.15-16.38.42:979][672]LogStaticMesh: Built static mesh [0.00s] /Game/Models/Structures/Space_smugglers_club_house_-_Dark_Version/182_MissionHolo1_Objet3_0.182_MissionHolo1_Objet3_0
+[2021.11.15-16.38.42:983][672]LogStaticMesh: Building static mesh 183_MissionHolo_Objet3_0...
+[2021.11.15-16.38.42:983][672]LogStaticMesh: Built static mesh [0.00s] /Game/Models/Structures/Space_smugglers_club_house_-_Dark_Version/183_MissionHolo_Objet3_0.183_MissionHolo_Objet3_0
+[2021.11.15-16.38.42:988][672]LogStaticMesh: Building static mesh 184_Bouteille3_Objet3_0...
+[2021.11.15-16.38.42:988][672]LogStaticMesh: Built static mesh [0.00s] /Game/Models/Structures/Space_smugglers_club_house_-_Dark_Version/184_Bouteille3_Objet3_0.184_Bouteille3_Objet3_0
+[2021.11.15-16.38.42:994][672]LogStaticMesh: Building static mesh 185_Bouteille5_Objet3_0...
+[2021.11.15-16.38.42:994][672]LogStaticMesh: Built static mesh [0.00s] /Game/Models/Structures/Space_smugglers_club_house_-_Dark_Version/185_Bouteille5_Objet3_0.185_Bouteille5_Objet3_0
+[2021.11.15-16.38.42:999][672]LogStaticMesh: Building static mesh 186_PlateauRepas1_Objet3_0...
+[2021.11.15-16.38.43:000][672]LogStaticMesh: Built static mesh [0.00s] /Game/Models/Structures/Space_smugglers_club_house_-_Dark_Version/186_PlateauRepas1_Objet3_0.186_PlateauRepas1_Objet3_0
+[2021.11.15-16.38.43:004][672]LogStaticMesh: Building static mesh 187_Tabouret1_Objet_0...
+[2021.11.15-16.38.43:006][672]LogStaticMesh: Built static mesh [0.00s] /Game/Models/Structures/Space_smugglers_club_house_-_Dark_Version/187_Tabouret1_Objet_0.187_Tabouret1_Objet_0
+[2021.11.15-16.38.43:011][672]LogStaticMesh: Building static mesh 188_Tabouret2_Objet_0...
+[2021.11.15-16.38.43:013][672]LogStaticMesh: Built static mesh [0.00s] /Game/Models/Structures/Space_smugglers_club_house_-_Dark_Version/188_Tabouret2_Objet_0.188_Tabouret2_Objet_0
+[2021.11.15-16.38.43:018][672]LogStaticMesh: Building static mesh 189_Tabouret3_Objet_0...
+[2021.11.15-16.38.43:020][672]LogStaticMesh: Built static mesh [0.00s] /Game/Models/Structures/Space_smugglers_club_house_-_Dark_Version/189_Tabouret3_Objet_0.189_Tabouret3_Objet_0
+[2021.11.15-16.38.43:025][672]LogStaticMesh: Building static mesh 190_Bouteille4_Objet3_0...
+[2021.11.15-16.38.43:026][672]LogStaticMesh: Built static mesh [0.00s] /Game/Models/Structures/Space_smugglers_club_house_-_Dark_Version/190_Bouteille4_Objet3_0.190_Bouteille4_Objet3_0
+[2021.11.15-16.38.43:030][672]LogStaticMesh: Building static mesh 191_Tuyau4_Objet2_0...
+[2021.11.15-16.38.43:032][672]LogStaticMesh: Built static mesh [0.00s] /Game/Models/Structures/Space_smugglers_club_house_-_Dark_Version/191_Tuyau4_Objet2_0.191_Tuyau4_Objet2_0
+[2021.11.15-16.38.43:038][672]LogStaticMesh: Building static mesh 192_Tuyau5_Objet2_0...
+[2021.11.15-16.38.43:040][672]LogStaticMesh: Built static mesh [0.00s] /Game/Models/Structures/Space_smugglers_club_house_-_Dark_Version/192_Tuyau5_Objet2_0.192_Tuyau5_Objet2_0
+[2021.11.15-16.38.43:046][672]LogStaticMesh: Building static mesh 193_Tuyau6_Objet2_0...
+[2021.11.15-16.38.43:047][672]LogStaticMesh: Built static mesh [0.00s] /Game/Models/Structures/Space_smugglers_club_house_-_Dark_Version/193_Tuyau6_Objet2_0.193_Tuyau6_Objet2_0
+[2021.11.15-16.38.43:054][672]LogStaticMesh: Building static mesh 194_Robot_Robot1_0...
+[2021.11.15-16.38.43:057][672]LogStaticMesh: Built static mesh [0.00s] /Game/Models/Structures/Space_smugglers_club_house_-_Dark_Version/194_Robot_Robot1_0.194_Robot_Robot1_0
+[2021.11.15-16.38.43:063][672]LogStaticMesh: Building static mesh 195_Bras_Robot1_0...
+[2021.11.15-16.38.43:064][672]LogStaticMesh: Built static mesh [0.00s] /Game/Models/Structures/Space_smugglers_club_house_-_Dark_Version/195_Bras_Robot1_0.195_Bras_Robot1_0
+[2021.11.15-16.38.43:069][672]LogStaticMesh: Building static mesh 196_Fumer_Objet3_0...
+[2021.11.15-16.38.43:070][672]LogStaticMesh: Built static mesh [0.00s] /Game/Models/Structures/Space_smugglers_club_house_-_Dark_Version/196_Fumer_Objet3_0.196_Fumer_Objet3_0
+[2021.11.15-16.38.43:093][672]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Dreamtyt\Desktop\Game Design\Structures/textures/CoffreTexture_baseColor.png)
+[2021.11.15-16.38.43:246][672]LogTexture: Display: Building textures: CoffreTexture_baseColor (AutoDXT, 2048X2048)
+[2021.11.15-16.38.45:759][672]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Dreamtyt\Desktop\Game Design\Structures/textures/CoffreTexture_metallicRoughness.png)
+[2021.11.15-16.38.46:033][672]LogTexture: Display: Building textures: CoffreTexture_metallicRoughness (AutoDXT, 2048X2048)
+[2021.11.15-16.38.48:298][672]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Dreamtyt\Desktop\Game Design\Structures/textures/CoffreTexture_normal.png)
+[2021.11.15-16.38.48:367][672]LogTexture: Display: Building textures: CoffreTexture_normal (BC5, 2048X2048)
+[2021.11.15-16.38.48:661][672]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Dreamtyt\Desktop\Game Design\Structures/textures/Objet2_baseColor.png)
+[2021.11.15-16.38.48:710][672]LogTexture: Display: Building textures: Objet2_baseColor (AutoDXT, 1024X1024)
+[2021.11.15-16.38.49:043][672]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Dreamtyt\Desktop\Game Design\Structures/textures/Objet2_emissive.png)
+[2021.11.15-16.38.49:081][672]LogTexture: Display: Building textures: Objet2_emissive (AutoDXT, 1024X1024)
+[2021.11.15-16.38.49:286][672]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Dreamtyt\Desktop\Game Design\Structures/textures/Objet2_metallicRoughness.png)
+[2021.11.15-16.38.49:338][672]LogTexture: Display: Building textures: Objet2_metallicRoughness (AutoDXT, 1024X1024)
+[2021.11.15-16.38.49:723][672]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Dreamtyt\Desktop\Game Design\Structures/textures/Objet2_normal.png)
+[2021.11.15-16.38.49:788][672]LogTexture: Display: Building textures: Objet2_normal (BC5, 1024X1024)
+[2021.11.15-16.38.49:873][672]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Dreamtyt\Desktop\Game Design\Structures/textures/Objet3_baseColor.png)
+[2021.11.15-16.38.49:937][672]LogTexture: Display: Building textures: Objet3_baseColor (AutoDXT, 1024X1024)
+[2021.11.15-16.38.50:711][672]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Dreamtyt\Desktop\Game Design\Structures/textures/Objet3_metallicRoughness.png)
+[2021.11.15-16.38.50:762][672]LogTexture: Display: Building textures: Objet3_metallicRoughness (AutoDXT, 1024X1024)
+[2021.11.15-16.38.51:170][672]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 68
+[2021.11.15-16.38.51:180][672]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Dreamtyt\Desktop\Game Design\Structures/textures/Objet3_normal.png)
+[2021.11.15-16.38.51:239][672]LogTexture: Display: Building textures: Objet3_normal (BC5, 1024X1024)
+[2021.11.15-16.38.51:318][672]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Dreamtyt\Desktop\Game Design\Structures/textures/Objet_baseColor.png)
+[2021.11.15-16.38.51:362][672]LogTexture: Display: Building textures: Objet_baseColor (AutoDXT, 1024X1024)
+[2021.11.15-16.38.51:879][672]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 58
+[2021.11.15-16.38.51:903][672]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Dreamtyt\Desktop\Game Design\Structures/textures/Objet_emissive.png)
+[2021.11.15-16.38.51:928][672]LogTexture: Display: Building textures: Objet_emissive (AutoDXT, 1024X1024)
+[2021.11.15-16.38.52:046][672]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Dreamtyt\Desktop\Game Design\Structures/textures/Objet_metallicRoughness.png)
+[2021.11.15-16.38.52:099][672]LogTexture: Display: Building textures: Objet_metallicRoughness (AutoDXT, 1024X1024)
+[2021.11.15-16.38.52:573][672]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Dreamtyt\Desktop\Game Design\Structures/textures/Objet_normal.png)
+[2021.11.15-16.38.52:640][672]LogTexture: Display: Building textures: Objet_normal (BC5, 1024X1024)
+[2021.11.15-16.38.52:722][672]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Dreamtyt\Desktop\Game Design\Structures/textures/Robot1_baseColor.png)
+[2021.11.15-16.38.52:738][672]LogTexture: Display: Building textures: Robot1_baseColor (AutoDXT, 512X512)
+[2021.11.15-16.38.52:846][672]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Dreamtyt\Desktop\Game Design\Structures/textures/Robot1_emissive.png)
+[2021.11.15-16.38.52:854][672]LogTexture: Display: Building textures: Robot1_emissive (AutoDXT, 512X512)
+[2021.11.15-16.38.52:871][672]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Dreamtyt\Desktop\Game Design\Structures/textures/Robot1_metallicRoughness.png)
+[2021.11.15-16.38.52:886][672]LogTexture: Display: Building textures: Robot1_metallicRoughness (AutoDXT, 512X512)
+[2021.11.15-16.38.52:982][672]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Dreamtyt\Desktop\Game Design\Structures/textures/Robot1_normal.png)
+[2021.11.15-16.38.53:006][672]LogTexture: Display: Building textures: Robot1_normal (BC5, 512X512)
+[2021.11.15-16.38.53:088][672]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Dreamtyt\Desktop\Game Design\Structures/textures/Room1_baseColor.jpeg)
+[2021.11.15-16.38.53:106][672]LogTexture: Display: Building textures: Room1_baseColor (AutoDXT, 1024X1024)
+[2021.11.15-16.38.53:335][672]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Dreamtyt\Desktop\Game Design\Structures/textures/Room1_metallicRoughness.png)
+[2021.11.15-16.38.53:369][672]LogTexture: Display: Building textures: Room1_metallicRoughness (AutoDXT, 1024X1024)
+[2021.11.15-16.38.53:678][672]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Dreamtyt\Desktop\Game Design\Structures/textures/Room1_normal.png)
+[2021.11.15-16.38.53:734][672]LogTexture: Display: Building textures: Room1_normal (BC5, 1024X1024)
+[2021.11.15-16.38.58:372][711]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 48
+[2021.11.15-16.39.00:357][732]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 38
+[2021.11.15-16.39.01:977][748]LogActorFactory: Actor Factory created 13_Tablette3_Objet2_0
+[2021.11.15-16.39.02:472][754]LogActorFactory: Actor Factory created 13_Tablette3_Objet2_0
+[2021.11.15-16.39.02:612][755]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 28
+[2021.11.15-16.39.03:948][780]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 20
+[2021.11.15-16.39.10:016][944]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 14
+[2021.11.15-16.39.10:313][950]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 10
+[2021.11.15-16.39.10:775][959]Cmd: DELETE
+[2021.11.15-16.39.10:776][959]Cmd: ACTOR DELETE
+[2021.11.15-16.39.10:800][959]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.11.15-16.39.10:846][959]LogUObjectHash: Compacting FUObjectHashTables data took   3.44ms
+[2021.11.15-16.39.10:853][959]LogEditorActor: Deleted 1 Actors (0.077 secs)
+[2021.11.15-16.39.11:032][964]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 7
+[2021.11.15-16.39.11:970][980]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 5
+[2021.11.15-16.39.12:772][989]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 3
+[2021.11.15-16.39.13:469][997]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2021.11.15-16.39.13:700][  0]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2021.11.15-16.39.27:426][297]LogActorFactory: Actor Factory created 121_BoiteCarton2_Objet3_0
+[2021.11.15-16.39.28:217][314]LogActorFactory: Actor Factory created 121_BoiteCarton2_Objet3_0
+[2021.11.15-16.39.30:484][363]Cmd: DELETE
+[2021.11.15-16.39.30:485][363]Cmd: ACTOR DELETE
+[2021.11.15-16.39.30:493][363]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.11.15-16.39.30:532][363]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2021.11.15-16.39.30:536][363]LogEditorActor: Deleted 1 Actors (0.051 secs)
+[2021.11.15-16.39.38:232][471]LogActorFactory: Actor Factory created 121_BoiteCarton2_Objet3_0
+[2021.11.15-16.39.38:647][478]LogActorFactory: Actor Factory created 121_BoiteCarton2_Objet3_0
+[2021.11.15-16.39.51:103][743]Cmd: DELETE
+[2021.11.15-16.39.51:103][743]Cmd: ACTOR DELETE
+[2021.11.15-16.39.51:112][743]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.11.15-16.39.51:152][743]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2021.11.15-16.39.51:154][743]LogEditorActor: Deleted 1 Actors (0.052 secs)
+[2021.11.15-16.39.52:452][767]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Models/Structures/Space_smugglers_club_house_-_Dark_Version/121_BoiteCarton2_Objet3_0.121_BoiteCarton2_Objet3_0
+[2021.11.15-16.39.52:951][767]LogRenderer: Reallocating scene render targets to support 1432x908 Format 10 NumSamples 1 (Frame:1).
+[2021.11.15-16.39.59:550][884]LogSlate: Window '121_BoiteCarton2_Objet3_0' being destroyed
+[2021.11.15-16.39.59:569][884]LogSlate: Window '121_BoiteCarton2_Objet3_0' being destroyed
+[2021.11.15-16.39.59:573][884]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2021.11.15-16.39.59:573][884]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.15-16.40.01:674][922]LogActorFactory: Actor Factory created 125_Etagere_Objet3_0
+[2021.11.15-16.40.02:680][949]LogActorFactory: Actor Factory created 125_Etagere_Objet3_0
+[2021.11.15-16.40.12:259][181]Cmd: DELETE
+[2021.11.15-16.40.12:259][181]Cmd: ACTOR DELETE
+[2021.11.15-16.40.12:266][181]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.11.15-16.40.12:338][181]LogUObjectHash: Compacting FUObjectHashTables data took   3.48ms
+[2021.11.15-16.40.12:342][181]LogEditorActor: Deleted 1 Actors (0.083 secs)
+[2021.11.15-16.40.15:682][247]LogActorFactory: Actor Factory created 143_Argent3_Objet3_0
+[2021.11.15-16.40.16:135][257]LogActorFactory: Actor Factory created 143_Argent3_Objet3_0
+[2021.11.15-16.40.17:697][294]Cmd: DELETE
+[2021.11.15-16.40.17:697][294]Cmd: ACTOR DELETE
+[2021.11.15-16.40.17:704][294]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.11.15-16.40.17:772][294]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2021.11.15-16.40.17:773][294]LogEditorActor: Deleted 1 Actors (0.076 secs)
+[2021.11.15-16.40.50:753][750]LogActorFactory: Actor Factory created 22_Ecran5_Objet2_0
+[2021.11.15-16.40.51:417][766]LogActorFactory: Actor Factory created 22_Ecran5_Objet2_0
+[2021.11.15-16.40.59:114][ 25]Cmd: DELETE
+[2021.11.15-16.40.59:114][ 25]Cmd: ACTOR DELETE
+[2021.11.15-16.40.59:124][ 25]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.11.15-16.40.59:161][ 25]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2021.11.15-16.40.59:164][ 25]LogEditorActor: Deleted 1 Actors (0.050 secs)
+[2021.11.15-16.41.00:547][ 54]LogRHI: Error: Present Fail Count 1
+[2021.11.15-16.41.00:547][ 54]LogRHI: Error: SyncInterval 0
+[2021.11.15-16.41.00:547][ 54]LogRHI: Error: SwapChainDesc.BufferDesc.Width 317
+[2021.11.15-16.41.00:547][ 54]LogRHI: Error: SwapChainDesc.BufferDesc.Height 68
+[2021.11.15-16.41.00:547][ 54]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Numerator 0
+[2021.11.15-16.41.00:547][ 54]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Denominator 0
+[2021.11.15-16.41.00:547][ 54]LogRHI: Error: SwapChainDesc.BufferDesc.Format 24
+[2021.11.15-16.41.00:547][ 54]LogRHI: Error: SwapChainDesc.BufferDesc.ScanlineOrdering 0
+[2021.11.15-16.41.00:547][ 54]LogRHI: Error: SwapChainDesc.BufferDesc.Scaling 0
+[2021.11.15-16.41.00:547][ 54]LogRHI: Error: SwapChainDesc.SampleDesc.Count 1
+[2021.11.15-16.41.00:547][ 54]LogRHI: Error: SwapChainDesc.SampleDesc.Quality 0
+[2021.11.15-16.41.00:547][ 54]LogRHI: Error: SwapChainDesc.BufferUsage 48
+[2021.11.15-16.41.00:547][ 54]LogRHI: Error: SwapChainDesc.BufferCount 2
+[2021.11.15-16.41.00:547][ 54]LogRHI: Error: SwapChainDesc.OutputWindow 0000000000110864
+[2021.11.15-16.41.00:547][ 54]LogRHI: Error: SwapChainDesc.Windowed true
+[2021.11.15-16.41.00:547][ 54]LogRHI: Error: SwapChainDesc.SwapEffect 4
+[2021.11.15-16.41.00:547][ 54]LogRHI: Error: SwapChainDesc.Flags 2050
+[2021.11.15-16.41.00:547][ 54]LogD3D11RHI: Error: Result failed 
+ at D:/Build/++UE4/Sync/Engine/Source/Runtime/Windows/D3D11RHI/Private/D3D11Query.cpp:356 
+ with error DXGI_ERROR_DEVICE_REMOVED DXGI_ERROR_DRIVER_INTERNAL_ERROR
+[2021.11.15-16.41.00:547][ 54]LogD3D11RHI: [Aftermath] GDynamicRHI=000001C32DDB0300, GDX11NVAfterMathEnabled=0, Result=0xFFFFFFFF, bDeviceActive=0
+[2021.11.15-16.41.00:547][ 54]LogWindows: Windows GetLastError: The operation completed successfully. (0)
+[2021.11.15-16.41.04:375][ 54]LogWindows: FPlatformMisc::RequestExit(0)
+[2021.11.15-16.41.04:375][ 54]LogCore: Engine exit requested (reason: Win RequestExit)
+[2021.11.15-16.41.04:375][ 54]LogWindows: FPlatformMisc::RequestExit(1)
+[2021.11.15-16.41.04:375][ 54]LogCore: Engine exit requested (reason: Win RequestExit; note: exit was already requested)
+[2021.11.15-16.41.04:383][ 54]Log file closed, 11/15/21 18:41:04
