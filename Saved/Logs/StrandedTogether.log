@@ -3067,3 +3067,8 @@ Purging the undo buffer...
 [2022.01.10-13.06.45:615][265]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
 [2022.01.10-13.06.45:623][265]LogModuleManager: Shutting down and abandoning module PakFile (4)
 [2022.01.10-13.06.45:623][265]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2022.01.10-13.06.45:643][265]LogContentStreaming: Display: There are 1 unreleased StreamingManagers
+[2022.01.10-13.06.45:688][265]LogD3D11RHI: Shutdown
+[2022.01.10-13.06.45:688][265]LogD3D11RHI: CleanupD3DDevice
+[2022.01.10-13.06.46:128][265]LogExit: Exiting.
+[2022.01.10-13.06.46:197][265]Log file closed, 01/10/22 15:06:46
