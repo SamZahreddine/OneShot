@@ -1,0 +1,4 @@
+Extract to Plugins folder of your Engine installation directory, e.g.
+C:\UE_4.26\Engine\Plugins\Marketplace\LoadingScreenSystemPlugin
+
+Otherwise, if placed in your project's "Plugins" directory, might fail in a packaged build!

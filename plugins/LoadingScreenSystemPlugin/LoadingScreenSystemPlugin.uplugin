@@ -1,0 +1,26 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.2",
+	"FriendlyName": "Loading Screen System Plugin",
+	"Description": "BP Function Library for the Loading Screen System (available on the Marketplace). For more information, visit www.indieBrothers.com",
+	"Category": "Loading Screen",
+	"CreatedBy": "Cpt.Trips",
+	"CreatedByURL": "https://indiebrothers.com",
+	"DocsURL": "https://indiebrothers.com",
+	"MarketplaceURL": "https://indiebrothers.com",
+	"SupportURL": "https://forums.unrealengine.com/unreal-engine/marketplace/1427997-loading-screen-system-support-thread",
+	"EngineVersion": "4.26.0",
+	"CanContainContent": false,
+	"Installed": true,
+	"Modules": [
+		{
+			"Name": "LoadingScreenSystemPlugin",
+			"Type": "Runtime",
+			"LoadingPhase": "PreDefault",
+			"WhitelistPlatforms": [
+				"Win64"
+			]
+		}
+	]
+}
